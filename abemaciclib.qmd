@@ -1,0 +1,504 @@
+---
+title: "abemaciclib"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    theme: cosmo
+    sidebar: true
+---
+
+
+
+
+## 藥理分類
+- 抗腫瘤藥物，cyclin-dependent kinase inhibitor
+
+## 劑量
+
+### 成人
+
+#### 成人劑量
+- 劑量指引
+  - 臨床考量：
+    - Abemaciclib 具有中度至高度致吐風險；可能需要止吐藥以預防噁心與嘔吐。
+    - 停經前/圍停經期女性，或接受 abemaciclib 合併 aromatase inhibitor 或 fulvestrant 的男性，依現行臨床實務標準通常也應接受 gonadotropin-releasing hormone / luteinizing hormone-releasing hormone agonist。
+    - 若為仿單外用途，其他細節應依治療方案(protocol)或機構指引。
+
+- 早期乳癌，高復發風險，荷爾蒙受體陽性，HER2 陰性，淋巴結陽性，術後輔助治療
+  - 註：
+    - 高復發風險定義為：
+      - 腋下淋巴結陽性 ≥4 顆；或
+      - 1 至 3 顆陽性淋巴結，且另有下列至少 1 項：
+        - grade 3 disease
+        - 腫瘤大小 ≥5 cm
+        - Ki-67 score ≥20%
+  - 口服：
+    - 150 mg 每日 2 次
+    - 與 endocrine therapy 併用（例如 aromatase inhibitor、tamoxifen）
+    - endocrine therapy 總療程通常 ≥5 年
+    - abemaciclib 持續至完成 2 年治療，或疾病復發，或無法接受之毒性為止
+
+- 晚期或轉移性乳癌，荷爾蒙受體陽性，HER2 陰性
+  - 初始 endocrine-based therapy：
+    - 口服 150 mg 每日 2 次
+    - 與 aromatase inhibitor 併用
+    - 持續至疾病進展或無法接受之毒性
+  - 後線治療：
+    - 先前 endocrine therapy 後疾病進展，且未曾接受 CDK 4/6 inhibitor：
+      - 口服 150 mg 每日 2 次
+      - 與 fulvestrant 併用
+      - 持續至疾病進展或無法接受之毒性
+    - 先前 endocrine therapy 後疾病進展，未曾接受 CDK4/6 inhibitor，且在轉移期已接受過化學治療：
+      - 單藥口服 200 mg 每日 2 次
+      - 持續至疾病進展或無法接受之毒性
+
+- 晚期或轉移性乳癌，荷爾蒙受體陽性，HER2 陽性
+  - 仿單外使用：
+    - 口服 150 mg 每日 2 次
+    - 與 fulvestrant 及 trastuzumab 併用
+    - 持續至疾病進展或無法接受之毒性
+
+- 晚期或轉移性、復發性子宮內膜癌，estrogen receptor 陽性
+  - 仿單外使用：
+    - 口服 150 mg 每日 2 次
+    - 與 letrozole 併用
+    - 持續至疾病進展或無法接受之毒性
+
+### 腎功能不全
+
+#### 成人
+- 腎劑量建議係依目前最佳可得證據與臨床專業判斷。
+- 腎功能改變：
+  - 口服：
+    - 任一程度腎功能不全通常無須調整劑量
+    - 理由：尿中排泄有限
+- 間歇性血液透析（每週 3 次）：
+  - 因高度蛋白結合且分佈體積大，預期不易被顯著透析清除
+  - 口服：
+    - 無須補充劑量
+    - 無須調整劑量
+- 腹膜透析：
+  - 預期不易被顯著透析清除
+  - 口服：
+    - 無須調整劑量
+- CRRT：
+  - 口服：
+    - 無須調整劑量
+- PIRRT（例如 sustained low-efficiency diafiltration）：
+  - 口服：
+    - 無須調整劑量
+
+### 肝功能不全
+
+#### 成人
+- 治療起始時之肝功能不全：
+  - 輕度（Child-Pugh class A）：
+    - 無須調整劑量
+  - 中度（Child-Pugh class B）：
+    - 無須調整劑量
+  - 重度（Child-Pugh class C）：
+    - 口服：
+      - 給藥頻率改為每日 1 次
+
+### 毒性調整
+
+#### 成人
+- 劑量層級
+  - 與 fulvestrant、tamoxifen 或 aromatase inhibitor 併用時：
+    - 建議起始劑量：150 mg 每日 2 次
+    - 第一次降劑量：100 mg 每日 2 次
+    - 第二次降劑量：50 mg 每日 2 次
+  - 單藥治療時：
+    - 建議起始劑量：200 mg 每日 2 次
+    - 第一次降劑量：150 mg 每日 2 次
+    - 第二次降劑量：100 mg 每日 2 次
+    - 第三次降劑量：50 mg 每日 2 次
+- 若仍無法耐受 50 mg 每日 2 次，應停用 abemaciclib。
+
+- 血液學毒性
+  - 發燒：
+    - 病人應立即向醫療人員通報任何發燒情形
+  - Grade 1 或 2：
+    - 無須調整劑量
+  - Grade 3：
+    - 暫停 abemaciclib，直到毒性恢復至 ≤ grade 2
+    - 此情況下通常無須降劑量
+  - 反覆 grade 3 或 grade 4：
+    - 暫停 abemaciclib，直到毒性恢復至 ≤ grade 2
+    - 恢復後以下一層劑量重新開始
+  - 若需使用血球生長因子：
+    - 最後一劑生長因子後至少暫停 48 小時
+    - 並待毒性恢復至 ≤ grade 2
+    - 之後以下一層劑量恢復
+    - 若先前已因同一毒性降劑量，則依臨床情況處理
+
+- 腸胃道毒性：腹瀉
+  - 一出現稀便：
+    - 立即開始止瀉治療
+    - 增加口服水分
+    - 通知醫療人員
+  - Grade 1：
+    - 無須調整劑量
+  - Grade 2：
+    - 若 24 小時內未恢復至 ≤ grade 1，則暫停 abemaciclib 至恢復
+    - 此情況下通常無須降劑量
+  - 持續或復發的 grade 2，且在最大支持治療下仍於相同劑量再發：
+    - 暫停 abemaciclib 至恢復為 ≤ grade 1
+    - 之後以下一層劑量恢復
+  - Grade 3 或 4，或需住院：
+    - 暫停 abemaciclib 至恢復為 ≤ grade 1
+    - 之後以下一層劑量恢復
+
+- 肺部毒性：間質性肺病 / 肺炎
+  - Grade 1 或 2：
+    - 無須調整劑量
+  - 持續或復發的 grade 2，且在最大支持治療下 7 天內未恢復至 baseline 或 grade 1：
+    - 暫停 abemaciclib 至恢復至 baseline 或 ≤ grade 1
+    - 之後以下一層劑量恢復
+  - Grade 3 或 4：
+    - 停藥
+
+- 靜脈血栓栓塞事件
+  - 早期乳癌：任何 grade
+    - 暫停 abemaciclib
+    - 依臨床需要處理
+    - 臨床穩定後可恢復
+  - 晚期或轉移性乳癌：Grade 1 或 2
+    - 無須調整劑量
+  - 晚期或轉移性乳癌：Grade 3 或 4
+    - 暫停 abemaciclib
+    - 依臨床需要處理
+    - 臨床穩定後可恢復
+
+- 其他毒性
+  - 不含腹瀉、血液學毒性、肝毒性、間質性肺病/肺炎、靜脈血栓事件
+  - Grade 1 或 2：
+    - 無須調整劑量
+  - 持續或復發的 grade 2，且在最大支持治療下 7 天內未恢復至 baseline 或 grade 1：
+    - 暫停 abemaciclib 至恢復至 baseline 或 ≤ grade 1
+    - 之後以下一層劑量恢復
+  - Grade 3 或 4：
+    - 暫停 abemaciclib 至恢復至 baseline 或 ≤ grade 1
+    - 之後以下一層劑量恢復
+
+### 老年人
+- 參照成人劑量。
+
+## 不良反應
+
+### 不良反應
+- 下列不良反應與發生率整理自處方資訊與臨床試驗資料。
+- 常見或重要不良反應包括：
+  - 腹瀉
+  - 感染
+  - 噁心
+  - 疲倦
+  - 嘔吐
+  - 口腔炎
+  - 食慾下降
+  - 貧血
+  - 嗜中性球減少
+  - 血小板減少
+  - 肝功能指數上升
+  - 靜脈血栓栓塞
+  - 間質性肺病 / 肺炎
+- 具體發生率與等級分布依適應症、合併藥物與治療情境而異。
+
+## 禁忌症與警語
+
+### 禁忌症
+- 製造商標示無明確禁忌症。
+
+### 警語 / 注意事項
+- 與不良反應相關之重要警訊
+  - 骨髓抑制：
+    - 可發生嗜中性球減少，包括發燒性嗜中性球減少與致命性嗜中性球敗血症。
+    - 已觀察到 grade 3 以上嗜中性球減少。
+    - 首次發生 ≥ grade 3 嗜中性球減少的中位時間約為 29 至 33 天。
+    - ≥ grade 3 嗜中性球減少持續時間中位數約 11 至 16 天。
+  - 腸胃道毒性：
+    - 多數病人可能出現嚴重腹瀉，並可能合併脫水與感染。
+    - 已見 grade 3 腹瀉。
+    - 多數病人在治療第一個月內出現腹瀉。
+    - 第一次腹瀉事件的中位發生時間約 6 至 8 天。
+    - grade 2 腹瀉持續中位數約 6 至 11 天。
+    - grade 3 腹瀉持續中位數約 5 至 8 天。
+    - 應在首次稀便時立即開始止瀉藥（如 loperamide）並增加口服水分。
+  - 肝毒性：
+    - 可見 ALT、AST 升高至 grade 3 或以上。
+    - ≥ grade 3 ALT 上升中位發生時間約 57 至 87 天。
+    - ALT 恢復至 < grade 3 的中位時間約 13 至 14 天。
+    - ≥ grade 3 AST 上升中位發生時間約 71 至 185 天。
+    - AST 恢復中位時間約 11 至 15 天。
+  - 肺部毒性：
+    - 可發生嚴重、危及生命或致命之 ILD / pneumonitis。
+    - 症狀可包含：
+      - hypoxia
+      - cough
+      - dyspnea
+      - 影像學之 interstitial infiltrates
+    - 發生時應排除感染、腫瘤與其他原因。
+  - 血栓栓塞：
+    - 可發生靜脈血栓栓塞事件，包括：
+      - deep vein thrombosis
+      - pulmonary embolism
+      - pelvic venous thrombosis
+      - cerebral venous sinus thrombosis
+      - subclavian vein thrombosis
+      - axillary vein thrombosis
+      - inferior vena cava thrombosis
+    - 部分事件可致命。
+    - 可能需暫停治療。
+    - 在有既往 VTE 病史且屬早期乳癌的病人中，abemaciclib 尚未充分研究。
+- 疾病相關考量
+  - 感染：
+    - 使用前若有活動性感染應審慎處理。
+  - 肝功能異常：
+    - 重度肝功能不全需調整給藥頻率。
+- 其他
+  - 懷孕可能造成胎兒傷害。
+  - 有生育可能者治療前應確認懷孕狀態。
+
+
+## 給藥方式
+
+### 成人
+
+#### 給藥
+- 口服：
+  - 每日大致固定時間服用。
+  - 可隨食物或空腹服用。
+  - 錠劑需整粒吞服，不可壓碎、咀嚼或剖半。
+  - 若錠劑破裂、龜裂或不完整，勿服用。
+- Abemaciclib 具有中度至高度致吐風險；可能需要止吐藥以預防噁心與嘔吐。
+
+
+## 儲存 / 安定性
+- 依原廠建議儲存。
+- 應置於適當條件下保存，並避免不當暴露。
+- 實際細節應參照個別產品仿單。
+
+## 適應症
+
+### 核准適應症
+- 晚期或轉移性乳癌
+  - 與 aromatase inhibitor 併用，作為成人 HR-positive、HER2-negative 晚期或轉移性乳癌之初始 endocrine-based therapy。
+  - 與 fulvestrant 併用，用於成人 HR-positive、HER2-negative 晚期或轉移性乳癌，且在 endocrine therapy 後疾病進展者。
+  - 單藥治療，用於成人 HR-positive、HER2-negative 晚期或轉移性乳癌，且於 endocrine therapy 後及轉移期化學治療後仍疾病進展者。
+- 早期乳癌，高復發風險，荷爾蒙受體陽性，HER2 陰性，淋巴結陽性，術後輔助治療
+  - 與 endocrine therapy（例如 aromatase inhibitor 或 tamoxifen）併用
+  - 用於成人 HR-positive、HER2-negative、node-positive 早期乳癌，且屬高復發風險者之輔助治療
+
+### 仿單外用途：成人
+- 晚期或轉移性乳癌，荷爾蒙受體陽性，HER2 陽性
+- 晚期或轉移性、復發性子宮內膜癌，estrogen receptor 陽性
+
+
+## 交互作用
+
+### 代謝 / 運輸影響
+- 為下列之 substrate：
+  - BCRP
+  - CYP3A4（major）
+  - P-glycoprotein（minor）
+- 註：
+  - Major / Minor 之分類係依具臨床意義之交互作用潛力判定。
+- 具下列抑制作用：
+  - MATE1/2-K
+  - OCT2
+
+## 生殖、懷孕、哺乳
+
+### 生殖考量
+- 對可能懷孕者，治療前應確認懷孕狀態。
+- 有懷孕可能之病人在治療期間及最後一劑後 3 週內應採取有效避孕。
+
+### 懷孕考量
+- 依其作用機轉與動物生殖研究資料，子宮內暴露於 abemaciclib 可能對胎兒造成傷害。
+
+### 哺乳考量
+- 尚不清楚 abemaciclib 是否會分泌至乳汁中。
+- 因可能對哺乳嬰兒造成嚴重不良事件，製造商不建議於治療期間及最後一劑後 3 週內哺乳。
+
+## 飲食考量
+- 避免葡萄柚及葡萄柚製品。
+- 高脂高熱量餐（800 至 1,000 kcal，其中 500 至 600 kcal 來自脂肪）會增加藥物暴露量。
+
+## 監測
+
+### 監測參數
+- CBC with differential 與 platelet：
+  - baseline
+  - 前 2 個月每 2 週一次
+  - 接下來 2 個月每月一次
+  - 其後依臨床需要
+- ALT、AST、serum bilirubin：
+  - baseline
+  - 前 2 個月每 2 週一次
+  - 接下來 2 個月每月一次
+  - 其後依臨床需要
+- 有懷孕可能者：
+  - 治療前確認懷孕狀態
+- 臨床症狀監測：
+  - 腹瀉 / 脫水
+  - 間質性肺病 / 肺炎
+  - 靜脈血栓
+  - 肺栓塞
+- 監測服藥遵從性。
+
+- HBV 相關考量
+  - ASCO 對開始全身性抗癌治療前之 HBV 篩檢與管理建議：
+    - HBsAg
+    - anti-HBc（total Ig 或 IgG）
+    - anti-HBs
+  - 不應為了等待篩檢結果而延遲治療。
+  - 若偵測到慢性或既往 HBV 感染，應進一步做風險評估，以決定：
+    - 是否需抗病毒預防
+    - 監測策略
+    - 後續追蹤
+
+- 心血管監測
+  - 治療前應做完整評估，包括：
+    - 病史
+    - 身體檢查
+    - 心血管危險因子篩檢，例如：
+      - hypertension
+      - diabetes
+      - dyslipidemia
+      - obesity
+      - smoking
+  - 對 QTc 高於正常範圍，或具有其他可能延長 QTc 之情況者，可考慮 baseline 與定期 QTc 監測。
+
+## 藥理學
+
+### 作用機轉
+- Abemaciclib 為強效小分子 cyclin-dependent kinase inhibitor，選擇性抑制 CDK 4 與 6。
+- 可阻斷 retinoblastoma tumor suppressor protein phosphorylation，抑制細胞週期進展，使細胞停留於 G1 phase。
+- 單用或與 endocrine therapy 併用時，已觀察到可降低腫瘤大小。
+
+### 藥物動力學
+- 分佈容積：
+  - 約 690.3 L
+  - abemaciclib 與活性代謝物 M2、M20 在 CSF 中濃度與未結合 plasma 濃度相近
+- 蛋白結合：
+  - abemaciclib：約 96%
+  - M2：約 93%
+  - M18：約 97%
+  - M20：約 98%
+- 代謝：
+  - 主要於肝臟經 CYP3A4 代謝
+  - 形成主要代謝物 N-desethylabemaciclib（M2，active）
+  - 另有：
+    - hydroxyabemaciclib（M20，active）
+    - hydroxy-N-desethylabemaciclib（M18，active）
+    - oxidative metabolite（M1）
+- 生體可用率：
+  - 約 45%（單次口服 200 mg）
+- 消除半衰期：
+  - 約 18.3 小時
+- 達峰時間：
+  - 約 8 小時
+  - 範圍 4.1 至 24 小時
+- 排泄：
+  - 糞便約 81%，主要為代謝物
+  - 尿液約 3%
+
+### 藥物動力學：其他考量
+- 肝功能受損：
+  - 單次口服 200 mg 後，相較正常肝功能者，血漿中 abemaciclib 與其活性代謝物之相對效力增加：
+    - 輕度（Child-Pugh A）：1.2 倍
+    - 中度（Child-Pugh B）：1.1 倍
+    - 重度（Child-Pugh C）：2.4 倍
+  - 重度肝功能受損者之平均消除半衰期約 55 小時
+  - 正常肝功能者約 24 小時
+
+## 病人衛教重點
+- 另請參閱 "Abemaciclib: Patient drug information"
+
+- 這個藥是用來做什麼的？
+  - 用於治療乳癌。
+
+- 所有藥物都可能引起副作用，但很多人沒有副作用，或只有輕微副作用。
+- 若下列症狀持續、造成困擾或未改善，應告知醫師：
+  - 掉髮
+  - 頭髮變稀
+  - 頭暈、疲倦或虛弱
+  - 頭痛
+  - 口乾
+  - 口腔刺激或口瘡
+  - 關節痛
+  - 味覺改變
+  - 體重減輕
+  - 類感冒症狀
+  - 鼻或喉嚨刺激
+  - 胃痛
+  - 便秘、腹瀉、腸胃不適、嘔吐或食慾下降
+
+- 警語 / 注意：
+  - 雖然罕見，但本藥可能造成非常嚴重甚至致命的不良反應。
+  - 若出現下列任何症狀，應立即告知醫師或就醫：
+    - 感染徵象：
+      - 發燒
+      - 發冷
+      - 嚴重喉嚨痛
+      - 耳痛或鼻竇痛
+      - 咳嗽
+      - 痰量增加或痰色改變
+      - 排尿疼痛
+      - 口腔潰瘍
+      - 傷口久不癒合
+    - 肝臟問題徵象：
+      - 深色尿
+      - 疲倦
+      - 食慾下降
+      - 胃部不適或腹痛
+      - 淺色便
+      - 嘔吐
+      - 皮膚或眼睛發黃
+    - 體液或電解質異常：
+      - 情緒改變
+      - 意識混亂
+      - 肌肉痛或無力
+      - 心跳過快或異常
+      - 嚴重頭暈或昏厥
+      - 口渴增加
+      - 癲癇
+      - 極度疲倦或虛弱
+      - 食慾下降
+      - 無法排尿或尿量改變
+      - 口乾
+      - 眼乾
+      - 嚴重噁心、胃不適或嘔吐
+    - 不明原因瘀青或出血
+    - 四肢腫脹
+    - 呼吸急促
+    - 心跳很快
+    - 血栓徵象：
+      - 胸痛或胸悶
+      - 咳血
+      - 呼吸急促
+      - 單側腿部腫脹、疼痛、發熱或發紅
+    - 肺部問題：
+      - 新發或惡化之呼吸困難
+      - 咳嗽
+      - 發燒
+    - 嚴重腹瀉或脫水
+
+- 服藥注意事項
+  - 每天固定時間服用。
+  - 可與食物同服或空腹服用。
+  - 整粒吞服，不可壓碎、咀嚼或剖半。
+  - 若藥錠破損，不要服用。
+  - 避免葡萄柚及其製品。
+  - 若出現腹瀉，應儘早開始止瀉處理並補充水分。
+  - 懷孕可能造成胎兒傷害；有生育能力者應避孕。
+  - 治療期間與最後一劑後 3 週內不建議哺乳。
+
+## 參考來源
+- UpToDate Lexidrug / UpToDate drug information monograph: Abemaciclib: Drug information
+- Content version: Topic 115098 Version 194.0
+
+
