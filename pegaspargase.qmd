@@ -1,0 +1,234 @@
+---
+title: "pegaspargase"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+
+## 藥品名稱
+- Pegaspargase
+
+## 藥物分類
+- Antineoplastic Agent
+- Enzyme
+- Antineoplastic Agent, Miscellaneous
+
+
+## 適應症
+### 核准適應症
+- 急性淋巴性白血病 (acute lymphoblastic leukemia, ALL)
+  - 作為第一線治療之一部分
+  - 或用於對原生型 asparaginase (E. coli L-asparaginase) 產生過敏反應的患者
+
+## 劑量與給藥
+
+### 成人劑量
+
+#### 劑量指引
+- 安全性
+  - 為降低輸注反應與過敏反應之風險與嚴重程度
+  - 建議於給藥前 30 至 60 分鐘進行預處置
+    - acetaminophen
+    - H1 抗組織胺
+      - 例如 diphenhydramine
+    - H2 受體阻斷劑
+      - 例如 famotidine
+
+- 臨床考量
+  - 在 asparaginase 治療誘導期與強化期可考慮血栓預防
+  - 特別是靜脈血栓栓塞高風險患者
+    - 可使用低分子量肝素 (LMWH)
+  - 當血小板 <30,000/mm³ 時應暫停 LMWH
+  - 建議避免飲酒以降低胰臟炎風險
+
+#### 急性淋巴性白血病
+- 作為第一線治療或對 native asparaginase 過敏患者
+
+- ≤21 歲
+  - IM 或 IV
+  - 2,500 units/m²
+  - 通常每 14 天一次
+  - 實際療程依化療方案調整
+
+### 肝功能異常時劑量調整
+
+#### 轉氨酶 (ALT / AST)
+
+- ALT 或 AST >3 至 5 倍 ULN
+  - 可繼續治療
+
+- ALT 或 AST >5 至 20 倍 ULN
+  - 延遲下一次劑量
+  - 直到轉氨酶 <3 倍 ULN
+
+- ALT 或 AST >20 倍 ULN
+  - 若 1 週內未恢復至 <3 倍 ULN
+  - 應停止治療
+
+#### 直接膽紅素
+
+- <3 mg/dL
+  - 可繼續治療
+
+- 3.1 至 5 mg/dL
+  - 暫停 pegaspargase
+  - 直到直接膽紅素 <2 mg/dL
+  - 可考慮改用其他 asparaginase 製劑
+
+- >5 mg/dL
+  - 停止 pegaspargase
+  - 不建議替代其他 asparaginase 製劑
+  - 不需補回錯過之劑量
+
+## 給藥方式
+
+### 成人
+
+#### 給藥途徑
+- 靜脈輸注 (IV)
+- 肌肉注射 (IM)
+
+#### 臨床研究觀察
+- 在比較 IV pegaspargase 與 IM native E. coli asparaginase 的研究中
+  - 5 年無病存活率無顯著差異
+  - asparaginase 相關毒性發生率無顯著差異
+    - 包含
+      - 過敏反應
+      - 胰臟炎
+      - 血栓
+      - 出血併發症
+
+- IV pegaspargase 組
+  - 血清 asparaginase 活性最低值較高
+
+- IV 給藥組
+  - 患者與家屬之治療焦慮程度較低
+
+### 配製與準備
+- 依照無菌技術進行
+- 僅可使用指定濃度之製劑
+- 給藥前需確認
+  - 製劑
+  - 劑量
+  - 給藥途徑
+
+## 儲存與穩定性
+- 冷藏保存
+- 避免冷凍
+- 避免劇烈震盪
+
+## 禁忌症
+- 對 pegaspargase 過敏
+- 對 E. coli 衍生 L-asparaginase 製劑嚴重過敏史
+- 既往發生嚴重胰臟炎
+- 既往發生嚴重血栓事件
+- 既往發生嚴重出血事件
+- 嚴重肝毒性
+
+## 警告與注意事項
+
+### 與不良反應相關之風險
+
+- 葡萄糖耐受不良
+  - 可能導致高血糖
+  - 部分病例可能不可逆
+
+- 出血
+  - 可發生
+    - PT 延長
+    - PTT 延長
+    - 低纖維蛋白原血症
+  - 嚴重或有症狀的凝血異常
+    - 可能需要補充治療
+
+- 肝毒性
+  - 可出現嚴重甚至致命肝毒性
+  - 包含
+    - hepatic sinusoidal obstruction syndrome
+    - hepatic veno-occlusive disease
+  - 常見於與多重化療併用時
+
+- 過敏反應
+  - 可能發生過敏性休克
+  - 可能出現嚴重過敏反應
+
+  - 症狀可能包括
+    - 血管性水腫
+    - 嘴唇腫脹
+    - 眼瞼腫脹
+    - 低血壓
+    - 支氣管痙攣
+    - 呼吸困難
+    - 紅斑
+    - 搔癢
+    - 皮疹
+
+- 胰臟炎
+  - 可發生
+  - 可能為
+    - 出血性胰臟炎
+    - 壞死性胰臟炎
+  - 部分病例可能致命
+  - 應告知患者相關症狀
+
+- 血栓事件
+  - 可能發生嚴重血栓
+  - 包含
+    - sagittal sinus thrombosis
+
+### 其他警告
+
+- 給藥途徑
+  - IV pegaspargase 與 IM native asparaginase 在療效與毒性方面差異不顯著
+
+- 用藥錯誤預防
+  - 不可與以下藥物互換
+    - asparaginase (E. coli)
+    - asparaginase (Erwinia)
+    - calaspargase pegol-mknl
+  - 給藥前必須確認
+    - 正確藥品
+    - 正確劑型
+    - 正確途徑
+    - 正確劑量
+
+## 不良反應
+
+### 發生率 >10%
+
+- 過敏反應
+  - hypersensitivity reaction
+  - 發生率
+    - 第一線 ALL 治療：約 2% 至 3%
+    - 復發 ALL 且無先前 asparaginase 過敏：約 10%
+    - 復發 ALL 且曾有 asparaginase 過敏：約 32%
+
+- 免疫相關
+  - 抗體形成
+    - 誘導期：約 2%
+    - 延遲強化期：約 10% 至 11%
+
+### 發生率 1% 至 10%
+
+#### 心血管系統
+- 血栓栓塞併發症 (grade 3/4)
+
+#### 內分泌與代謝
+- 高血糖
+- 高三酸甘油酯血症
+- 低白蛋白血症
+
+#### 胃腸道
+- 胰臟炎 (grade 3/4)
+
+## 參考來源
+
+UpToDate Lexidrug™, UpToDate, Inc. and its affiliates and/or licensors.  
+Drug monograph: Pegaspargase.  
+Source: pegaspargase-drug-information.html

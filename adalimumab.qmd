@@ -1,0 +1,478 @@
+---
+title: "adalimumab"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    theme: cosmo
+    sidebar: true
+---
+
+
+
+## ALERTS
+
+- 嚴重感染：
+  - 接受 adalimumab 治療的病人，發生可能導致住院或死亡之嚴重感染的風險增加。多數發生此類感染的病人同時合併使用免疫抑制劑，例如 methotrexate 或 corticosteroids。
+  - 若病人發生嚴重感染或敗血症，應停用 adalimumab。已通報之感染包括：
+    - 活動性結核病（TB），包含潛伏結核再活化。TB 病人常表現為播散性或肺外疾病。於使用 adalimumab 前及治療期間應檢測潛伏性 TB；若有潛伏感染，應先接受治療再開始 adalimumab。
+    - 侵襲性黴菌感染，包括 histoplasmosis、coccidioidomycosis、candidiasis、aspergillosis、blastomycosis 與 pneumocystosis。罹患 histoplasmosis 或其他侵襲性黴菌感染之病人，可能表現為播散型而非局部型疾病。部分活動性感染病人的 histoplasmosis 抗原與抗體檢測可能為陰性。對於有侵襲性黴菌感染風險且出現重度全身性疾病之病人，應考慮經驗性抗黴菌治療。
+    - 由機會性感染病原體造成之細菌、病毒及其他感染，包括 Legionella 與 Listeria。
+  - 對於慢性感染或反覆感染之病人，在開始 adalimumab 治療前，應仔細權衡治療風險與效益。
+  - 治療期間及治療後，應密切監測感染徵象與症狀，包括在開始治療前潛伏性 TB 檢測為陰性的病人之後續 TB 發展可能性。
+- 惡性腫瘤：
+  - 在接受 tumor necrosis factor（TNF）blockers（包括 adalimumab）治療之兒童與青少年中，曾通報 lymphoma 及其他惡性腫瘤，部分致死。
+  - 上市後曾通報接受 TNF-blockers（包括 adalimumab）治療之病人發生 hepatosplenic T-cell lymphoma（HSTCL）；此為罕見 T-cell lymphoma，病程通常極具侵襲性且可致死。
+  - 多數通報之 TNF-blocker 相關 HSTCL 發生於 Crohn disease 或 ulcerative colitis 病人，且多為青少年或年輕男性。
+  - 幾乎所有此類病人於診斷前或診斷時，均曾與 TNF-blocker 同時使用 azathioprine 或 6-mercaptopurine。
+  - 目前尚不確定 HSTCL 的發生，究竟與 TNF-blocker 本身有關，或與其併用其他免疫抑制劑有關。
+
+
+
+## Pharmacologic Category
+
+- 抗風濕藥，疾病修飾型
+- 胃腸道藥物，其他類
+- 單株抗體
+- Tumor Necrosis Factor（TNF）阻斷劑
+
+## Dosing
+
+### Adult
+
+#### Adult Dosing
+
+- 劑量指引：
+  - 安全性：
+    - 開始治療前，需要完成特定臨床與實驗室評估並加以記錄，且應確保符合年齡之疫苗接種已更新完成。
+    - 一般而言，live vaccines 不應在開始治療前 4 週內施打。
+    - 開始治療前之疫苗與監測要求，應依機構內部流程辦理。
+  - 劑型資訊：
+    - 在美國，Abrilada (adalimumab-afzb)、Amjevita (adalimumab-atto)、Cyltezo (adalimumab-adbm)、Hadlima (adalimumab-bwwd)、Hulio (adalimumab-fkjp)、Hyrimoz (adalimumab-adaz)、Idacio (adalimumab-aacf)、Simlandi (adalimumab-ryvk)、Yuflyma (adalimumab-aaty) 與 Yusimry (adalimumab-aqvh) 已核准為 Humira (adalimumab) 的 biosimilars。
+    - 在加拿大，Abrilada、Amgevita、Hadlima、Hulio、Hyrimoz、Idacio、Simlandi 與 Yuflyma 亦已核准為 Humira 的 biosimilars；biosimilar 特定適應症細節請參閱加拿大產品專論。
+- 軸性脊椎關節病，包括 ankylosing spondylitis：
+  - 軸性脊椎關節病，包括 ankylosing spondylitis（Humira 與 adalimumab biosimilars）：
+    - 備註：保留用於對 NSAIDs 反應不足之病人；可持續使用 NSAIDs 及/或 analgesics。
+    - SUBQ：40 mg every other week。
+- 中重度 Crohn disease，誘導與維持緩解：
+  - Crohn disease，中重度，誘導與維持緩解（Humira 與 adalimumab biosimilars）：
+    - 備註：一般較偏好與 immunomodulator（如 thiopurine 或 methotrexate）併用。
+    - 初始：SUBQ：160 mg（於 1 或 2 日內給予），2 週後（第 15 天）80 mg。
+    - 備註：若由其他 anti-TNF 藥物轉換，可使用此誘導療程。
+    - 維持：SUBQ：自第 29 天起 40 mg every other week。
+- 中重度、難治性 hidradenitis suppurativa：
+  - 初始：SUBQ：160 mg（於 1 或 2 日內給予），2 週後（第 15 天）80 mg。
+  - 維持：SUBQ：自第 29 天起 40 mg every week，或 80 mg every other week。
+  - 備註：40 mg every week 方案研究較多，因此部分專家較偏好此方案。
+- Nonradiographic axial spondyloarthritis：
+  - 適應症外使用。
+  - 備註：保留用於對 NSAIDs 反應不足之病人；可持續使用 NSAIDs 及/或 analgesics。
+  - SUBQ：40 mg every other week。
+- 非乾癬性 peripheral spondyloarthritis：
+  - 適應症外使用。
+  - 備註：可持續使用 methotrexate、其他非生物性 DMARDs、corticosteroids、NSAIDs 及/或 analgesics。
+  - SUBQ：40 mg every other week。
+- 中重度 plaque psoriasis：
+  - 備註：一般作為全身性單藥治療；可視需要持續使用輔助性外用療法（如 emollients、corticosteroids）。
+  - 建議由具 adalimumab 治療 plaque psoriasis 經驗之臨床醫師參與。
+  - 初始：SUBQ：80 mg 單次。
+  - 維持：於初始劑量後 1 週開始，SUBQ：40 mg every other week。
+  - 備註：部分病人可能需要 40 mg every week。
+- Psoriatic arthritis：
+  - 備註：可持續使用 methotrexate、其他非生物性 DMARDs、corticosteroids、NSAIDs 及/或 analgesics。
+  - SUBQ：40 mg every other week。
+- Rheumatoid arthritis：
+  - 備註：
+    - 可作為中至高度疾病活性且未曾接受 DMARD 之病人，作為 methotrexate 的替代選項。
+    - 亦可作為已接受最大可耐受 methotrexate 治療但仍未達治療目標之病人之加成治療。
+    - 可與其他非生物性 DMARDs、glucocorticoids、NSAIDs 及/或 analgesics 併用。
+    - 建議由具 adalimumab 治療 rheumatoid arthritis 經驗之臨床醫師參與。
+  - SUBQ：初始 40 mg every other week；對部分反應不足之病人，可增加為 40 mg every week 或 80 mg every other week。
+- 難治性 sarcoidosis：
+  - 作為輔助治療，適應症外使用。
+  - 備註：用於即使經 glucocorticoids 與其他免疫抑制劑（如 methotrexate）治療後仍未達目標之病人。
+  - 建議由具 adalimumab 使用經驗之臨床醫師參與。
+  - 初始：SUBQ：最佳起始劑量策略未明；其中一種方案為第 0 週 40 至 120 mg、第 1 週 40 至 80 mg、第 2 週 40 mg。
+  - 維持：SUBQ：40 mg every 1 to 2 weeks。
+  - 備註：最佳頻率與療程長度未明，須依反應個別化；若達穩定反應（如 6 個月後），可考慮逐步延長給藥間隔（如至 every 2 weeks），若反應持續良好，3 個月後可考慮停藥。
+- 中重度 ulcerative colitis，誘導與維持緩解：
+  - 誘導：SUBQ：160 mg（於 1 或 2 日內給予），2 週後（第 15 天）80 mg。
+  - 維持：自第 29 天起，SUBQ：40 mg every other week。
+  - 劑量調整：
+    - 可依維持劑量之臨床反應、adalimumab trough 濃度、抗 adalimumab 抗體偵測結果及治療目標考慮調整。
+    - 最佳調整劑量、頻率與療程長度未明，須個別化。
+    - 文中提供劑量升階策略範例。
+  - 劑量升階（適應症外）：
+    - SUBQ：40 mg weekly 或 80 mg every other week。
+- 非感染性 uveitis：
+  - 備註：一般保留用於對第一線治療及至少 1 種其他全身性治療反應不完整之病人。
+  - 初始：SUBQ：80 mg 單次。
+  - 維持：於初始劑量後 1 週開始，SUBQ：40 mg every other week。
+- 合併用藥之劑量調整：
+  - 存在顯著藥物交互作用，可能需要調整劑量/頻率或避免併用。
+  - 更多資訊請查閱 drug interactions database。
+
+#### Kidney Impairment
+
+- 腎功能不全成人劑量建議係根據現有最佳證據與臨床專家意見。
+- adalimumab：
+  - 無特定劑量調整建議。
+- Biosimilars：
+  - 無製造廠標示劑量調整資訊（未研究）。
+
+#### Liver Impairment
+
+- 製造廠標示未提供肝功能不全之劑量調整建議（未研究）。
+
+#### Older Adult
+
+- 請參照成人劑量。
+
+### Pediatric
+
+#### Pediatric Dosing
+
+- 其他資訊請參閱 "Adalimumab (including biosimilars): Pediatric drug information"。
+- 劑量指引：
+  - 劑型資訊：
+    - 在美國，Abrilada (adalimumab-afzb)、Amjevita (adalimumab-atto)、Cyltezo (adalimumab-adbm)、Hadlima (adalimumab-bwwd)、Hulio (adalimumab-fkjp)、Hyrimoz (adalimumab-adaz)、Idacio (adalimumab-aacf)、Simlandi (adalimumab-ryvk)、Yuflyma (adalimumab-aaty) 與 Yusimry (adalimumab-aqvh) 已核准為 Humira (adalimumab) 的 biosimilars。
+    - 在加拿大，Abrilada、Amgevita、Hadlima、Hulio、Hyrimoz、Idacio、Simlandi 與 Yuflyma 亦已核准為 Humira 的 biosimilars；biosimilar 特定適應症細節請參閱加拿大產品專論。
+  - 安全性：
+    - 開始治療前需要特定臨床與實驗室評估並記錄，且應確保符合年齡之疫苗接種已完成更新。
+    - 一般而言，live vaccines 不應在開始治療前 4 週內施打。
+    - 開始治療前之疫苗與監測要求，應依機構流程。
+- Crohn disease，誘導與維持緩解：
+  - 對象：≥6 歲，使用 Humira、Amjevita、Hadlima、Hyrimoz、Yuflyma biosimilars。
+  - 體重 <40 kg：
+    - 初始：第 1 天 80 mg，第 15 天 40 mg。
+    - 維持：自第 29 天起 20 mg every other week。
+    - 若反應不足，部分病人可考慮增加至 20 mg weekly。
+  - 體重 ≥40 kg：
+    - 初始：第 1 天 160 mg（可分 1 或 2 日），第 15 天 80 mg。
+    - 維持：自第 29 天起 40 mg every other week。
+    - 若反應不足，部分病人可考慮增加至 40 mg weekly。
+- Juvenile idiopathic arthritis：
+  - 對象：≥2 歲。
+  - 體重 10 至 <15 kg：
+    - SUBQ：10 mg every other week。
+  - 體重 15 至 <30 kg：
+    - SUBQ：20 mg every other week。
+  - 體重 ≥30 kg：
+    - SUBQ：40 mg every other week。
+- Plaque psoriasis：
+  - 對象：≥4 歲。
+  - 體重 15 至 <30 kg：
+    - 初始：20 mg。
+    - 維持：1 週後開始 20 mg every other week。
+  - 體重 ≥30 kg：
+    - 初始：40 mg。
+    - 維持：1 週後開始 40 mg every other week。
+- Polyarticular juvenile idiopathic arthritis：
+  - 對象：≥2 歲。
+  - 體重 10 至 <15 kg：
+    - 10 mg every other week。
+  - 體重 15 至 <30 kg：
+    - 20 mg every other week。
+  - 體重 ≥30 kg：
+    - 40 mg every other week。
+- Pediatric ulcerative colitis：
+  - 對象：≥5 歲。
+  - 體重 20 至 <40 kg：
+    - 初始：80 mg，第 8 天 40 mg，第 15 天 40 mg。
+    - 維持：自第 29 天起 40 mg every other week。
+  - 體重 ≥40 kg：
+    - 初始：160 mg，第 8 天 80 mg，第 15 天 80 mg。
+    - 維持：自第 29 天起 80 mg every other week。
+- Uveitis：
+  - 對象：≥2 歲之非感染性前葡萄膜炎相關疾病。
+  - 體重 <30 kg：
+    - 20 mg every other week。
+  - 體重 ≥30 kg：
+    - 40 mg every other week。
+
+#### Kidney Impairment
+
+- 小兒腎功能不全：無特定劑量調整建議。
+
+#### Liver Impairment
+
+- 小兒肝功能不全：無特定劑量調整建議。
+
+## Adverse Reactions
+
+### Adverse Reactions (Significant): Considerations
+
+- 可能發生嚴重感染，包括 TB、侵襲性黴菌感染、機會性感染。
+- 可能發生惡性腫瘤，包括 lymphoma、leukemia、melanoma、非黑色素瘤皮膚癌與 HSTCL。
+- 可能發生嚴重 hypersensitivity reactions。
+- 可能誘發或惡化 demyelinating disease。
+- 可能造成 cytopenias。
+- 可能造成或惡化心衰竭。
+- 可能出現 lupus-like syndrome。
+- 可能發生 hepatitis B virus 再活化。
+- 可能產生 autoantibodies。
+- 可能增加感染與免疫抑制相關風險。
+
+### Adverse Reactions
+
+- >10%：
+  - 注射部位反應
+  - 頭痛
+  - 皮疹
+  - 感染（例如上呼吸道感染、sinusitis）
+- 1% 至 10%：
+  - 噁心
+  - 腹痛
+  - 肝功能檢驗異常
+  - 尿路感染
+  - 咳嗽
+  - 背痛
+  - 高脂血症
+  - 血尿
+  - hypertension
+  - 骨骼肌肉疼痛
+- <1%、上市後或臨床重要：
+  - 敗血症
+  - 結核
+  - 侵襲性黴菌感染
+  - Listeria 感染
+  - Legionella 感染
+  - HBV 再活化
+  - lymphoma
+  - leukemia
+  - melanoma 與非黑色素瘤皮膚癌
+  - HSTCL
+  - pancytopenia
+  - aplastic anemia
+  - anaphylaxis
+  - angioedema
+  - interstitial lung disease
+  - demyelinating disease
+  - optic neuritis
+  - seizure
+  - new-onset 或惡化之 psoriasis
+  - vasculitis
+  - lupus-like syndrome
+  - congestive heart failure 惡化
+
+## Contraindications/Warnings
+
+### Contraindications
+
+- 對 adalimumab 或其任何成分有嚴重過敏病史者禁用。
+
+### Warnings/Precautions
+
+- 嚴重感染：
+  - 可發生致命或需住院之感染。
+  - 開始治療前應評估感染風險。
+  - 發生嚴重感染或敗血症時應停藥。
+- 結核：
+  - 開始治療前應檢測潛伏性 TB。
+  - 治療期間仍可能發生 TB，即使起始篩檢為陰性。
+- HBV 再活化：
+  - HBV 帶原者在免疫抑制治療下可能再活化；應於治療前篩檢並監測。
+- 惡性腫瘤：
+  - 兒童與青少年之 lymphoma 及其他惡性腫瘤風險增加。
+  - 皮膚癌風險亦可能增加。
+- 神經系統：
+  - 曾有 demyelinating disorders（如 multiple sclerosis、optic neuritis）發生或惡化。
+- 血液學異常：
+  - 曾有 pancytopenia、aplastic anemia、cytopenias。
+  - 若出現持續發燒、瘀青、出血、蒼白等，應評估停藥。
+- 心衰竭：
+  - 可能誘發新發生或惡化之 heart failure。
+- 免疫反應：
+  - 可能形成 autoantibodies，並可出現 lupus-like syndrome。
+- 過敏反應：
+  - 包括 anaphylaxis、angioedema。
+- 皮膚反應：
+  - 可出現新發生或惡化之 psoriasis。
+- 手術與感染監測：
+  - 應於治療前後與治療期間持續評估感染風險與臨床症狀。
+- 疫苗：
+  - 治療期間避免 live vaccines。
+  - 兒童病人於開始治療前應確認疫苗已依年齡完成。
+- 老年人：
+  - 感染風險可能較高。
+
+
+
+## Administration
+
+### Adult
+
+#### Administration
+
+- SUBQ 給藥。
+- 依產品不同，可注射於大腿前外側或腹部；若由他人施打，也可注射於上臂外側。
+- 每次應輪替注射部位。
+- 避免注射於壓痛、瘀青、發紅、硬化、疤痕或有乾癬病灶之皮膚。
+- 使用前可自冷藏取出，於室溫放置一段時間後再施打，以減少不適；不可用其他方式加熱。
+- 溶液若有混濁、變色或含顆粒，不可使用。
+- 不同產品之自動注射筆、預充填針筒與保護套使用方式不同，應依個別產品說明操作。
+- 部分產品起始高劑量可於 1 日或分 2 日給予。
+
+### Pediatric
+
+#### Administration
+
+- 小兒給藥原則同成人，依體重與適應症使用合適劑量與裝置。
+- 開始治療前應確認照護者具備正確皮下注射操作能力。
+- 應輪替注射部位並避免異常皮膚區域。
+
+## Storage/Stability
+
+- 冷藏儲存於 2°C 至 8°C。
+- 不可冷凍；若已冷凍即使解凍後亦不可使用。
+- 置於原包裝中以避光。
+- 依個別產品不同，部分可於室溫暫時保存一定期間，但一旦置於室溫後不可再放回冷藏；超過規定時間應丟棄。
+- 不可搖晃。
+- 實際室溫保存時限與條件，應依個別產品仿單。
+
+## Uses
+
+### Labeled Indications
+
+- 成人：
+  - Rheumatoid arthritis
+  - Psoriatic arthritis
+  - Ankylosing spondylitis / axial spondyloarthritis
+  - Crohn disease
+  - Ulcerative colitis
+  - Plaque psoriasis
+  - Hidradenitis suppurativa
+  - Noninfectious uveitis
+- 小兒：
+  - Polyarticular juvenile idiopathic arthritis
+  - Crohn disease
+  - Ulcerative colitis
+  - Plaque psoriasis
+  - Noninfectious uveitis
+- 實際核准適應症依產品、國家與 biosimilar 而異。
+
+### Off-Label: Adult
+
+- Nonradiographic axial spondyloarthritis
+- Peripheral spondyloarthritis, nonpsoriatic
+- Refractory sarcoidosis
+- 部分情境下之 ulcerative colitis 劑量升階
+
+## Medication Safety Issues
+
+- 不同 adalimumab 產品之 suffix 與品牌名稱相似，開立、調劑與給藥時應確認正確產品。
+- Biosimilar 與 reference product 雖高度相似，但是否可互換與適應症範圍仍依當地核准資訊。
+- Starter package、兒科包裝與一般維持劑量包裝容易混淆。
+- 應確認濃度、注射裝置、每盒支數與每支劑量。
+
+## Interactions
+
+### Metabolism/Transport Effects
+
+- TNF 阻斷後，發炎狀態降低，可能逆轉部分 cytokine 對 CYP450 活性的抑制，因此可能改變某些 CYP450 substrate 的暴露量。
+- 對於治療指數窄且需個別化調整劑量之藥物（如 warfarin、cyclosporine、theophylline），開始或停用 adalimumab 時應注意監測。
+- 不建議與其他 biologic immunomodulators 或強力免疫抑制劑任意併用，除非有明確指示。
+
+## Reproduction, Pregnancy, Lactation
+
+### Reproductive Considerations
+
+- Adalimumab 為 IgG1 單株抗體，可經胎盤轉運，且於妊娠後期轉運增加。
+- 懷孕期間之使用應依母體疾病控制需求與胎兒風險綜合評估。
+- 暴露於子宮內之嬰兒，出生後一段時間內對 live vaccines 之施打需審慎評估。
+
+### Pregnancy Considerations
+
+- 現有資料未顯示明確 major teratogenic signal，但資料仍有限。
+- 對於需要控制中重度自體免疫疾病之病人，持續治療可能優於停藥。
+- 若於妊娠後期持續用藥，嬰兒出生後可能仍可檢出藥物。
+- 嬰兒 live vaccine 施打時點應依暴露時機、藥物持續時間及專業指引評估。
+
+### Breastfeeding Considerations
+
+- Adalimumab 可能少量進入乳汁，但因分子大且口服吸收低，對哺乳嬰兒之系統性暴露預期有限。
+- 哺乳期間使用通常可接受，但應依母體治療需求與嬰兒風險個別評估。
+
+## Monitoring
+
+### Monitoring Parameters
+
+- 開始治療前：
+  - 結核篩檢
+  - Hepatitis B 篩檢
+  - 感染史評估
+  - 必要時 CBC、LFTs 與其他基線檢驗
+  - 疫苗接種狀態確認
+- 治療期間：
+  - 感染徵象與症狀
+  - TB 發展風險
+  - CBC（視臨床需要）
+  - LFTs（視臨床需要）
+  - 心衰竭症狀
+  - 神經學症狀
+  - 過敏反應
+  - 惡性腫瘤與皮膚癌警訊
+  - 自體免疫相關症狀
+- 若用於 inflammatory bowel disease：
+  - 可視臨床需要監測 adalimumab trough concentrations 與 anti-adalimumab antibodies。
+
+### Reference Range
+
+- 參考範圍依檢驗方法、適應症與檢測平台而異。
+- 治療藥物監測結果須結合臨床反應、免疫原性及治療目標解讀。
+
+## Pharmacology
+
+### Mechanism of Action
+
+- Adalimumab 為 recombinant human IgG1 monoclonal antibody。
+- 可特異性結合 tumor necrosis factor alpha（TNF-alpha），阻止其與 p55 及 p75 細胞表面 TNF receptors 結合。
+- 透過抑制 TNF-alpha 介導之發炎反應，降低炎症與免疫活化。
+
+### Pharmacokinetics
+
+- 吸收：
+  - 皮下注射後吸收緩慢。
+- 分布：
+  - 為大型蛋白藥物，分布體積相對有限。
+- 代謝：
+  - 預期經蛋白質分解代謝途徑清除。
+- 半衰期：
+  - 約 2 週左右。
+- 血中濃度：
+  - 可受體重、疾病狀態、免疫原性、併用 immunomodulators 等影響。
+
+### Pharmacokinetics: Additional Considerations
+
+- 合併 methotrexate 可降低 anti-adalimumab antibody 形成並增加藥物暴露。
+- 發炎程度下降後可能影響某些 CYP450 substrate 代謝。
+- IBD 病人可依 trough 濃度與抗體結果進行個別化劑量調整。
+
+## Medication Guide and/or Vaccine Information Statement (VIS)
+
+- 某些產品提供 Medication Guide。
+- 給藥前應提供並說明製造廠病人用藥指引與裝置操作說明。
+
+## Patient Counseling Points
+
+- 本藥用於降低發炎與免疫活性。
+- 依醫囑固定注射，不可自行停藥或改變頻率。
+- 若出現發燒、咳嗽、呼吸困難、傷口感染、皮膚紅腫熱痛等感染徵象，應立即就醫。
+- 若曾有結核、B 肝或反覆感染病史，應主動告知醫師。
+- 若出現不明瘀青、出血、蒼白、持續疲倦、淋巴結腫大、體重減輕、夜間盜汗，應就醫評估。
+- 若出現視力改變、麻木、無力、走路不穩等神經症狀，應就醫。
+- 若出現胸悶、喘、下肢水腫等心衰竭症狀，應就醫。
+- 避免 live vaccines；接種任何疫苗前應先與醫療團隊確認。
+- 注射前讓藥品回溫至室溫；不可加熱、不可搖晃。
+- 注射部位要輪替，避免注射於異常皮膚。
+- 若懷孕、計畫懷孕或哺乳，應與醫師討論。
+- 不同品牌與 biosimilars 之裝置可能不同，使用前應再次確認操作方式。
+
+## 參考來源
+
+UpToDate Lexidrug™, UpToDate, Inc. and its affiliates and/or licensors.
+Copyright information: 2026© UpToDate, Inc. and its affiliates and/or licensors. All Rights Reserved.
+Document title: Adalimumab (including biosimilars): Drug information.
+

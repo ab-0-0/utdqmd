@@ -1,0 +1,533 @@
+---
+title: "acalabrutinib"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    theme: cosmo
+    sidebar: true
+---
+
+
+## 藥理分類
+- 抗腫瘤藥物
+- 抗腫瘤藥物，Bruton tyrosine kinase inhibitor
+- 抗腫瘤藥物，tyrosine kinase inhibitor
+
+## 劑量與用法
+
+### 成人
+
+#### 劑量總則
+- 安全性
+  - 因可能有出血風險，手術前後可考慮暫停 acalabrutinib 3 至 7 天，實際停藥期間需依手術種類與出血風險評估。
+- 劑型資訊
+  - Calquence 膠囊在美國已停產超過 1 年。
+- 臨床考量
+  - 對機會性感染風險較高者，可考慮預防性處置。
+
+#### Chronic lymphocytic leukemia / small lymphocytic lymphoma
+- Chronic lymphocytic leukemia / small lymphocytic lymphoma
+  - 單藥治療
+    - 口服
+      - 100 mg，約每 12 小時 1 次。
+      - 持續治療至疾病進展或出現不可接受毒性。
+  - 合併治療
+    - 與 obinutuzumab 合併，用於先前未治療病人
+      - 口服
+        - 100 mg，約每 12 小時 1 次。
+        - 持續治療至疾病進展或出現不可接受毒性。
+        - acalabrutinib 自第 1 週期開始。
+        - 每週期 28 天。
+        - obinutuzumab 自第 2 週期開始，共給 6 個週期。
+    - 與 venetoclax 合併，或 venetoclax 加減 obinutuzumab，固定療程，off-label combination
+      - 口服
+        - 100 mg，約每 12 小時 1 次。
+        - venetoclax 自第 3 週期開始。
+        - 總療程 14 個週期。
+        - 每週期 28 天。
+
+#### Mantle cell lymphoma
+- Mantle cell lymphoma
+  - 單藥治療，用於先前已接受治療病人
+    - 口服
+      - 100 mg，約每 12 小時 1 次。
+      - 持續治療至疾病進展或出現不可接受毒性。
+  - 合併治療，用於先前未治療病人
+    - 口服
+      - 100 mg，約每 12 小時 1 次，自第 1 週期開始。
+      - 與 bendamustine 及 rituximab 合併共 6 個週期。
+      - 每週期 28 天。
+      - acalabrutinib 可持續至疾病進展或出現不可接受毒性。
+      - 若病人達到反應，rituximab 可每隔 1 個週期給藥一次，作為維持治療，最多再給 12 次，自第 8 週期起至第 30 週期。
+
+#### Waldenstrom macroglobulinemia
+- Waldenstrom macroglobulinemia
+  - off-label use
+    - 口服
+      - 100 mg，每日 2 次。
+      - 持續治療至疾病進展或出現不可接受毒性。
+
+#### 漏服處理
+- 若錯過一劑超過 3 小時，跳過該次劑量，於原定時間服用下一劑。
+- 不可補服額外劑量。
+
+#### 併用藥物之劑量調整
+- 具臨床重要藥物交互作用者，可能需調整劑量或頻率，或避免併用。
+- 應查詢藥物交互作用資料庫取得更完整資訊。
+
+### 腎功能不全
+
+#### 成人
+- 備註
+  - 腎功能以 MDRD equation 估算。
+- eGFR >=30 至 <90 mL/minute/1.73 m2
+  - 製造商標示未提供劑量調整。
+  - 但 acalabrutinib 及其活性代謝物之藥動學無明顯臨床差異。
+- eGFR <30 mL/minute/1.73 m2
+  - 製造商標示未提供劑量調整。
+  - 對藥動學之影響未知。
+- eGFR <30 mL/minute/1.73 m2 且需透析
+  - 製造商標示未提供劑量調整。
+  - 對藥動學之影響未知。
+
+### 肝功能不全
+
+#### 成人
+- 治療前肝功能異常
+  - 輕度至中度 impairment，Child-Turcotte-Pugh class A 或 B
+    - 不需調整劑量。
+  - 重度 impairment，Child-Turcotte-Pugh class C
+    - 避免使用。
+- 治療期間急性肝毒性
+  - 若懷疑 drug-induced liver injury
+    - 暫停 acalabrutinib。
+    - 一旦確認，應停用 acalabrutinib。
+
+### 毒性調整
+
+#### 成人
+- 備註
+  - 若同時併用其他抗癌藥物，亦可能需要中斷、減量或停藥。
+
+#### 單藥或與 obinutuzumab 合併時之建議調整
+- 血液毒性
+  - grade 3 thrombocytopenia 併出血，或 grade 4 thrombocytopenia，或 grade 4 neutropenia 持續 >7 天
+    - 第 1 次與第 2 次發生
+      - 暫停 acalabrutinib，直到恢復至 grade 1 或 baseline。
+      - 之後可恢復為 100 mg 約每 12 小時 1 次。
+    - 第 3 次發生
+      - 暫停至恢復至 grade 1 或 baseline。
+      - 之後改為 100 mg 每日 1 次。
+    - 第 4 次發生
+      - 停藥。
+- 非血液毒性，>= grade 3
+  - 第 1 次與第 2 次發生
+    - 暫停至恢復至 grade 1 或 baseline。
+    - 之後恢復為 100 mg 約每 12 小時 1 次。
+  - 第 3 次發生
+    - 暫停至恢復至 grade 1 或 baseline。
+    - 之後改為 100 mg 每日 1 次。
+  - 第 4 次發生
+    - 停藥。
+- Arrhythmia
+  - 任何等級
+    - 視臨床適當處理。
+- Infection
+  - 任何等級
+    - 應即時處理。
+
+#### 與 bendamustine 及 rituximab 合併時之建議調整
+- 備註
+  - 可於下調 bendamustine 前先考慮使用 myeloid growth factors。
+  - 若 bendamustine 尚需再低於 70 mg/m2，應考慮停用 bendamustine。
+  - 血小板 <50,000/mm3 時，即使無顯著出血，也應中斷 bendamustine。
+- Neutropenia
+  - ANC <1,000/mm3 至 500/mm3
+    - 繼續 acalabrutinib。
+    - bendamustine 可視臨床考慮中斷並減量至 70 mg/m2。
+  - ANC <500/mm3 持續 >7 天，第 1 次
+    - 暫停 acalabrutinib，待恢復至 <= grade 2 後，以 100 mg 約每 12 小時恢復。
+    - bendamustine 暫停至 <= grade 2 後恢復，並考慮降至 70 mg/m2。
+  - ANC <500/mm3 持續 >7 天，第 2 或第 3 次
+    - 暫停 acalabrutinib 至 <= grade 2，之後以 100 mg 每日 1 次恢復。
+    - 若減量後耐受 >=4 週，可由醫師決定是否再上調。
+    - bendamustine 暫停至 <= grade 2 後恢復，並考慮降至 70 mg/m2。
+  - ANC <500/mm3 持續 >7 天，第 4 次
+    - 停用 acalabrutinib。
+    - bendamustine 暫停至 <= grade 2 後恢復，並考慮降至 70 mg/m2。
+- Thrombocytopenia
+  - platelets 25,000/mm3 至 50,000/mm3 且有顯著出血，或 platelets <25,000/mm3，第 1 次
+    - 暫停 acalabrutinib 至 <= grade 2 或 baseline，之後以 100 mg 約每 12 小時恢復。
+    - bendamustine 暫停至 <= grade 2 或 baseline 後恢復，並考慮降至 70 mg/m2。
+  - 第 2 次
+    - 暫停 acalabrutinib 至 <= grade 2 或 baseline，之後以 100 mg 每日 1 次恢復。
+    - 若減量後耐受 >=4 週，可由醫師決定是否再上調。
+    - bendamustine 暫停至 <= grade 2 或 baseline 後恢復，並考慮降至 70 mg/m2。
+  - 第 3 次
+    - 可考慮停用 acalabrutinib。
+    - bendamustine 暫停至 <= grade 2 或 baseline 後恢復，並考慮降至 70 mg/m2。
+- 非血液毒性
+  - >= grade 3，第 1 次
+    - 暫停 acalabrutinib 至 <= grade 2 或 baseline，之後以 100 mg 約每 12 小時恢復。
+    - bendamustine 暫停至 <= grade 2 或 baseline，之後恢復並考慮降至 70 mg/m2。
+  - >= grade 3，第 2 次
+    - 暫停 acalabrutinib 至 <= grade 2 或 baseline，之後以 100 mg 每日 1 次恢復。
+    - 若減量後耐受 >=4 週，可由醫師決定是否再上調。
+    - bendamustine 暫停至 <= grade 2 或 baseline，之後恢復並考慮降至 70 mg/m2。
+  - >= grade 3，第 3 次
+    - grade 4 毒性應停用 acalabrutinib。
+    - grade 3 毒性則需權衡風險與效益決定是否續用。
+    - bendamustine 暫停至 <= grade 2 或 baseline，之後恢復並考慮降至 70 mg/m2。
+- Arrhythmia
+  - 任何等級
+    - 視臨床適當處理。
+- Infection
+  - 任何等級
+    - 應即時處理。
+
+#### 與 venetoclax 合併時之建議調整
+- 備註
+  - 某些非血液學治療相關不良反應，如 venous thromboembolic events，未必需完全恢復至 <= grade 1 才能恢復治療；若臨床穩定，可依臨床判斷恢復。
+  - 可依醫師判斷使用 G-CSF。
+  - TLS 須於恢復治療時加強監測與預防。
+- Neutropenia
+  - grade 3 或 4，合併或未合併發燒或感染；或 grade 4 持續 >7 天
+    - 第 1 次
+      - 暫停 acalabrutinib 及或 venetoclax，至恢復 <= grade 1 或 baseline。
+      - 之後原劑量恢復。
+    - 第 2 次
+      - 暫停至恢復 <= grade 1 或 baseline。
+      - acalabrutinib 原劑量恢復，venetoclax 降 1 個 dose level。
+    - 後續再發
+      - 暫停至恢復 <= grade 1 或 baseline。
+      - 是否續用 acalabrutinib 應依個別 benefit-risk 評估。
+- Thrombocytopenia
+  - grade 3 或 4，及或出血
+    - 第 1 次
+      - 暫停 acalabrutinib 及或 venetoclax，至出血緩解且 thrombocytopenia <= grade 1 或 baseline，且 5 天內無需輸注血小板。
+      - 之後原劑量恢復。
+      - 可依醫師判斷輸注血小板。
+    - 第 2 次
+      - 暫停至出血緩解且 thrombocytopenia <= grade 1 或 baseline。
+      - acalabrutinib 原劑量恢復，venetoclax 降 1 個 dose level。
+    - 後續嚴重再發
+      - 暫停 acalabrutinib 與 venetoclax，至出血緩解且 thrombocytopenia <= grade 1 或 baseline。
+      - acalabrutinib 以 100 mg 每日 1 次恢復，venetoclax 降 1 個 dose level。
+      - 若持續再發嚴重 thrombocytopenia 或症狀性出血，是否續治需依臨床判斷。
+- Tumor lysis syndrome
+  - grade 3 或 4，首次及後續事件
+    - 若實驗室變化提示 TLS
+      - 暫停隔日 acalabrutinib 與 venetoclax。
+    - 若 24 至 48 小時內恢復
+      - 兩者原劑量恢復。
+    - 若 >48 小時才恢復
+      - acalabrutinib 原劑量恢復。
+      - venetoclax 降 1 個 dose level。
+- 其他非血液毒性
+  - grade 3，第 1 次
+    - 暫停 acalabrutinib 及或 venetoclax，至恢復 <= grade 1，之後原劑量恢復。
+  - grade 3，第 2 次
+    - 暫停至恢復 <= grade 1。
+    - 是否續用應依個別 benefit-risk 評估。
+  - grade 4，第 1 次
+    - 暫停至恢復 <= grade 1。
+    - acalabrutinib 以 100 mg 每日 1 次恢復，venetoclax 降 1 個 dose level。
+  - grade 4，第 2 次
+    - 暫停至恢復 <= grade 1。
+    - 是否續用應依個別 benefit-risk 評估。
+
+### 老年人
+- 依成人劑量使用。
+
+## 不良反應
+
+### 重要不良反應與注意事項
+
+#### Cardiovascular events
+- 曾發生嚴重甚至致命性心律不整，包括 >= grade 3 atrial fibrillation、atrial flutter、ventricular arrhythmia。
+- 亦可發生新發或惡化之 hypertension。
+- 可見於有或無既有心血管危險因子的病人。
+- 可能機轉
+  - atrial fibrillation
+    - 未明確確立，可能與 HER4 inhibition 造成心肌 PI3K-AKT signaling 降低有關。
+  - ventricular arrhythmia
+    - 未明確確立，看來並非由 QTc prolongation 所致。
+  - hypertension
+    - 未明確確立，可能與 nitric oxide 形成下降導致血管張力失調有關。
+- 發生時間
+  - 任何心血管事件中位時間約 10 個月，範圍約 3 天至 >=4 年。
+  - atrial fibrillation 中位約 17 至 29 個月。
+  - ventricular arrhythmia 中位約 15 個月。
+  - hypertension 中位約 6.5 至 8 個月。
+- 風險因子
+  - 既往 arrhythmia
+  - hypertension
+  - acute infection
+  - Black race
+  - BMI >25 kg/m2
+  - diabetes mellitus
+  - hyperlipidemia
+  - hypothyroidism
+  - 年齡增加，尤其 >=65 歲
+
+#### Hemorrhage
+- 曾發生 major hemorrhage，部分致命，包括 >= grade 3 與 CNS bleeding，如 intracranial hemorrhage。
+- 各等級出血皆有報告，如 bruise、皮膚出血、epistaxis、petechia、gastrointestinal bleeding。
+- 可能機轉
+  - 與作用機轉相關，BTK inhibition 影響 platelet activation，可能經 collagen-glycoprotein VI signaling。
+- 發生時間
+  - 任一等級出血中位約 3 至 5 週，範圍 0 至 >=3 年。
+- 風險因子
+  - 治療時間較久
+  - 合併 antiplatelet 或 anticoagulant
+  - 既往出血史
+  - 年齡 >65 歲
+
+#### Infection
+- 曾發生嚴重感染，部分致命，包括 bacterial、fungal、viral infections，如 HBV reactivation，以及 opportunistic infections，如 cytomegalovirus disease、latent Epstein-Barr virus reactivation、Pneumocystis jirovecii pneumonia、PML。
+- 其他常見感染包括 upper respiratory tract infection、sinusitis、pneumonia、urinary tract infection。
+- 多數感染發生時並無 neutropenia。
+- 中位感染持續時間約 12 天。
+- 可能機轉
+  - BTK inhibition 會干擾 neutrophils、macrophages、monocytes 訊號傳導。
+  - 真菌感染風險可能亦與 platelet-mediated antifungal effects 降低有關。
+- 發生時間
+  - 任一等級感染中位約 3 至 4 個月，範圍 0 至 >=4 年。
+  - 約三分之二首次感染發生於治療前 6 個月內。
+
+#### Second primary malignancy
+- 治療期間曾發生第二原發惡性腫瘤，並可導致停藥或死亡。
+- 類型可包括 skin carcinoma、lung carcinoma、gastrointestinal carcinoma、genitourinary cancer、secondary hematologic malignancy。
+- 在 chronic lymphocytic leukemia 之隨機對照試驗系統性回顧與統合分析中，acalabrutinib 單用或合併治療相較非 acalabrutinib 治療，第二原發惡性腫瘤風險較高。
+- 約 50% 為 nonmelanoma skin cancers。
+- 較高 baseline CD8 count 與較低風險有關。
+- 可能機轉
+  - 未明確確立，可能與 BTK inhibition 導致 innate immune surveillance 抑制有關。
+- 發生時間
+  - 診斷第二原發惡性腫瘤之中位時間約 1 至 2 年，範圍約 12 天至 >=7 年。
+- 風險因子
+  - chronic lymphocytic leukemia
+  - smoking
+  - 較高 baseline platelet count
+
+### 一般不良反應
+
+#### >10%
+- 皮膚科
+  - skin rash 9% 至 25%
+- 內分泌與代謝
+  - uric acid increased 15% 至 22%
+- 腸胃道
+  - abdominal pain 15%
+  - constipation 15%
+  - diarrhea 18% 至 35%，>= grade 3 <=3%
+  - nausea 19% 至 22%，>= grade 3 <1%
+  - vomiting 13%，>= grade 3 2%
+- 泌尿生殖
+  - urinary tract infection 15%
+- 血液與腫瘤
+  - anemia 47% 至 53%，>= grade 3 10% 至 15%
+  - bruise 10% 至 21%，包括 petechia
+  - hemorrhage 8% 至 20%，>= grade 3 <=2%，major hemorrhage <=4%
+  - lymphocytosis 16% 至 26%，>= grade 3 15% 至 19%
+  - neutropenia 23% 至 48%，>= grade 3 13% 至 23%
+  - second primary malignant neoplasm 12%
+  - thrombocytopenia 32% 至 33%，>= grade 3 3% 至 6%
+
+#### 補充表列資訊
+- Urinary tract infection
+  - chronic lymphocytic leukemia
+    - acalabrutinib 15%
+    - acalabrutinib plus obinutuzumab 15%
+    - obinutuzumab plus chlorambucil 5%
+- Anemia
+  - chronic lymphocytic leukemia
+    - acalabrutinib 47% 至 53%
+    - 比較組約 45% 至 57%
+    - >= grade 3 約 10% 至 15%
+- Bruise
+  - chronic lymphocytic leukemia 與 mantle cell lymphoma 研究中可見約 10% 至 31%
+- Hemorrhage
+  - 不同研究與比較組中整體出血約 20% 左右，major hemorrhage 可達 4% 以下
+
+
+
+## 投與方式
+
+### 成人
+- 口服
+  - 劑量間隔約 12 小時。
+  - 可與食物併服或空腹服用。
+  - 以水整粒吞服。
+  - 錠劑不可咀嚼、壓碎、溶解或切割。
+  - 膠囊不可打開、折斷或咀嚼。
+- 若與 obinutuzumab 同日給藥
+  - 用於先前未治療之 chronic lymphocytic leukemia 或 small lymphocytic lymphoma 時，應先給 acalabrutinib，再給 obinutuzumab。
+
+
+
+## 適應症
+
+### Labeled Indications
+- Chronic lymphocytic leukemia 或 small lymphocytic lymphoma
+  - 成人治療，可單獨使用或與 obinutuzumab 合併。
+- Mantle cell lymphoma
+  - 成人先前未治療且不適合 autologous hematopoietic cell transplantation 者，可與 bendamustine 及 rituximab 合併治療。
+  - 成人已接受至少 1 種先前治療者，可作為單藥治療。
+
+### Off-Label: Adult
+- Waldenstrom macroglobulinemia
+
+
+
+## 交互作用
+
+### Metabolism/Transport Effects
+- 為下列之 substrate
+  - BCRP
+  - CYP3A4，major
+  - P-glycoprotein，minor
+- 備註
+  - major 或 minor substrate 之歸類係根據臨床上具意義之交互作用潛力。
+
+## 生殖、懷孕、哺乳
+
+### Reproductive Considerations
+- 對可能懷孕者，使用前應確認 pregnancy status。
+- 可能懷孕者於治療期間及最後一劑後 1 週內，應使用有效避孕措施。
+
+### Pregnancy Considerations
+- 依動物生殖研究資料，子宮內暴露 acalabrutinib 可能造成胎兒傷害。
+
+### Breastfeeding Considerations
+- 尚不清楚 acalabrutinib 是否分泌至母乳。
+- 因可能對哺乳嬰兒造成不良影響，製造商不建議於治療期間及最後一劑後 2 週內哺乳。
+
+## 監測
+
+### Monitoring Parameters
+- 治療期間定期監測 CBC。
+  - 研究中多為每月監測。
+- 監測 bilirubin 與 transaminases
+  - baseline 與治療期間定期追蹤。
+  - 若原有肝功能異常或有肝毒性症狀，應更頻繁監測。
+- 可能懷孕者使用前應評估 pregnancy status。
+- 監測 arrhythmia 症狀
+  - 如 palpitations、dizziness、syncope、dyspnea。
+- 監測 bleeding 症狀
+  - 尤其在使用 antiplatelet 或 anticoagulant 者。
+- 監測 infection、secondary malignancies。
+- 與 venetoclax 合併時，監測 tumor lysis syndrome。
+- 監測服藥遵從性。
+- HBV screening
+  - ASCO 臨時臨床意見建議於開始全身性抗癌治療前或治療開始時，檢測 HBsAg、anti-HBc total Ig 或 IgG、anti-HBs。
+  - 不應因等待檢驗而延誤治療。
+  - 若偵測到慢性或既往 HBV infection，須進一步評估是否需要 antiviral prophylaxis、監測與追蹤。
+- Cardiovascular monitoring
+  - 治療前完整心血管評估，包括病史與理學檢查。
+  - 篩檢高血壓、糖尿病、血脂異常、肥胖、吸菸等危險因子。
+  - BP 於 baseline 與每次門診評估，且起始 3 個月可加做每週居家監測。
+  - 每次門診可考慮 ECG。
+  - 高風險病人建議 baseline echocardiography，以 transthoracic 為佳。
+  - 若發生 atrial fibrillation，建議進一步 echocardiography。
+
+## 藥理作用
+
+### Mechanism of Action
+- Acalabrutinib 為選擇性、不可逆之第二代 Bruton's tyrosine kinase，BTK，抑制劑。
+- Acalabrutinib 與其活性代謝物 ACP-5862 會與 BTK 活性位點之 cysteine residue 形成共價鍵，抑制 BTK enzyme activity。
+- BTK 為 B-cell receptor 與 cytokine receptor pathways 的重要成分。
+- 在 B-cells 中，BTK 參與調控 B-cell proliferation、trafficking、chemotaxis 與 adhesion。
+- 抑制 BTK 可降低惡性 B-cell proliferation 與 tumor growth。
+
+### Pharmacokinetics
+- Distribution
+  - Vdss
+    - acalabrutinib 約 101 L
+    - ACP-5862 約 67 L
+- Protein binding
+  - acalabrutinib 97.5%
+  - ACP-5862 98.6%
+  - 與 human plasma protein 結合
+- Metabolism
+  - 肝臟代謝為主
+  - 主要經 CYP3A enzymes
+  - 次要經 glutathione conjugation 與 amide hydrolysis
+  - 主要活性代謝物為 ACP-5862
+    - 幾何平均暴露量為 acalabrutinib 的 2 至 3 倍
+    - 但 BTK inhibition potency 約僅為 acalabrutinib 的 50%
+- Bioavailability
+  - 約 25%
+  - 高脂高熱量餐會使 Cmax 降低 73%，Tmax 延後 1 至 2 小時
+- Half-life elimination
+  - Tablets
+    - acalabrutinib 1.4 小時
+    - ACP-5862 6.4 小時
+  - Capsules
+    - acalabrutinib 1 小時
+    - ACP-5862 3.5 小時
+- Time to peak
+  - Tablets
+    - acalabrutinib 0.5 小時
+    - ACP-5862 0.75 小時
+  - Capsules
+    - acalabrutinib 0.9 小時
+    - ACP-5862 1.6 小時
+- Excretion
+  - 糞便 84%，其中未變化原型藥 <2%
+  - 尿液 12%，其中未變化原型藥 <2%
+- Clearance
+  - acalabrutinib 148 L/hour
+  - ACP-5862 19 L/hour
+
+### Pharmacokinetics: Additional Considerations
+- Hepatic impairment
+  - 與正常肝功能相比，acalabrutinib AUC 增加
+    - mild impairment，Child-Turcotte-Pugh A：1.9 倍
+    - moderate impairment，Child-Turcotte-Pugh B：1.5 倍
+    - severe impairment，Child-Turcotte-Pugh C：5.3 倍
+
+## 病人衛教重點
+
+### 用途
+- 用於治療某些白血病與淋巴瘤。
+
+### 常見但通常較輕微的不良反應
+- headache
+- 疲倦或虛弱
+- 背部、骨頭、關節、肌肉或頸部疼痛
+- stomach pain
+- 類似感冒症狀
+- constipation、diarrhea、vomiting、upset stomach
+
+### 需立即聯絡醫師或就醫之警訊
+- 感染徵象
+  - fever、chills、嚴重 sore throat、耳痛或鼻竇痛、cough、痰量增加或顏色改變、排尿疼痛、mouth sores、傷口不癒合
+- 出血徵象
+  - 吐血、咳血、咖啡色嘔吐物、血尿、黑便、紅便、柏油樣便、牙齦出血、異常陰道出血、無故瘀青或瘀青惡化、無法止住的出血
+- 神經學症狀
+  - 單側無力、說話或思考困難、平衡改變、單側臉部下垂、視力模糊
+- dizziness 或昏厥
+- chest pain、chest pressure、心跳過快或心律不整
+- shortness of breath
+- 痣顏色或大小改變
+- 新的皮膚腫塊或增生
+- PML 症狀
+  - confusion、memory problems、depression、行為改變、單側力量變化、說話或思考困難、平衡改變、視力改變
+- 嚴重肝問題徵象
+  - dark urine、tiredness、食慾下降、upset stomach、腹痛、淡色便、vomiting、黃疸
+- 過敏反應徵象
+  - rash、hives、itching、發紅腫脹起泡或脫皮、wheezing、胸或喉嚨緊縮、呼吸吞嚥或說話困難、異常聲音沙啞、口唇舌臉或喉嚨腫脹
+
+
+## 參考來源
+
+- UpToDate Lexidrug, UpToDate, Inc. and its affiliates and/or licensors.
+- 文件標題
+  - Acalabrutinib: Drug information
+- 版權資訊
+  - 2026© UpToDate, Inc. and its affiliates and/or licensors. All Rights Reserved.
+

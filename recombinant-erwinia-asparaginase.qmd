@@ -1,0 +1,218 @@
+---
+title: "recombinant-erwinia-asparaginase"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+
+## 藥品名稱
+- Recombinant Erwinia asparaginase
+
+## 商品名
+### 美國
+- Rylaze
+
+### 加拿大
+- Rylaze
+
+## 藥理分類
+- 抗腫瘤藥物，酵素類
+- 抗腫瘤藥物，其他類
+
+## 劑量
+### 成人
+#### 成人劑量
+- 注意事項
+  - 不可將 asparaginase (Erwinia [recombinant]) 與 asparaginase (Erwinia) 互相替代，兩者為不同產品，劑量亦不同。
+  - 應於具備急救設備與可處理過敏性休克之藥物的醫療環境中給藥。
+
+- 預先用藥
+  - 建議於給藥前 30 至 60 分鐘給予下列藥物以降低過敏反應風險與嚴重度：
+    - acetaminophen
+    - H1 抗組織胺（例如 diphenhydramine）
+    - H2 抗組織胺（例如 famotidine）
+
+- 血栓預防
+  - 在 asparaginase 治療的誘導期與強化期，可考慮使用低分子量肝素（LMWH）預防靜脈血栓栓塞。
+  - 若血小板 <30,000/mm3，應暫停 LMWH。
+
+#### 急性淋巴性白血病
+- 用於替代長效型 asparaginase 製劑
+
+##### 每 48 小時給藥方案
+- IM
+  - 25 mg/m² 每 48 小時一次
+  - 1 劑 calaspargase pegol 可替代為 11 劑 asparaginase (Erwinia [recombinant])
+  - 1 劑 pegaspargase 可替代為 7 劑 asparaginase (Erwinia [recombinant])
+  - 治療期間依化療 protocol 決定
+
+##### 週一、週三、週五給藥方案
+- IM
+  - 週一早上 25 mg/m²
+  - 週三早上 25 mg/m²
+  - 週五下午 50 mg/m²
+  - 週五劑量應於週三劑量後 53 至 58 小時給予
+  - 1 劑 calaspargase pegol 可替代為 9 劑 asparaginase (Erwinia [recombinant])
+  - 1 劑 pegaspargase 可替代為 6 劑 asparaginase (Erwinia [recombinant])
+  - 治療期間依 protocol 決定
+
+#### 淋巴母細胞性淋巴瘤
+- 用於替代長效型 asparaginase 製劑
+
+##### 每 48 小時給藥方案
+- IM
+  - 25 mg/m² 每 48 小時一次
+  - 1 劑 calaspargase pegol 可替代為 11 劑 asparaginase (Erwinia [recombinant])
+  - 1 劑 pegaspargase 可替代為 7 劑 asparaginase (Erwinia [recombinant])
+
+##### 週一、週三、週五給藥方案
+- IM
+  - 週一早上 25 mg/m²
+  - 週三早上 25 mg/m²
+  - 週五下午 50 mg/m²
+
+### 腎功能不全
+- 依原始資料未提供明確劑量調整建議
+
+### 肝功能不全
+- 依原始資料未提供明確劑量調整建議
+
+### 肥胖
+- 無明確建議
+
+### 毒性調整
+- 依治療 protocol 進行劑量調整
+
+### 高齡患者
+- 未提供特定劑量調整
+
+### 小兒
+#### 小兒劑量
+- 劑量與成人方案類似
+- 應依化療 protocol 給藥
+
+#### 腎功能不全
+- 無明確調整建議
+
+#### 肝功能不全
+- 無明確調整建議
+
+## 不良反應
+- 過敏反應
+- 嗜中性球減少
+- 白血球減少
+- 血小板減少
+- 貧血
+- 出血
+- 胰臟炎
+- 高血糖
+- 肝毒性
+- 高膽紅素血症
+- 凝血異常
+- 血栓栓塞
+- 疲倦
+- 噁心
+- 嘔吐
+- 腹瀉
+- 皮疹
+
+## 禁忌症與警告
+### 禁忌症
+- 對 asparaginase 或其任何成分曾發生嚴重過敏反應
+
+### 警告與注意事項
+- 過敏反應與過敏性休克
+- 胰臟炎
+- 凝血異常
+- 出血或血栓形成
+- 肝毒性
+- 高血糖
+- 神經毒性
+
+
+## 給藥方式
+### 成人
+#### 給藥
+- IM 注射
+
+#### 給藥前準備
+- 應於具備急救設備之醫療環境給藥
+- 建議預先使用抗過敏藥物
+
+### 小兒
+#### 給藥
+- IM 注射
+
+#### 給藥前準備
+- 與成人相同
+
+## 儲存與穩定性
+- 依製造商建議冷藏保存
+- 避免冷凍
+- 依產品說明書使用期限內使用
+
+## 適應症
+### 核准適應症
+- 急性淋巴性白血病
+- 淋巴母細胞性淋巴瘤
+- 用於對長效型 asparaginase 過敏患者之替代治療
+
+## 用藥安全注意事項
+- 應監測過敏反應
+- 注意胰臟炎症狀
+- 監測凝血功能
+
+## 交互作用
+### 代謝與轉運影響
+- 可能影響凝血系統
+
+## 生殖、懷孕與哺乳
+### 生殖考量
+- 動物研究顯示可能具有生殖毒性
+
+### 懷孕
+- 應評估母體治療利益與胎兒風險
+
+### 哺乳
+- 是否分泌於乳汁尚不明
+- 建議治療期間避免哺乳
+
+## 監測
+### 監測項目
+- 全血球計數
+- 肝功能
+- 凝血功能
+- 血糖
+- 胰臟酵素
+- 過敏反應
+
+## 藥理學
+### 作用機轉
+- asparaginase 為酵素類抗腫瘤藥物
+- 可水解 asparagine 為 aspartic acid 與 ammonia
+- 腫瘤細胞缺乏 asparagine 合成能力，因而抑制蛋白質合成並導致細胞死亡
+
+### 藥物動力學
+- IM 注射後吸收
+- 主要於血液中發揮作用
+
+### 藥物動力學附加資訊
+- 替代長效型 asparaginase 時需使用較頻繁劑量
+
+## 病人衛教
+- 若出現呼吸困難、皮疹、臉部腫脹應立即就醫
+- 若出現嚴重腹痛可能為胰臟炎
+- 若有異常出血或瘀青應通知醫師
+- 若出現極度疲倦或黃疸需立即評估
+
+## 參考來源
+
+UpToDate Lexidrug™, UpToDate, Inc. and its affiliates and/or licensors.  
+Copyright information: © 2026 UpToDate, Inc. and its affiliates and/or licensors. All rights reserved.
+
