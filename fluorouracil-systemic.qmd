@@ -1,0 +1,442 @@
+---
+title: "fluorouracil-systemic"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+
+## 警示
+
+### 特別警示
+
+- Fluorouracil (5-FU) Safety Alert
+  - 日期：2026-02
+  - FDA 旨在提高對 capecitabine (Xeloda) 與 fluorouracil (5-FU) 最新仿單更新的認知；更新重點與 dihydropyrimidine dehydrogenase (DPD) deficiency 相關風險有關。
+  - 臨床人員應：
+    - 知悉 DPD deficiency 的風險。
+    - 在治療前告知病人，DPD deficiency 可導致嚴重甚至致命毒性，例如：
+      - mucositis
+      - diarrhea
+      - neutropenia
+      - neurotoxicity
+    - 於開始 capecitabine 或 5-FU 前檢測 DPYD 基因變異；但若臨床上需立即開始治療則例外。
+  - 修訂後仿單包括：
+    - Boxed Warning：強調 complete DPD deficiency 病人可能出現嚴重不良反應或死亡。
+    - Dosage and Administration：開始治療前應評估並檢測 DPD deficiency；對 partial deficiency 病人需個別化治療。
+    - Warnings and Precautions：再次強調治療前基因檢測的重要性。
+  - 另可參考 FDA 安全性更新公告。
+
+### 美國黑框警語
+
+- 嚴重不良反應或死亡：發生於 complete DPD deficiency 病人
+  - 除非必須立即開始治療，開始 fluorouracil 前應先檢測 DPYD 基因變異。
+  - 對於某些 homozygous 或 compound heterozygous DPYD 變異、且會造成 complete DPD deficiency 的病人，應避免使用 fluorouracil。
+
+## 藥理分類
+
+- Antineoplastic Agent, Antimetabolite
+- Antineoplastic Agent, Antimetabolite (Pyrimidine Analog)
+
+## 劑量
+
+### 成人
+
+#### 成人劑量
+
+- 劑量指引
+  - 給藥：
+    - Dihydropyrimidine dehydrogenase deficiency
+      - 除非必須立即開始治療，開始 fluorouracil 前應檢測 DPD 基因 DPYD 變異。
+      - 對 complete DPD deficiency 病人，若具有某些 homozygous 或 compound heterozygous DPYD 變異，應避免使用 fluorouracil。
+      - 對 complete DPD deficiency 病人，目前沒有已證實安全的 fluorouracil 劑量。
+      - 對 partial DPD activity 病人，仿單資料不足以推薦特定 fluorouracil 劑量；但 CPIC 與 Dutch Pharmacogenetics Working Group 均對已知 DPD 活性下降病人提供劑量建議。
+  - 臨床考量：
+    - 非仿單用途劑量的額外細節應參照具體治療 protocol 或機構指引。
+
+- 適應症／情境
+  - Anal carcinoma（off-label）
+    - Localized disease
+      - IV：
+        - 1,000 mg/m2/day 連續輸注，第 1 至 4 天，總劑量 4,000 mg/m2
+        - 以及第 29 至 32 天，總劑量 4,000 mg/m2
+        - 通常與 mitomycin 合併
+  - Bladder cancer（off-label）
+    - 與 cisplatin、methotrexate、vinblastine 等方案併用時，依具體 regimen 給藥
+  - Breast cancer（off-label）
+    - 可用於多種合併化療方案，依 protocol 給藥
+  - Cervical cancer（off-label）
+    - 可作為合併放療或併用化療之一部分
+  - Colorectal cancer
+    - 依不同 regimen 使用：
+      - bolus
+      - continuous infusion
+      - 與 leucovorin 合併
+      - 與 oxaliplatin、irinotecan、bevacizumab、panitumumab、cetuximab 等併用
+    - 常見為 FOLFOX、FOLFIRI、de Gramont、modified de Gramont、mFOLFOX、FOLFOXIRI 等架構之一部分
+  - Esophageal cancer（off-label）
+    - 與 platinum 或放療合併
+  - Gastric cancer（off-label）
+    - 與 platinum 或其他藥物合併
+  - Head and neck cancer（off-label）
+    - 與 cisplatin 或 carboplatin 合併，亦可併放療
+  - Hepatobiliary / pancreatic / other GI malignancies（off-label）
+    - 視 regimen 與治療目標調整
+  - Penile cancer（off-label）
+  - Small bowel adenocarcinoma（off-label）
+  - Other solid tumors
+    - 於多種成人實體腫瘤 regimen 中作為 antimetabolite backbone 使用
+
+- 重要原則
+  - 本品成人 dosing 高度依賴：
+    - 癌種
+    - 疾病期別
+    - 與其他藥物或放療的併用方式
+    - bolus 或 continuous infusion 給藥模式
+    - 機構 protocol
+  - 完整 regimen 細節需依原始 protocol 決定。
+
+#### 成人：腎功能不全
+
+- Fluorouracil 本身主要非經腎排除。
+- 一般情況下：
+  - 無明確建議常規劑量調整。
+- 臨床上仍應考慮：
+  - 病人整體耐受性
+  - 合併藥物
+  - 骨髓抑制
+  - 脫水、腹瀉、黏膜炎等毒性對腎功能的間接影響
+
+#### 成人：肝功能不全
+
+- 建議依：
+  - bilirubin
+  - AST/ALT
+  - 臨床毒性
+  - 整體肝功能狀態
+  - 既往耐受性
+- 若有明顯肝功能異常或毒性，可能需減量、延遲或停藥。
+- 實際調整仍應依 regimen 與臨床情況個別化。
+
+#### 成人：肥胖
+
+- ASCO 化療劑量原則：
+  - 以實際體重計算 BSA 的 full weight-based dosing，尤其在治癒意圖治療時，不應僅因肥胖而預設減量。
+
+#### 成人：毒性調整
+
+- 毒性調整應依：
+  - myelosuppression
+  - mucositis
+  - diarrhea
+  - hand-foot syndrome
+  - neurotoxicity
+  - cardiotoxicity
+  - 其他 regimen-specific toxicity
+- 若出現顯著毒性：
+  - 暫停治療
+  - 待恢復後減量
+  - 必要時永久停藥
+- 若懷疑 DPD deficiency：
+  - 應重新評估是否繼續使用
+  - complete deficiency 應避免使用
+
+#### 成人：高齡
+
+- 無單獨固定建議。
+- 高齡病人常需更仔細監測：
+  - 骨髓抑制
+  - 腹瀉
+  - mucositis
+  - 脫水
+  - 感染
+  - 功能狀態下降
+
+### 兒科
+
+#### 兒科劑量
+
+- Labeling 未提供完整標準兒科劑量架構。
+- 兒科使用通常依：
+  - 具體疾病
+  - protocol
+  - 體表面積
+  - 合併治療方案
+- 實際 dosing 應由 pediatric oncology protocol 決定。
+
+#### 兒科：腎功能不全
+
+- 無明確標準調整建議。
+- 需依病人臨床狀態與毒性個別化。
+
+#### 兒科：肝功能不全
+
+- 無明確標準調整建議。
+- 需依肝功能、毒性與 protocol 個別化。
+
+## 不良反應
+
+### 重大不良反應：臨床考量
+
+- 骨髓抑制
+  - 嗜中性球減少
+  - 血小板減少
+  - 貧血
+
+- 胃腸道毒性
+  - 腹瀉
+  - 口腔炎
+  - 黏膜炎
+  - 噁心
+  - 嘔吐
+
+- 皮膚相關毒性
+  - 手足症候群（hand-foot syndrome；掌蹠紅腫疼痛）
+  - 光敏感反應
+  - 皮膚與指甲變化
+
+- 心臟毒性
+  - 心絞痛
+  - 心肌缺血
+  - 心律不整
+  - 心肌梗塞
+  - 心衰竭
+  - 猝死（少見但可能發生）
+
+- 神經毒性
+  - 神經系統症狀
+  - 小腦症候群
+
+- 高血氨腦病變（hyperammonemic encephalopathy）
+
+- 眼部毒性
+
+- 肝毒性
+
+- DPD 缺乏相關嚴重毒性
+  - 完全性 DPD 缺乏可能導致致命毒性
+  - 部分性 DPD 缺乏亦可能增加嚴重毒性風險
+
+- 臨床上應特別警覺下列情況
+  - 早期即出現異常嚴重毒性
+  - 無法解釋的重度黏膜炎
+  - 嚴重腹瀉
+  - 持續性嗜中性球減少
+  - 神經毒性
+  - 可能提示潛在的 DPD 缺乏
+
+### 不良反應列表
+
+- 全身症狀
+  - 疲倦
+  - 發燒
+  - 食慾下降
+
+- 血液學
+  - 白血球減少
+  - 嗜中性球減少
+  - 血小板減少
+  - 貧血
+
+- 胃腸道
+  - 腹瀉
+  - 噁心
+  - 嘔吐
+  - 口腔炎
+  - 黏膜炎
+  - 食道咽喉炎
+
+- 皮膚與皮下組織
+  - 皮疹
+  - 皮膚炎
+  - 手足症候群
+  - 光敏感反應
+  - 掉髮
+
+- 眼部
+  - 結膜炎
+  - 眼睛刺激感
+  - 流淚增加
+
+- 肝臟
+  - 膽紅素上升
+  - 肝功能異常
+
+- 心血管
+  - 胸痛
+  - 冠狀動脈血管痙攣
+  - 心電圖變化
+
+- 神經系統
+  - 神經毒性
+  - 小腦症候群
+  - 腦病變
+
+## 禁忌症與警語
+
+### 禁忌症
+
+- Fluorouracil、其任一成分或 formulation component 已知過敏者禁用。
+- complete DPD deficiency 病人應避免使用。
+
+### 警語／注意事項
+
+- Bone marrow suppression
+- Cardiotoxicity
+  - 可發生胸痛、缺血、心律不整、心肌梗塞、心衰竭
+- DPD deficiency
+  - 治療前應考慮基因檢測
+  - complete deficiency 應避免使用
+- GI toxicity
+  - diarrhea
+  - mucositis
+  - stomatitis
+  - dehydration
+- Dermatologic toxicity
+  - hand-foot syndrome
+- Neurotoxicity
+- Hyperammonemic encephalopathy
+- Photosensitivity
+- Infection risk
+- Combination therapy risk
+  - 與其他 cytotoxic agents 或 radiation 併用時毒性可能增加
+
+
+
+## 儲存與安定性
+
+### Storage/Stability
+
+- 依原廠標示室溫或指定條件保存。
+- 避免極端溫度。
+- 稀釋後安定性依 diluent、濃度、容器與保存條件而不同。
+- 若發生結晶／沉澱，應依原文建議處理；使用前需確認溶液外觀合適。
+- 應避免使用超過建議安定期限之製備液。
+
+## 用途
+
+### 核准適應症
+
+- Adenocarcinoma of the colon
+- Adenocarcinoma of the rectum
+- Adenocarcinoma of the breast
+- Adenocarcinoma of the stomach
+- Pancreatic adenocarcinoma
+
+### 成人：非仿單用途
+
+- 多種實體腫瘤 regimen 的組成藥物，包括但不限於：
+  - anal carcinoma
+  - bladder cancer
+  - cervical cancer
+  - esophageal cancer
+  - gastric / gastroesophageal malignancy
+  - head and neck cancer
+  - penile cancer
+  - small bowel adenocarcinoma
+  - 其他 GI 或 solid tumor indications
+
+
+## 交互作用
+
+### 代謝／轉運影響
+
+- Metabolism/Transport Effects
+  - 無特定可簡化為單一句的代謝轉運摘要；實際交互作用風險仍需查詢完整 drug interaction 資料庫。
+
+## 生殖、懷孕、哺乳
+
+### 生殖相關考量
+
+- Fluorouracil 可能影響生育能力。
+- 具胚胎毒性與致畸風險。
+
+### 懷孕考量
+
+- 懷孕期間暴露可能造成胎兒傷害。
+- 有生殖能力之病人於治療期間與治療後一段時間應採取有效避孕。
+- 若治療期間懷孕，應告知胎兒可能風險。
+
+### 哺乳考量
+
+- 由於對嬰兒潛在嚴重不良反應風險，治療期間不建議哺乳。
+- 停藥後恢復哺乳時間依原廠建議辦理。
+
+## 飲食考量
+
+### Dietary Considerations
+
+- 無特定飲食限制摘要；應依治療毒性與臨床情況調整。
+
+## 監測
+
+### Monitoring Parameters
+
+- CBC with differential
+- Platelet count
+- Signs/symptoms of infection
+- GI toxicity
+  - diarrhea
+  - mucositis
+  - stomatitis
+- Dermatologic toxicity
+  - hand-foot syndrome
+- Cardiac symptoms
+  - chest pain
+  - ischemia
+  - arrhythmia
+- Neurologic changes
+- Liver function
+- Renal function（特別是合併其他 nephrotoxic therapy 時）
+- Nutritional / hydration status
+- 如懷疑 DPD deficiency：
+  - 考慮 DPYD testing
+  - 重新評估持續治療安全性
+
+## 藥理學
+
+### 作用機轉
+
+- Fluorouracil 為 pyrimidine analog antimetabolite。
+- 經細胞內活化後可抑制 thymidylate synthase，干擾 DNA synthesis。
+- 亦可掺入 RNA 與 DNA，造成核酸功能異常與細胞死亡。
+
+### 藥物動力學
+
+- 成人資料為主。
+- IV 給藥後分布廣泛。
+- 主要於肝臟與其他組織經 DPD 代謝。
+- 半衰期短，但活性代謝物與細胞效應可持續更久。
+- 腎排除非主要清除途徑。
+
+## 病人諮詢重點
+
+### Patient Counseling Points
+
+- 說明本藥可能造成嚴重副作用。
+- 若出現以下情況應立即通報：
+  - 發燒
+  - 感染徵象
+  - 嚴重腹瀉
+  - 口腔潰瘍或黏膜炎
+  - 無法進食或脫水
+  - 胸痛
+  - 呼吸困難
+  - 神經學症狀
+  - 嚴重皮膚反應
+- 說明 hand-foot syndrome 可能表現：
+  - 手足紅、腫、痛、脫皮
+- 避免日曬並採取防曬措施。
+- 治療期間及建議期間內應採有效避孕。
+- 懷孕或哺乳相關問題需先與醫療團隊討論。
+- 本藥可能與 DPD deficiency 有關；若曾於 fluoropyrimidine 治療發生異常嚴重毒性，應主動告知醫師。
+
+## 參考來源
+
+UpToDate Lexidrug™, UpToDate, Inc. and its affiliates and/or licensors.
+Source topic title: Fluorouracil (systemic): Drug information.

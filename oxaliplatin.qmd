@@ -1,0 +1,749 @@
+---
+title: "oxaliplatin"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+## ALERTS
+
+### US Boxed Warning
+
+- 過敏反應／anaphylactic reactions：
+  - Oxaliplatin 可於給藥後數分鐘內、且可在任何一個治療週期中引發嚴重甚至致命的過敏不良反應，包括 anaphylaxis。
+  - 對 oxaliplatin 或其他 platinum-based drugs 曾發生過敏反應之患者，禁用 oxaliplatin。
+  - 一旦發生過敏反應，應立即且永久停用 oxaliplatin，並給予適當治療處置。
+
+
+## Pharmacologic Category
+
+- 抗腫瘤藥，alkylating agent
+- 抗腫瘤藥，platinum analog
+
+## Dosing
+
+### Adult
+
+#### Adult Dosing
+
+- 劑量指引：
+  - 安全性：
+    - 開始 oxaliplatin 前與治療期間，應矯正 hypokalemia 與 hypomagnesemia。
+    - 先天性 long QT syndrome 患者應避免使用 oxaliplatin。
+  - 臨床考量：
+    - Oxaliplatin 具中度致吐性，且已知可造成延遲性噁心與嘔吐；建議使用止吐藥預防。
+    - 關於 off-label dosing 的細節，應同時參考治療 protocol 或機構內指引。
+
+- 膽道癌，advanced：
+  - off-label use
+  - GEMOX regimen：
+    - IV：100 mg/m2，day 2，每 2 週一次，與 gemcitabine 併用，持續至疾病進展或不可接受毒性。
+  - modified GEMOX regimen：
+    - IV：80 mg/m2，days 1 and 8，每 3 週一次，與 gemcitabine 併用，最多 6 cycles。
+  - CAPOX regimen：
+    - IV：130 mg/m2，day 1，每 3 週一次，與 capecitabine 併用，持續至疾病進展或不可接受毒性。
+  - FOLFOX regimen：
+    - IV：85 mg/m2，day 1，每 2 週一次，與 fluorouracil 及 leucovorin 併用，持續至疾病進展或不可接受毒性。
+
+- 慢性淋巴性白血病，fludarabine refractory：
+  - off-label use
+  - IV：130 mg/m2，每 3 週一次，與 cytarabine、dexamethasone、rituximab 併用。
+
+- 大腸直腸癌，advanced：
+  - IV：85 mg/m2，day 1，每 2 週一次，與 infusional fluorouracil 及 leucovorin 併用。
+
+- 結腸癌，stage III，adjuvant therapy：
+  - IV：85 mg/m2，day 1，每 2 週一次，與 infusional fluorouracil 及 leucovorin 併用，共 12 cycles。
+
+- 食道癌：
+  - off-label use
+  - CAPOX + nivolumab regimen（advanced 或 metastatic esophageal or gastroesophageal junction cancer）：
+    - IV：130 mg/m2，day 1，每 3 週一次，與 capecitabine、nivolumab 併用。
+  - FOLFOX + nivolumab regimen：
+    - IV：85 mg/m2，day 1，每 2 週一次，與 infusional fluorouracil、leucovorin、nivolumab 併用。
+  - chemoradiation regimens：
+    - IV：通常 85 mg/m2，依 protocol 與 fluoropyrimidine／radiation 併用。
+  - perioperative or neoadjuvant/adjuvant regimens：
+    - 依使用 CAPOX、FOLFOX 或其他 protocol 而定。
+
+- 胃癌：
+  - off-label use
+  - Adjuvant therapy：
+    - IV：130 mg/m2，day 1，每 21 天一個 cycle，與 capecitabine 併用。
+  - Advanced or metastatic disease：
+    - CAPOX：
+      - IV：130 mg/m2，day 1，每 3 週一次，與 capecitabine 併用。
+    - FOLFOX：
+      - IV：85 mg/m2，day 1，每 2 週一次，與 fluorouracil、leucovorin 併用。
+    - 與 nivolumab 或其他 agents 併用時，依 protocol 調整。
+
+- 神經內分泌腫瘤：GI/carcinoid，refractory：
+  - off-label use
+  - IV：130 mg/m2，每 3 週一次，或依 CAPOX/FOLFOX 類 regimen 與 capecitabine 或 fluorouracil/leucovorin 併用。
+
+- Non-Hodgkin lymphomas，relapsed 或 refractory：
+  - off-label use
+  - IV：100 mg/m2，依 regimen 與 gemcitabine、rituximab 或其他藥物併用。
+
+- 卵巢癌，advanced：
+  - off-label use
+  - IV：130 mg/m2，每 3 週一次，可單藥使用，或與其他 agents 併用。
+
+- 胰臟癌，advanced 或 metastatic：
+  - off-label use
+  - FOLFIRINOX regimen：
+    - IV：85 mg/m2，day 1，每 2 週一次，與 leucovorin、irinotecan、fluorouracil 併用。
+  - modified FOLFIRINOX regimen：
+    - IV：常用 85 mg/m2，day 1，每 2 週一次，細節依 protocol。
+  - 其他 oxaliplatin-containing regimens：
+    - 依 protocol 與 gemcitabine、capecitabine 或 fluoropyrimidines 併用。
+
+- 胰臟癌，potentially curable，adjuvant therapy：
+  - off-label use
+  - modified FOLFIRINOX：
+    - IV：85 mg/m2，day 1，每 2 週一次，與 irinotecan、leucovorin、fluorouracil 併用。
+
+- 小腸腺癌，advanced unresectable 或 metastatic：
+  - off-label use
+  - CAPOX：
+    - IV：130 mg/m2，day 1，每 3 週一次，與 capecitabine 併用。
+  - FOLFOX：
+    - IV：85 mg/m2，day 1，每 2 週一次，與 fluorouracil、leucovorin 併用。
+
+- 睪丸癌，refractory：
+  - off-label use
+  - IV：130 mg/m2，每 3 週一次，與其他 salvage regimen agents 併用。
+
+- 原發不明癌，recurrent 或 refractory：
+  - off-label use
+  - IV：130 mg/m2，每 3 週一次，與 paclitaxel、capecitabine 或其他 agents 併用，依 protocol。
+
+- 併用治療之劑量調整：
+  - 與其他藥物存在顯著 drug interactions 時，可能需調整劑量或頻率，或避免某些併用組合。
+  - 相關內容應參考具體 regimen、protocol 與 product labeling。
+
+#### Kidney Impairment
+
+- 腎功能劑量建議係根據現有最佳證據與臨床專家意見。
+- 註：
+  - CrCl 可使用 Cockcroft-Gault equation 計算。
+- Altered kidney function：
+  - IV：
+    - CrCl ≥30 mL/minute：
+      - 不需調整劑量。
+    - CrCl 20 to <30 mL/minute：
+      - 給予一般適應症劑量的 75% 至 100%。
+      - 例如：製造商 labeling 於 colorectal cancer 建議由 85 mg/m2 減至 65 mg/m2。
+      - 另有觀點認為，CrCl >20 mL/minute 患者雖 unbound platinum exposure 增加，但未必伴隨更多 drug-related toxicity，因此亦可考慮使用 100% 標準劑量。
+    - CrCl <20 mL/minute：
+      - 給予一般適應症劑量的 75%。
+      - 例如：可由 85 mg/m2 減至 65 mg/m2。
+- Hemodialysis，intermittent（每週 3 次）：
+  - 可部分被透析移除，約 56% free platinum 可透析。
+  - 建議：
+    - 若可能，避免使用，因資料有限。
+    - 若必須使用，可先以一般建議劑量的 75% 起始，再依療效與毒性調整。
+    - 可考慮於輸注後安排透析以降低毒性風險。
+    - 為利藥物分布至組織，輸注完成後至少間隔 1.5 至 2 小時再進行透析。
+- Peritoneal dialysis：
+  - 可透析性未知。
+  - 建議：
+    - 若可能，避免使用。
+    - 若必須使用，可比照 CrCl <20 mL/minute 劑量。
+    - 若仍有顯著殘餘腎功能，應個別化調整。
+- CRRT：
+  - 藥物清除受 effluent flow rate、filter type、renal replacement method 影響。
+  - 建議係基於 high-flux dialyzer、effluent flow 20 至 25 mL/kg/hour、且殘餘腎功能極低的條件。
+  - 無研究資料。
+  - 若必須使用，可給予 100% 一般適應症劑量，但須密切監測累積毒性，特別是 neurotoxicity。
+- PIRRT：
+  - 無研究資料。
+  - 若必須使用，可給予 100% 一般適應症劑量。
+  - 可考慮輸注後透析，並於輸注完成後至少 1.5 至 2 小時再開始透析。
+
+#### Liver Impairment
+
+- 肝功能劑量建議係根據現有最佳證據與臨床專家意見。
+- 一般原則：
+  - 抗癌藥於 baseline liver impairment 下之調整，應依治療目標（curative、palliative 等）、肝功能異常原因、合併療法與可替代方案綜合判斷。
+- 依現有資料：
+  - 一般不需因輕至中度 baseline liver impairment 常規調整 oxaliplatin 劑量。
+  - 對於嚴重肝功能異常患者之資料有限，應個別化使用並密切監測毒性。
+
+#### Obesity
+
+- ASCO 對 BMI ≥30 kg/m2 成人癌症患者之 systemic therapy dosing 建議：
+  - BSA-based 或 weight-based dosing 應使用實際體重計算。
+  - Regimen-related toxicities 之處理方式，與 BMI <30 kg/m2 患者相同。
+  - 若因毒性曾減量，後續 cycles 可考慮恢復為完整 weight-based dosing，或恢復至先前可耐受之劑量。
+
+#### Adjustment for Toxicity
+
+- 註：
+  - 下列劑量減量建議主要適用於 CrCl ≥30 mL/minute 患者。
+  - 對 CrCl <30 mL/minute 或接受 renal replacement therapy 者，如發生 oxaliplatin 相關毒性，可能需更進一步減量。
+  - 其他合併抗癌藥亦可能需暫停、減量或停藥。
+
+- Stage III colon cancer adjuvant therapy 劑量調整：
+  - GI toxicity：
+    - Grade 3 或 4：
+      - 恢復後，將 oxaliplatin 降至 75 mg/m2。
+      - 同時也需調降 fluorouracil 劑量。
+  - Hematologic toxicity：
+    - Grade 4 neutropenia 或 neutropenic fever：
+      - 延後下次治療，直到 neutrophils 恢復至 ≥1,500/mm3，platelets ≥75,000/mm3。
+      - 恢復後，將 oxaliplatin 降至 75 mg/m2。
+    - Grade 3 或 4 thrombocytopenia：
+      - 延後治療至 platelets ≥75,000/mm3。
+      - 恢復後，將 oxaliplatin 降至 75 mg/m2。
+  - Neurotoxicity：
+    - Persistent grade 2 neurosensory events：
+      - Adjuvant therapy 時考慮減量為 75 mg/m2。
+    - Grade 3 neurosensory event：
+      - 考慮停藥。
+    - Grade 4：
+      - 停藥。
+  - 避免於輸注期間或輸注後數小時內以冰塊預防 mucositis，亦避免暴露於冷環境或冷食／冷飲，以免加重症狀。
+
+- Advanced colorectal cancer 劑量調整：
+  - 一般原則類似：
+    - Grade 3 或 4 GI toxicity、hematologic toxicity 或 clinically significant neurotoxicity 時，延後下一次給藥，待恢復後減量至 65 或 75 mg/m2，依 regimen 與臨床情況調整。
+  - 若發生持續性功能受損 neuropathy，應停藥。
+
+#### Older Adult
+
+- 不需常規調整劑量。
+- 請參考成人標準劑量。
+
+### Pediatric
+
+#### Pediatric Dosing
+
+- 另請參考 "Oxaliplatin: Pediatric drug information"。
+- 應依個別 protocol 給藥；若為 combination regimens，也應同時參考該 regimen 的細節。
+- Oxaliplatin 具中度致吐性；建議使用止吐藥預防噁心與嘔吐。
+- Solid tumors，relapsed/refractory：
+  - 資料有限。
+  - 曾有多種 regimens 被報告，療效差異很大。
+  - 在兒童 solid tumors 中整體活性有限。
+  - 常見作法為：
+    - IV：依 protocol 給藥，常見為 130 mg/m2 每 3 週一次，或 85 mg/m2 每 2 週一次，與其他藥物併用。
+
+#### Kidney Impairment
+
+- 無兒科專一建議。
+- 可參考個別 protocol。
+- 依成人經驗，可考慮進行劑量調整。
+
+#### Liver Impairment
+
+- 無兒科專一建議。
+- 可參考個別 protocol。
+- 依成人經驗，有些文獻認為通常不需調整劑量。
+
+## Adverse Reactions
+
+### Adverse Reactions (Significant): Considerations
+
+- 骨髓抑制：
+  - Oxaliplatin 為 DNA-alkylating platinum compound，可造成骨髓抑制。
+  - 可見嗜中性白血球減少，通常為輕度且非複雜型，但亦曾導致嗜中性白血球低下性發燒、嗜中性白血球低下性敗血症、敗血性休克，部分病例致命。
+  - 亦可發生血小板減少，可伴或不伴脾臟腫大，且可能與出血相關。
+  - 亦曾觀察到貧血。
+
+- 過敏反應：
+  - 可發生嚴重甚至致命之過敏反應，包括 anaphylaxis。
+  - 多於輸注開始後數分鐘內發生，但任何 cycle 都可能出現。
+  - 過去曾對 platinum compounds 過敏者風險較高。
+
+- 神經毒性：
+  - 常見且具特色。
+  - 包括急性、可逆、以感覺症狀為主的神經病變，常由冷刺激誘發或加劇。
+  - 症狀可包括感覺異常、麻刺感、下顎痙攣、咽喉緊縮感、構音困難、咽喉感覺異常。
+  - 慢性周邊感覺神經病變可隨累積劑量增加而加重，並可造成功能障礙。
+
+- 肺毒性：
+  - 可見間質性肺病、肺纖維化、肺炎，部分病例致命。
+
+- 可逆性後部腦病症候群：
+  - 曾有報告。
+  - 若出現頭痛、癲癇、意識改變或視覺改變，應考慮此診斷，並以 MRI 確認。
+
+- 肝毒性：
+  - 可造成 hepatic sinusoidal injury、veno-occlusive disease／sinusoidal obstruction syndrome 相關變化。
+  - 可能與門脈高壓、脾臟腫大、血小板減少有關。
+
+- QT 間期延長：
+  - 已有 QT 間期延長及心室心律不整報告。
+  - 電解質異常、先天性 long QT syndrome、合併會延長 QT 藥物時風險更高。
+
+- 橫紋肌溶解：
+  - 罕見但曾被報告，可為嚴重或致命。
+
+### Adverse Reactions
+
+- 以下不良反應與發生率主要來自 product labeling，除非另有說明。
+- 若無另外註明，百分比多為 monotherapy 報告值。
+
+- >10%：
+  - 胃腸道：
+    - 腹痛 31%
+    - 食慾下降 20%
+    - 便秘 31%
+    - 腹瀉 46%，grade 3/4：4%
+    - 噁心 64%，grade 3/4：4%
+    - 口腔炎 2% 至 14%
+    - 嘔吐 37%，grade 3/4：4%
+  - 血液與腫瘤相關：
+    - 貧血 64%，grade 3/4：1%
+    - 白血球減少 13%
+    - 血小板減少 30%，grade 3/4：3%
+  - 肌肉骨骼：
+    - 背痛
+    - 關節痛
+    - 周邊神經病變
+  - 神經系統：
+    - 疲倦
+    - 頭痛
+    - 感覺異常／感覺遲鈍異常
+  - 呼吸系統：
+    - 咳嗽
+    - 呼吸困難
+  - 其他：
+    - 發燒
+
+- 1% to 10%：
+  - 心血管：
+    - 胸痛
+    - 暈厥
+  - 皮膚：
+    - 皮疹
+    - 掉髮
+  - 內分泌與代謝：
+    - 低血鉀
+    - 低血鎂
+    - 脫水
+  - 血液：
+    - 嗜中性白血球低下性發燒
+    - 嗜中性白血球減少
+  - 感染：
+    - 敗血症
+  - 神經系統：
+    - 頭暈
+    - 失眠
+    - 味覺改變
+  - 肺部：
+    - 與過敏反應相關之支氣管痙攣
+    - 間質性肺病
+  - 腎臟：
+    - 腎功能受損
+  - 其他：
+    - 過敏反應
+
+- 另有臨床上重要之不良反應報告：
+  - 過敏性休克
+  - 可逆性後部腦病症候群
+  - 橫紋肌溶解
+  - QT 間期延長
+  - 心室心律不整
+  - 肝竇狀隙損傷
+  - 肺纖維化
+  - 出血
+  - 溶血性尿毒症症候群
+  - 瀰漫性血管內凝血
+  - 免疫介導性血球低下
+
+## Contraindications/Warnings
+
+### Contraindications
+
+- 對 oxaliplatin、其他 platinum-containing compounds、或配方任一成分過敏。
+- Canadian labeling 額外禁忌症（US labeling 未列）：
+  - 既有且已造成功能障礙的 peripheral sensory neuropathy
+  - pregnancy
+  - breastfeeding
+  - severe kidney impairment（CrCl <30 mL/minute）
+
+### Warnings/Precautions
+
+- 與不良反應相關之注意事項：
+  - Extravasation：
+    - Oxaliplatin 為 irritant，且具有 vesicant-like properties。
+    - 輸注前與輸注期間應確認針頭或導管位置正確。
+    - 避免 extravasation。
+
+- 特殊族群：
+  - Older adult：
+    - ≥65 歲患者較易出現 diarrhea、grade 3 或 4 neutropenia。
+    - 也可能更容易發生 dehydration、hypokalemia、leukopenia、fatigue、syncope。
+
+- 其他 warnings/precautions：
+  - Administration：
+    - Oxaliplatin 僅供 IV administration。
+    - Intraperitoneal administration 並非核准給藥途徑，曾與 peritoneal hemorrhage 及 hemorrhagic complications 相關。
+  - Bone marrow suppression：
+    - 需密切監測 CBC 與感染／出血徵象。
+  - Hypersensitivity：
+    - 可於任何 cycle 發生嚴重過敏反應。
+  - Neurotoxicity：
+    - 急性與慢性 neuropathy 皆常見，且冷刺激可能誘發或惡化。
+  - Pulmonary toxicity：
+    - 若有不明咳嗽、dyspnea、影像異常，應評估 pneumonitis／interstitial lung disease。
+  - Hepatotoxicity：
+    - 可見 hepatic vascular disorders 與 portal hypertension 相關表現。
+  - QT prolongation：
+    - 高風險者需 ECG 與 electrolyte monitoring。
+  - PRES：
+    - 若懷疑，應停藥並以 MRI 評估。
+  - Rhabdomyolysis：
+    - 若懷疑應立即停藥並處置。
+
+
+## Administration
+
+### Adult
+
+#### Administration
+
+- IV：
+  - 以 IV infusion 於 2 小時內給藥。
+  - 若出現 acute toxicities，可延長輸注至 6 小時。
+  - Off-label rate：
+    - 曾有固定輸注速率 1 mg/m2/minute 的作法（例如 85 mg/m2 於 85 分鐘輸完），對 hypersensitivity reaction 發生率未顯示統計上顯著差異。
+  - 在給予其他 concomitant medication 前，應先以 D5W 沖洗輸注管路。
+  - 輸注期間與輸注後數小時內，避免以冰塊預防 mucositis，並避免冷暴露及冷食／冷飲，以免誘發急性神經毒性。
+  - 若與 fluoropyrimidine（例如 5-FU）併用，應先輸注 oxaliplatin。
+  - 因為具 irritant 且具 vesicant-like properties，須確保針頭或導管位置正確。
+
+#### Preparation for Administration
+
+- 不可使用含 chloride 的溶液（如 NaCl）配製，因會快速轉變為 monochloroplatinum、dichloroplatinum、diaquoplatinum，於 sodium chloride 中高度反應。
+- 配製過程不可使用含 aluminum 的針具或輸注器材，因 aluminum 會使 platinum compounds 降解。
+- Aqueous solution：
+  - 給藥前必須以 D5W 稀釋至 250 或 500 mL。
+- Lyophilized powder：
+  - 僅能使用 SWFI 或 D5W 重配。
+  - 重配後再以 D5W 稀釋至 250 或 500 mL。
+- 不可使用未稀釋之濃縮液直接輸注。
+
+### Pediatric
+
+#### Administration
+
+- Oxaliplatin 具中度致吐性；建議使用止吐藥預防噁心與嘔吐。
+- IV：
+  - 以 IV infusion 於 2 至 6 小時內給藥。
+  - 給藥前後以 D5W 沖洗輸注管路。
+  - 不可使用含 aluminum 的 IV administration sets。
+  - 與 fluoropyrimidine（例如 5-FU）併用時，應先輸注 oxaliplatin。
+  - 因為為 irritant 且具 vesicant-like properties，須確認針頭或導管位置正確。
+  - 避免冷暴露與冷飲，以減少 acute neuropathy。
+
+#### Preparation for Administration
+
+- IV：
+  - 不可使用含 chloride 的溶液（如 NaCl）配製。
+  - 配製過程不可使用含 aluminum 的針具或輸注器材。
+  - Aqueous solution：
+    - 給藥前須以 D5W 稀釋至 250 或 500 mL；兒科試驗亦使用此稀釋方式。
+  - Lyophilized powder：
+    - 僅可使用 SWFI 或 D5W 重配，再以 D5W 稀釋至適當體積。
+
+## Vesicant/Extravasation Risk
+
+- Irritant，具有 vesicant-like properties。
+
+
+## Storage/Stability
+
+- 儲存期限依產品而異，請參閱個別 product labeling。
+- 完整未開封 vial：
+  - 25°C（77°F）儲存。
+  - 允許短暫偏移至 15°C 至 30°C（59°F 至 86°F）。
+  - 不可冷凍。
+  - 濃縮液避光保存，置於原外盒中。
+- 依製造商：
+  - 以 D5W 稀釋供輸注之溶液：
+    - 室溫 20°C 至 25°C 下可穩定 6 小時。
+    - 冷藏 2°C 至 8°C 下可穩定 24 小時。
+- 如為不同廠牌或不同配方，穩定性資訊可能不同，應以個別 labeling 為準。
+
+## Uses
+
+### Labeled Indications
+
+- 結腸癌，stage III，adjuvant therapy：
+  - 與 infusional fluorouracil 及 leucovorin 併用，於原發腫瘤完整切除後作為 stage III colon cancer 輔助治療。
+- 大腸直腸癌，advanced：
+  - 與 infusional fluorouracil 及 leucovorin 併用，用於 advanced colorectal cancer 治療。
+
+### Off-Label: Adult
+
+- 膽道癌，advanced
+- 慢性淋巴性白血病，refractory
+- 結腸癌，stage II，adjuvant therapy
+- 食道癌
+- 胃癌
+- 神經內分泌腫瘤：GI/carcinoid，refractory
+- Non-Hodgkin lymphomas，relapsed/refractory
+- 卵巢癌，advanced
+- 胰臟癌，advanced 或 metastatic
+- 胰臟癌，potentially curable，adjuvant therapy
+- 小腸腺癌，advanced 或 metastatic
+- 睪丸癌，refractory
+- 原發不明癌，recurrent 或 refractory
+
+
+## Interactions
+
+### Metabolism/Transport Effects
+
+- OCT2 substrate
+
+## Reproduction, Pregnancy, Lactation
+
+### Reproductive Considerations
+
+- 對有懷孕可能的患者，治療前應確認 pregnancy status。
+- 可懷孕患者：
+  - 治療期間及最後一次 oxaliplatin 後至少 9 個月內，應採取有效避孕。
+- 其伴侶可能懷孕之患者：
+  - 治療期間及最後一次 oxaliplatin 後至少 6 個月內，應採取有效避孕。
+- Oxaliplatin 可能不利於女性生育力。
+- 男性生育力也可能受影響，且對精子生成具有中度風險。
+
+### Pregnancy Considerations
+
+- 根據其作用機轉與動物生殖研究資料，子宮內暴露 oxaliplatin 可能造成胎兒傷害。
+- 已有孕期母體使用 oxaliplatin 之 outcome data。
+- ESMO 對 pregnancy-associated cancer 之指引建議：
+  - 病人應轉介至具有照護孕期癌症經驗之中心。
+  - 化療時機、風險與監測應由多專科團隊評估。
+- 一般原則：
+  - 應避免於妊娠早期使用。
+  - 若在妊娠中晚期因癌症治療而必須使用，應進行個別化風險效益評估。
+
+### Breastfeeding Considerations
+
+- Oxaliplatin 可存在於乳汁中。
+- 有一名產後 7 個月、接受 colorectal cancer 治療患者之資料：
+  - Oxaliplatin 200 mg，每 3 週輸注一次，共 4 doses。
+  - 期間持續擠乳，但嬰兒改以配方奶餵食。
+  - 最後一次劑量後第 34 天與第 65 天乳汁中 platinum 濃度仍可測得。
+- 因可能造成嬰兒嚴重不良反應：
+  - 治療期間與最後一次 oxaliplatin 後至少 3 個月內，不建議哺乳。
+
+## Monitoring
+
+### Monitoring Parameters
+
+- CBC with differential
+- Blood chemistries：
+  - serum creatinine
+  - ALT
+  - AST
+  - bilirubin
+  - 於 baseline、每 cycle 前及臨床需要時監測
+- Electrolytes：
+  - potassium
+  - magnesium
+  - 治療前及治療期間定期監測
+- INR 與 PT：
+  - 針對接受 oral anticoagulant therapy 者
+  - 若與 oxaliplatin 併用，應提高監測頻率
+- 對有懷孕可能之女性，治療前評估 pregnancy status。
+- ECG monitoring：
+  - 適用於 QT prolongation、heart failure、bradyarrhythmias、electrolyte abnormalities 高風險患者
+  - 亦包括同時使用已知會造成 QT prolongation 藥物者（包含 class Ia 與 III antiarrhythmics）
+- 每次給藥前與其後定期進行 neurologic evaluation。
+- 監測下列徵象／症狀：
+  - hypersensitivity
+  - pulmonary toxicity
+  - posterior reversible encephalopathy syndrome
+  - neuropathy
+  - bleeding
+  - GI toxicity
+- ASCO 對 HBV screening and management 之 provisional clinical opinion 建議：
+  - 在開始 systemic anticancer therapy 前或開始時進行 HBV screening：
+    - HBsAg
+    - total anti-HBc 或 IgG anti-HBc
+    - anti-HBs
+  - 不應因等待 screening／results 而延誤治療。
+  - 若發現 chronic 或 past HBV infection，需進一步進行 antiviral prophylaxis、monitoring 與 follow-up 風險評估。
+
+## Pharmacology
+
+### Mechanism of Action
+
+- Oxaliplatin 為 platinum derivative，屬 alkylating agent。
+- 進入細胞後經 hydrolysis，platinum compound 與 DNA 結合形成 cross-links。
+- 此作用可抑制 DNA replication 與 transcription，最終造成 cell death。
+- Cytotoxicity 為 cell-cycle nonspecific。
+
+### Pharmacokinetics
+
+- Distribution：
+  - Vd：440 L
+- Protein binding：
+  - >90%
+  - 主要與 albumin 與 gamma globulin 結合
+  - 與 platinum 的結合為 irreversible
+- Metabolism：
+  - Nonenzymatic
+  - 快速且廣泛
+  - 形成 active 與 inactive derivatives
+- Half-life elimination：
+  - Children：
+    - Oxaliplatin ultrafilterable platinum terminal half-life：
+      - median 293 hours
+      - range 187 to 662 hours
+  - Adults：
+    - Oxaliplatin ultrafilterable platinum：
+      - distribution alpha phase：0.43 hours
+      - beta phase：16.8 hours
+      - terminal：392 hours
+- Excretion：
+  - urine：約 54%
+  - feces：約 2%
+
+### Pharmacokinetics: Additional Considerations
+
+- 成人資料，除非另有說明。
+- 腎功能改變：
+  - 隨腎功能下降，unbound platinum mean AUC 增加：
+    - mild impairment（CrCl 50 to 80 mL/minute）：增加 40%
+    - moderate impairment（CrCl 30 to 49 mL/minute）：增加 95%
+    - severe impairment（CrCl <30 mL/minute）：增加 342%
+  - severe impairment 患者 mean Cmax 較正常腎功能患者高 38%。
+- 肝功能改變：
+  - 輕中度 baseline hepatic impairment 對 pharmacokinetics 影響通常有限。
+- Pediatric：
+  - 可見長 terminal half-life，且變異度大。
+
+## Patient Counseling Points
+
+- 另可參考 "Oxaliplatin: Patient drug information"。
+
+- 此藥用於何種情況？
+  - 用於治療癌症。
+
+- 所有藥物都可能造成副作用，但許多人沒有副作用，或只有輕微副作用。
+- 若下列副作用持續困擾或未消失，請告知醫師：
+  - 便秘、腹瀉、腹痛、噁心、嘔吐、食慾下降
+  - 頭痛
+  - 疲倦或無力
+  - 背痛
+  - 口腔刺激或口腔潰瘍
+  - 失眠
+  - 味覺改變
+  - 關節痛
+  - 手足或口周／咽喉的麻木、刺痛、灼熱感
+
+- 警語：
+  - 雖然少見，但有些人可能發生嚴重甚至致命的不良反應。
+  - 若出現下列症狀，應立即告知醫師或就醫：
+    - 出血徵象：
+      - 瘀青
+      - 黑便、柏油便或血便
+      - 牙齦出血
+      - 血尿
+      - 咳血
+      - 傷口止血困難
+      - 頭暈
+      - 極度疲倦或虛弱
+      - 流鼻血
+      - 疼痛或腫脹
+      - 吐血或咖啡渣樣嘔吐物
+      - 劇烈頭痛
+    - 神經系統問題：
+      - 令人困擾或影響日常生活的灼熱、麻木或刺痛
+      - 走路、說話、吞嚥或發音困難
+      - 眼痛
+      - jaw tightness
+      - 舌頭異常感
+      - 胸口壓迫感
+    - PRES 徵象：
+      - 意識混亂
+      - 警覺性下降
+      - 視力改變或喪失
+      - 癲癇
+      - 劇烈頭痛
+    - 肺部問題：
+      - 呼吸急促
+      - 新出現或惡化的咳嗽
+      - 發燒
+    - 輸注部位反應：
+      - 發紅
+      - 灼熱
+      - 疼痛
+      - 腫脹
+      - 水泡
+      - 皮膚破損
+      - 藥液滲漏
+    - 感染徵象：
+      - 發燒
+      - 寒顫
+      - 嚴重喉嚨痛
+      - 耳痛或鼻竇痛
+      - 咳嗽
+      - 痰量增加或痰色改變
+      - 排尿痛
+      - 口瘡
+      - 傷口久不癒合
+    - 肝臟問題：
+      - 深色尿
+      - 疲倦
+      - 食慾差
+      - 噁心或腹痛
+      - 淺色大便
+      - 嘔吐
+      - 皮膚或眼睛發黃
+    - 體液與電解質異常：
+      - 情緒改變
+      - 意識混亂
+      - 肌肉疼痛或無力
+      - 心跳異常
+      - 嚴重頭暈或昏厥
+      - 心跳過快
+      - 口渴增加
+      - 癲癇
+      - 極度疲倦或虛弱
+      - 食慾差
+      - 無尿或尿量明顯改變
+      - 口乾、眼乾
+      - 嚴重噁心或嘔吐
+    - 單側無力、說話或思考困難、平衡異常、臉部一側下垂、視力模糊
+    - 胸痛
+    - 大量出汗
+    - flushing
+    - 水腫
+    - 肌肉問題（rhabdomyolysis）：
+      - 肌肉疼痛或無力
+    - 過敏反應徵象：
+      - rash
+      - hives
+      - itching
+      - 紅腫、起泡或脫皮，可伴或不伴發燒
+      - wheezing
+      - 胸口或喉嚨緊縮
+      - 呼吸、吞嚥或說話困難
+      - 異常沙啞
+      - 口、臉、嘴唇、舌頭或喉嚨腫脹
+
+
+
+## 參考來源
+
+- UpToDate Lexidrug™, UpToDate, Inc. and its affiliates and/or licensors.
+- Topic title:
+  - Oxaliplatin: Drug information
+- Topic version metadata:
+  - Topic 10180 Version 561.0
+- Copyright information:
+  - 2026© UpToDate, Inc. and its affiliates and/or licensors. All Rights Reserved.
+

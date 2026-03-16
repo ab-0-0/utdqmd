@@ -4,7 +4,7 @@ lang: zh-tw
 format:
   html:
     toc: true
-    toc-depth: 3
+    toc-depth: 2
     toc-location: left
     theme: cosmo
     sidebar: true
