@@ -1,0 +1,243 @@
+---
+title: "paclitaxel"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+
+## US Boxed Warning
+- Paclitaxel 應由具有癌症化學治療經驗之醫療人員監督下給藥。
+- 僅在具備充分診斷與治療設施之醫療環境中使用，以便即時處理可能出現之嚴重併發症。
+- 在臨床試驗中，約有 2% 至 4% 接受 paclitaxel 治療之患者出現過敏性休克或嚴重過敏反應，包括：
+  - 呼吸困難
+  - 低血壓，需要治療
+  - 血管性水腫
+  - 全身性蕁麻疹
+- 因為製劑中含有 polyoxyl 35 castor oil (Cremophor EL)，與過敏反應高度相關。
+
+## Pharmacologic Category
+- 抗腫瘤藥物
+  - 微管抑制劑 (Antimicrotubular agent)
+  - Taxane 類衍生物
+
+## Dosing
+### Adult
+- 劑量指引
+  - Paclitaxel 不可與其他 paclitaxel 製劑互相替代，例如 paclitaxel protein-bound。
+- 預先用藥 (Premedication)
+  - 建議給予以下預防過敏藥物：
+    - dexamethasone
+      - 20 mg 口服
+      - 給藥時間：paclitaxel 前 12 小時與 6 小時
+      - 若為 HIV 晚期患者可減量至 10 mg
+    - diphenhydramine
+      - 50 mg IV
+      - paclitaxel 前 30 至 60 分鐘
+    - H2 receptor antagonist
+      - cimetidine 或 famotidine
+      - IV
+      - paclitaxel 前 30 至 60 分鐘
+
+### Kidney Impairment
+- 腎功能受損
+  - 一般情況下不需要劑量調整。
+- 增加腎清除 (Augmented renal clearance; CrCl ≥130 mL/min/1.73 m²)
+  - 目前證據有限
+  - 一般仍不需劑量調整
+
+### Liver Impairment
+- 肝功能異常患者須非常謹慎使用
+  - total bilirubin >2 倍正常上限時，血液毒性可能增加
+- 原始標示建議劑量依首次療程設計
+  - 135 mg/m²
+    - 輸注時間 24 小時
+  - 或 175 mg/m²
+    - 輸注時間 3 小時
+- 後續療程應依患者耐受性調整
+
+### Obesity
+- ASCO 指引建議
+  - BMI ≥30 kg/m² 之癌症患者
+    - 劑量計算應使用實際體重
+    - 毒性管理與非肥胖患者相同
+    - 若因毒性減量
+      - 後續療程可考慮恢復原體重計算劑量
+
+### Adjustment for Toxicity
+- 劑量調整須依臨床方案或研究設計
+- 可能需要
+  - 暫停治療
+  - 減量
+  - 停藥
+- 一般原則
+  - 若嗜中性球或血小板未恢復
+  - 不應開始下一療程
+
+### Older Adult
+- 參考成人劑量
+- 老年患者可能有較高毒性風險
+
+## Adverse Reactions (Significant): Considerations
+- 劑量限制毒性主要為嗜中性球減少
+- 其他血液學毒性
+  - 血小板減少
+  - 貧血
+- 嗜中性球最低點
+  - 約在治療後第 11 天
+- 風險因子
+  - 高劑量
+  - 長時間輸注
+  - 既往化療治療史
+
+## Adverse Reactions
+### Hematologic
+- 嗜中性球減少
+- 白血球減少
+- 血小板減少
+- 貧血
+- 發燒性嗜中性球減少
+
+### Gastrointestinal
+- 噁心
+- 嘔吐
+- 腹瀉
+- 黏膜炎
+- 口腔炎
+
+### Dermatologic
+- 掉髮
+- 皮疹
+- 皮膚炎
+- 指甲變化
+- 光敏感反應
+
+### Neurologic
+- 周邊神經病變
+- 感覺異常
+- 神經毒性
+
+### Cardiovascular
+- 低血壓
+- 心律不整
+- 心臟毒性
+
+### Hypersensitivity
+- 過敏反應
+- 呼吸困難
+- 血管性水腫
+- 蕁麻疹
+
+### Musculoskeletal
+- 肌肉痛
+- 關節痛
+
+### Other
+- 疲倦
+- 發燒
+
+## Contraindications
+- 對 paclitaxel 或製劑成分過敏
+- 嚴重骨髓抑制患者
+  - baseline neutrophils <1500 cells/mm³
+
+## Warnings/Precautions
+### Bone Marrow Suppression
+- 嗜中性球減少為主要毒性
+- 治療前須確認血球計數
+
+### Hypersensitivity
+- 與 Cremophor EL 有關
+- 即使使用預防用藥仍可能發生
+
+### Cardiovascular Effects
+- 心律不整
+- 心臟事件
+
+### Neurologic Toxicity
+- 周邊神經病變
+- 感覺神經毒性
+
+### Injection Site Reactions
+- 靜脈外滲可能造成組織傷害
+- 即使換注射部位仍可能出現皮膚反應
+
+### Special Populations
+- 老年患者 ≥65 歲
+  - 嚴重嗜中性球減少較常見
+  - 神經毒性較常見
+  - 心血管事件較高
+
+### Excipients
+- 製劑含 polyoxyl 35 castor oil (Cremophor EL)
+  - 與過敏反應相關
+- 製劑含 ethanol
+  - 可能造成中樞神經副作用
+
+### Intraperitoneal Administration
+- 腹腔給藥可能增加化療毒性
+
+## Warnings: Additional Pediatric Considerations
+- 高劑量 paclitaxel
+  - 350 至 420 mg/m²
+  - 3 小時輸注
+- 小兒患者可能出現
+  - 中樞神經毒性
+- 可能與製劑中 ethanol 有關
+
+## Dosage Forms Considerations
+- paclitaxel 注射液含 polyoxyl 35 castor oil (Cremophor EL)
+
+
+## Administration
+### Adult
+- 僅限靜脈輸注
+- 輸注時間
+  - 3 小時
+  - 或 24 小時
+- 給藥前需預防過敏用藥
+
+### Preparation for Administration
+- 稀釋於以下溶液
+  - D5W
+  - D5NS
+  - NS
+  - Dextrose 5% in Ringer's
+- 最終濃度
+  - 0.3 至 1.2 mg/mL
+- 稀釋體積
+  - 250 至 1,000 mL
+- 容器
+  - 不可使用 PVC
+  - 建議玻璃或 polyethylene
+- 不建議使用某些化療取藥裝置
+
+
+## Storage/Stability
+- 未開封小瓶
+  - 儲存於 20°C 至 25°C
+  - 避光保存
+
+## Uses
+### Labeled Indications
+- 卵巢癌
+- 乳癌
+- 非小細胞肺癌
+- Kaposi sarcoma
+
+### Off-Label
+- 多種實體腫瘤治療
+- 多種化療方案組合
+
+## Medication Safety Issues
+- 不可與其他 paclitaxel 製劑混用
+- 劑量與輸注時間差異可能造成毒性差異
+
+## 參考來源
+UpToDate Lexidrug™, UpToDate, Inc.
+Drug monograph: Paclitaxel (conventional formulation).  

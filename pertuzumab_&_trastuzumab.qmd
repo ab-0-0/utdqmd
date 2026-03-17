@@ -1,0 +1,690 @@
+---
+title: "pertuzumab_&_trastuzumab"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+Pertuzumab、trastuzumab、hyaluronidase：藥品資訊
+
+## 黑框警語 (US Boxed Warning)
+### 心肌病變 (Cardiomyopathy)
+- Pertuzumab/trastuzumab/hyaluronidase 可能導致亞臨床性或臨床性心臟衰竭。
+- 與含 anthracycline 之化學治療併用時，其發生率與嚴重度最高。
+- 開始治療前與治療期間應評估心臟功能。
+- 於接受輔助治療 (adjuvant therapy) 的病人，若出現具臨床意義之左心室功能下降，應停用本藥。
+- 於轉移性疾病病人，若出現具臨床意義之左心室功能下降，應暫停本藥。
+
+### 胚胎－胎兒毒性 (Embryo-fetal toxicity)
+- 暴露於 pertuzumab/trastuzumab/hyaluronidase 可能導致胚胎－胎兒死亡與先天缺陷，包括羊水過少 (oligohydramnios) 及其序列異常，表現為肺發育不全 (pulmonary hypoplasia)、骨骼異常與新生兒死亡。
+- 應告知病人上述風險與有效避孕之必要性。
+
+### 肺毒性 (Pulmonary toxicity)
+- Pertuzumab/trastuzumab/hyaluronidase 可能導致嚴重且致命之肺毒性 (pulmonary toxicity)。
+- 若發生過敏性休克 (anaphylaxis)、血管性水腫 (angioedema)、間質性肺炎 (interstitial pneumonitis) 或急性呼吸窘迫症候群 (acute respiratory distress syndrome, ARDS)，應停用本藥。
+- 應持續監測病人直到症狀完全緩解。
+
+
+## 藥理分類 (Pharmacologic Category)
+- 抗腫瘤藥 (Antineoplastic Agent)，抗 HER2
+- 抗腫瘤藥 (Antineoplastic Agent)，單株抗體 (Monoclonal Antibody)
+
+## 劑量 (Dosing)
+### 成人劑量 (Adult Dosing)
+#### 劑量指引 (Dosage guidance)
+##### 安全性 (Safety)
+- 開始治療前，應積極控制可修正之心臟風險因子，例如吸菸、高血壓 (Hypertension)、糖尿病 (Diabetes)、血脂異常 (Dyslipidemia)、肥胖 (Obesity)。
+- 給藥時應備妥治療過敏反應 (Hypersensitivity) 所需之藥品與設備，以供立即使用。
+- 曾發生可逆之第 1 或第 2 級過敏反應 (Hypersensitivity reaction) 者，後續劑次前可考慮給予止痛藥、退燒藥或抗組織胺作為預處置。
+- 不可將 pertuzumab/trastuzumab/hyaluronidase 與傳統 trastuzumab 製劑、trastuzumab/hyaluronidase、ado-trastuzumab emtansine、fam-trastuzumab deruxtecan 或 pertuzumab 互相替代。
+
+#### 早期乳癌 (Breast cancer, early)，HER2 陽性；新輔助治療 (neoadjuvant treatment)
+- 註：
+  - 本藥應作為早期乳癌新輔助治療療程之一部分，給予 3 至 6 個療程。
+- 起始負荷劑量 (Initial loading dose)：
+  - 皮下注射 (SUBQ)：pertuzumab 1,200 mg / trastuzumab 600 mg / hyaluronidase 30,000 units，首次給藥；3 週後開始維持劑量。
+- 維持劑量 (Maintenance dosing)：
+  - 皮下注射 (SUBQ)：pertuzumab 600 mg / trastuzumab 600 mg / hyaluronidase 20,000 units，每 3 週一次。
+  - 手術後持續使用以完成 1 年治療（最多 18 個療程），或至疾病進展 (disease progression) 或無法接受之毒性 (unacceptable toxicity) 為止，以先發生者為準。
+
+#### 早期乳癌 (Breast cancer, early)，HER2 陽性；輔助治療 (adjuvant treatment)
+- 註：
+  - 應作為完整早期乳癌治療方案之一部分，包含 anthracycline 和/或 taxane 為基礎之化學治療。
+  - 若屬 anthracycline 為基礎之療程，應在完成 anthracycline 治療後再開始本藥。
+  - 本藥應於第一個含 taxane 療程之第 1 天開始給藥。
+- 起始負荷劑量：
+  - 皮下注射 (SUBQ)：pertuzumab 1,200 mg / trastuzumab 600 mg / hyaluronidase 30,000 units，首次給藥；3 週後開始維持劑量。
+- 維持劑量：
+  - 皮下注射 (SUBQ)：pertuzumab 600 mg / trastuzumab 600 mg / hyaluronidase 20,000 units，每 3 週一次，共 1 年（最多 18 個療程），或至疾病進展或無法接受之毒性為止，以先發生者為準。
+
+#### 轉移性乳癌 (Breast cancer, metastatic)，HER2 陽性
+- 註：
+  - 應與 docetaxel 併用。
+- 起始負荷劑量：
+  - 皮下注射 (SUBQ)：pertuzumab 1,200 mg / trastuzumab 600 mg / hyaluronidase 30,000 units，首次給藥；3 週後開始維持劑量。
+- 維持劑量：
+  - 皮下注射 (SUBQ)：pertuzumab 600 mg / trastuzumab 600 mg / hyaluronidase 20,000 units，每 3 週一次；持續治療至疾病進展或無法接受之毒性為止。
+
+#### 由靜脈注射 pertuzumab 與 trastuzumab 轉換為本藥皮下注射
+- 若距上次靜脈注射 pertuzumab 與 trastuzumab 少於 6 週：
+  - 皮下注射維持劑量：pertuzumab 600 mg / trastuzumab 600 mg / hyaluronidase 20,000 units，之後每 3 週一次。
+- 若距上次靜脈注射 pertuzumab 與 trastuzumab 大於或等於 6 週：
+  - 先給予起始劑量：pertuzumab 1,200 mg / trastuzumab 600 mg / hyaluronidase 30,000 units。
+  - 3 週後改為維持劑量：pertuzumab 600 mg / trastuzumab 600 mg / hyaluronidase 20,000 units，每 3 週一次。
+
+#### 漏打或延遲劑量 (Missed doses)
+- 若兩次連續皮下注射間隔少於 6 週：
+  - 給予維持劑量 pertuzumab 600 mg / trastuzumab 600 mg / hyaluronidase 20,000 units。
+  - 不需等到下一個原定給藥日。
+- 若兩次連續皮下注射間隔大於或等於 6 週：
+  - 重新給予起始劑量 pertuzumab 1,200 mg / trastuzumab 600 mg / hyaluronidase 30,000 units。
+  - 其後每 3 週改回維持劑量 pertuzumab 600 mg / trastuzumab 600 mg / hyaluronidase 20,000 units。
+
+#### 併用治療之劑量調整 (Dosage adjustment for concomitant therapy)
+- 可能存在具臨床意義之藥物交互作用，需調整劑量/頻率或避免併用；應參考藥物交互作用資料庫取得更多資訊。
+
+### 腎功能不全 (Kidney Impairment)：成人
+- 仿單未提供劑量調整建議。
+- 然而，由於高分子量特性不易經腎絲球過濾，通常不太需要劑量調整。
+
+### 肝功能不全 (Liver Impairment)：成人
+- 仿單未提供劑量調整建議（尚未研究）。
+
+### 肥胖 (Obesity)：成人
+- 依美國臨床腫瘤學會 (American Society of Clinical Oncology, ASCO) 對 BMI ≥30 kg/m2 成人癌症病人之全身性治療劑量建議：
+  - 不論是否肥胖，均應依 FDA 核准仿單劑量給藥。
+  - 若 BMI ≥30 kg/m2 病人發生高等級毒性 (high-grade toxicity)，其劑量調整原則與所有病人相同，不因肥胖狀態而不同。
+- 註：
+  - 仿單指出，無須依病人體重進行劑量調整。
+
+### 毒性調整 (Adjustment for Toxicity)：成人
+- 個別併用化學治療藥物之劑量調整，請參照各自藥品專論。
+
+#### 心臟毒性 (Cardiotoxicity)
+- 左心室功能異常 (left ventricular dysfunction) 之劑量調整原則：
+  - 無症狀心臟疾病：
+    - 可考慮啟用心衰竭藥物，例如血管張力素轉換酶抑制劑 (ACE inhibitor)、血管張力素受體阻斷劑 (ARB) 及/或 beta 阻斷劑。
+    - 輕度心功能異常可在密切心血管監測下持續治療。
+    - 中度心功能異常可考慮在密切監測下持續治療，並建議開始心衰竭用藥。
+    - 重度心功能異常應中斷治療，並以多專科方式決定是否及何時重新開始治療；建議開始心衰竭用藥。
+  - 有症狀心臟疾病：
+    - 應開始心衰竭用藥。
+    - 輕度心功能異常可考慮以多專科方式決定中斷或持續治療。
+    - 中度或重度心功能異常應中斷治療，並以多專科方式評估是否重新開始治療。
+- LVEF = 左心室射出分率 (left ventricular ejection fraction)。
+- 若停藥 3 週後 LVEF 未改善、進一步下降，及/或病人出現症狀，應永久停用本藥。
+
+##### 早期乳癌 (Early breast cancer)
+- 治療前 LVEF：
+  - 一般需 ≥55%。
+  - 若接受 anthracycline 為基礎之化學治療，完成 anthracycline 後需 ≥50%。
+- 監測頻率：
+  - 約每 12 週一次（新輔助治療期間至少 1 次）。
+- 若 LVEF 降至：
+  - <50%，且較治療前下降 ≥10 個百分點：
+    - 至少暫停治療 3 週。
+- 3 週後若恢復至以下條件可恢復治療：
+  - LVEF ≥50%；或
+  - 較治療前下降 <10 個百分點。
+- 若左心室功能具臨床意義下降：
+  - 停用 pertuzumab/trastuzumab/hyaluronidase。
+
+##### 轉移性乳癌 (Metastatic breast cancer)
+- 治療前 LVEF：
+  - ≥50%。
+- 監測頻率：
+  - 約每 12 週一次。
+- 至少暫停治療 3 週之情況：
+  - LVEF <40%；或
+  - LVEF 40% 至 45%，且較治療前下降 ≥10 個百分點。
+- 3 週後若恢復至以下條件可恢復治療：
+  - LVEF >45%；或
+  - LVEF 40% 至 45%，且較治療前下降 <10 個百分點。
+- 若左心室功能具臨床意義下降：
+  - 暫停 pertuzumab/trastuzumab/hyaluronidase。
+
+#### 血管性水腫 (Angioedema)
+- 停用 pertuzumab/trastuzumab/hyaluronidase。
+
+#### 過敏反應 (Hypersensitivity)
+- 若發生明顯注射相關反應 (injection-related reaction)：
+  - 降低注射速度或中斷注射。
+  - 並給予適當醫療處置。
+  - 應評估並監測至症狀/徵象完全緩解。
+- 第 1 或第 2 級可逆性過敏反應：
+  - 後續給藥前可考慮預先給予止痛藥、退燒藥或抗組織胺。
+- 嚴重過敏反應、過敏性休克 (anaphylaxis) 或嚴重注射相關反應：
+  - 永久停用本藥。
+
+#### 肺毒性 (Pulmonary toxicity)
+- 間質性肺炎 (interstitial pneumonitis) 或急性呼吸窘迫症候群 (ARDS)：
+  - 停用 pertuzumab/trastuzumab/hyaluronidase。
+
+### 高齡者 (Older Adult)
+- 參閱成人劑量。
+
+## 不良反應 (Adverse Reactions)
+### 一般說明
+- 以下不良反應與發生率主要來自產品仿單，除非另有註明。
+- 不良反應資料來自成人，且可能包含新輔助化學治療情境。
+- 另請參照各個單一成分之藥品專論。
+
+### 發生率 >10%
+#### 皮膚科 (Dermatologic)
+- 掉髮 (Alopecia) 77%
+- 皮疹 (Skin rash) 16%
+- 皮膚乾燥 (Xeroderma) 15%
+
+#### 內分泌與代謝 (Endocrine & metabolic)
+- 血清白蛋白下降 16%
+- 血清鈉下降 13%
+- 熱潮紅 (Hot flash) 11% 至 12%
+- 血清鉀上升 13%
+- 體重下降 11%
+
+#### 腸胃道 (Gastrointestinal)
+- 便秘 22%
+- 食慾下降 17%
+- 腹瀉 17% 至 60%；第 3/4 級 7%
+- 味覺異常 (Dysgeusia) 17%
+- 消化不良 12% 至 14%
+- 噁心 60%；第 3/4 級 2%
+- 口腔炎 (Stomatitis) 15% 至 25%；第 3/4 級 ≤1%
+- 嘔吐 20%；第 3/4 級 <1%
+
+#### 血液與腫瘤學 (Hematologic & oncologic)
+- 貧血 36%；第 3/4 級 2%
+- 絕對淋巴球計數下降 89%；第 3/4 級 37%
+- 血小板減少 27%
+- 嗜中性白血球減少 (Neutropenia) 22%；第 3/4 級 14%
+
+#### 肝臟 (Hepatic)
+- 血清丙胺酸轉胺酶上升 (Increased serum alanine aminotransferase, ALT) 58%
+  - 對照組（IV pertuzumab + IV 或 SUBQ trastuzumab）：68%
+  - 劑型：皮下注射
+  - 個案數：248 vs 252
+- 血清天門冬胺酸轉胺酶上升 (Increased serum aspartate aminotransferase, AST) 50%
+  - 對照組（IV pertuzumab + IV 或 SUBQ trastuzumab）：58%
+  - 劑型：皮下注射
+  - 個案數：248 vs 252
+
+#### 局部反應 (Local)
+- 注射部位反應 (Injection-site reaction) 13% 至 15%
+- 注射部位疼痛 (Pain at injection site) 2%
+
+#### 神經系統 (Nervous system)
+- 無力 (Asthenia) 11% 至 31%
+- 頭暈 13%
+- 疲倦 29%
+- 頭痛 17%
+- 失眠 17%
+- 周邊神經病變 (Peripheral neuropathy) 12%；第 3/4 級 <1%
+- 周邊感覺神經病變 (Peripheral sensory neuropathy) 16%
+- 處置相關疼痛 (Procedural pain) 13%
+
+#### 神經肌肉與骨骼 (Neuromuscular & skeletal)
+- 關節痛 19% 至 24%
+- 肌肉痛 25%
+
+#### 腎臟 (Renal)
+- 血清肌酸酐上升 84%
+
+#### 呼吸道 (Respiratory)
+- 咳嗽 15%
+- 鼻出血 12%
+- 上呼吸道感染 11%
+
+#### 其他 (Miscellaneous)
+- 發燒 13%
+- 放射線傷害－皮膚 (Radiation injury, skin) 19% 至 20%
+
+### 發生率 1% 至 10%
+#### 心血管 (Cardiovascular)
+- 心臟衰竭 (Heart failure) ≤1%
+- 周邊水腫 8%
+- 射出分率下降 (Reduced ejection fraction) 4%
+
+#### 皮膚科 (Dermatologic)
+- 皮膚炎 7%
+- 皮膚紅斑 9%
+- 指甲變色 9%
+- 指甲疾病 7%
+- 手足症候群 (Palmar-plantar erythrodysesthesia) 6%
+- 甲溝炎 (Paronychia) 7%
+- 搔癢 3% 至 10%
+
+#### 內分泌與代謝 (Endocrine & metabolic)
+- 血糖下降 9%
+- 低血鉀 (Hypokalemia) 7%
+- 血清鈉上升 7%
+
+#### 腸胃道 (Gastrointestinal)
+- 腹痛 9%
+- 痔瘡 9%
+- 上腹痛 8%
+
+#### 泌尿生殖道 (Genitourinary)
+- 泌尿道感染 7%
+
+#### 血液與腫瘤學 (Hematologic & oncologic)
+- 發燒性嗜中性白血球減少 (Febrile neutropenia) 7%；第 3/4 級 7%
+- 白血球減少 (Leukopenia) 9%；第 3/4 級 2%
+
+#### 肝臟 (Hepatic)
+- 血清膽紅素上升 9%
+
+#### 過敏 (Hypersensitivity)
+- 過敏反應 1%
+- 輸注相關反應 (Infusion-related reaction) 4%
+
+#### 免疫學 (Immunologic)
+- 抗體產生 (Antibody development) 6%
+
+#### 感染 (Infection)
+- 嗜中性白血球減少性敗血症 (Neutropenic sepsis) 1%
+
+#### 神經系統 (Nervous system)
+- 全身不適 (Malaise) 7%
+- 感覺異常 (Paresthesia) 10%
+
+#### 神經肌肉與骨骼 (Neuromuscular & skeletal)
+- 背痛 10%
+- 肢體疼痛 6%
+- 肌肉痙攣 6%
+- 肌肉骨骼疼痛 6%
+- 骨痛 7%
+
+#### 眼科 (Ophthalmic)
+- 乾眼症候群 5%
+- 流淚增加 5%
+
+#### 呼吸道 (Respiratory)
+- 呼吸困難 10%
+- 類流感症狀 5%
+- 鼻咽炎 9%
+- 流鼻水 7%
+
+### 發生頻率未明 (Frequency not defined)
+#### 心血管 (Cardiovascular)
+- 心律不整 (Cardiac arrhythmia)
+- 心肌病變 (Cardiomyopathy)
+- 高血壓 (Hypertension)
+- 左心室功能障礙 (Left ventricular dysfunction)
+
+#### 呼吸道 (Respiratory)
+- 肺炎 (Pneumonitis)
+- 肺纖維化 (Pulmonary fibrosis)
+- 肺毒性 (Pulmonary toxicity)
+
+## 禁忌症與警告 (Contraindications/Warnings)
+### 禁忌症 (Contraindications)
+- 已知對 pertuzumab、trastuzumab、hyaluronidase 或本品任一成分過敏者。
+
+### 警告/注意事項 (Warnings/Precautions)
+#### 與不良反應相關之注意事項 (Concerns related to adverse effects)
+- 心肌病變 (Cardiomyopathy)：
+  - 本藥可能導致亞臨床性與臨床性心臟衰竭。
+  - 與含 anthracycline 之化學治療併用時，發生率與嚴重度最高。
+  - 可能造成左心室功能障礙、心律不整、高血壓、致殘性心衰竭、心肌病變與心因性死亡。
+  - 亦可能導致無症狀之 LVEF 下降。
+  - 接受 IV pertuzumab、IV trastuzumab 與 docetaxel 者，LVEF 下降發生率增加。
+  - 在接受 trastuzumab 病人中，症狀性心肌功能障礙發生率較未接受 trastuzumab 者增加約 4 至 6 倍。
+  - 當 trastuzumab 與 anthracycline 併用時，絕對風險最高。
+  - 若需使用 anthracycline 為基礎之療程，應在完成 anthracycline 治療後才開始本藥。
+  - 停用本藥後若再使用 anthracycline，仍可能增加心功能障礙風險。
+  - 尚未於下列病人中研究：
+    - 治療前 LVEF <55%（早期乳癌）或 <50%（轉移性乳癌）
+    - 既往心衰竭病史
+    - 可能損害 LVEF 之狀況，例如未控制高血壓、近期心肌梗塞 (MI)、需治療之嚴重心律不整
+    - 既往累積 anthracycline 暴露量 > doxorubicin 360 mg/m2（或等效劑量）
+  - ASCO 指引指出，下列情況會增加 trastuzumab 相關心功能障礙風險：
+    - 單用 trastuzumab 且合併任一危險因子：
+      - 多重心血管危險因子（≥2 項），包括吸菸、高血壓、糖尿病、血脂異常、肥胖
+      - 癌症治療時年齡 ≥60 歲
+      - 治療前或治療中已有心功能受損，例如邊界偏低 LVEF（50% 至 55%）、心肌梗塞病史、中度以上瓣膜疾病
+    - 先接受較低劑量 anthracycline，再序貫接受 trastuzumab
+- 過敏反應 (Hypersensitivity)：
+  - 曾有嚴重給藥相關反應，包括過敏反應、過敏性休克與致死結果。
+  - 因晚期惡性腫瘤併發症及/或共病導致靜息時呼吸困難 (dyspnea at rest) 之病人，可能更容易發生嚴重或致命反應。
+  - 最常見給藥相關反應為注射部位反應與注射部位疼痛。
+  - IV trastuzumab 製劑亦曾報告嚴重與致命反應。
+- 肺毒性 (Pulmonary toxicity)：
+  - 可導致嚴重且致命之肺毒性。
+  - Trastuzumab 曾報告之肺部毒性包括：
+    - 呼吸困難
+    - 間質性肺炎 (Interstitial pneumonitis)
+    - 肺浸潤 (Pulmonary infiltrates)
+    - 胸腔積液 (Pleural effusions)
+    - 非心因性肺水腫 (Noncardiogenic pulmonary edema)
+    - 呼吸功能不全 (Pulmonary insufficiency) 與缺氧 (Hypoxia)
+    - 急性呼吸窘迫症候群 (ARDS)
+    - 肺纖維化 (Pulmonary fibrosis)
+  - 具有症狀性原發肺病或廣泛肺部腫瘤侵犯，並導致靜息時呼吸困難者，其肺毒性通常較嚴重。
+
+#### 併用藥物治療相關問題 (Concurrent drug therapy issues)
+- 化學治療 (Chemotherapy)：
+  - 本藥與骨髓抑制性化學治療併用時，可能增加嗜中性白血球減少發生率。
+  - 第 3/4 級嗜中性白血球減少與發燒性嗜中性白血球減少，在接受 IV trastuzumab 者較僅接受化學治療者更常見。
+
+#### 劑型特異性問題 (Dosage form specific issues)
+- 不可互換 (Do not interchange)：
+  - 本藥與傳統 trastuzumab 製劑、trastuzumab/hyaluronidase、ado-trastuzumab emtansine、fam-trastuzumab deruxtecan 或 pertuzumab 皆不可互換。
+  - 為避免用藥錯誤，重配或給藥前應確認產品標籤。
+  - 本藥與 Herceptin（或 trastuzumab 生物相似藥）、Herceptin Hylecta、Kadcyla、Enhertu、Perjeta 之劑量與療程皆不同。
+
+#### 其他警告/注意事項 (Other warnings/precautions)
+- HER2 表現 (HER2 expression)：
+  - 治療前應以核准檢測方法確認 HER2 狀態，包括腫瘤組織之 HER2 蛋白過度表現或基因擴增。
+  - 應使用適用於乳癌之檢測方法評估 HER2。
+  - 若檢測執行不當，例如組織固定不佳、未使用指定試劑、未納入適當對照或未依檢測指示操作，可能導致不可靠結果。
+
+
+## 給藥方式 (Administration)
+### 成人 (Adult)
+#### 給藥 (Administration)
+- 皮下注射 (SUBQ)：
+  - 起始負荷劑量約於 8 分鐘內完成注射。
+  - 維持劑量約於 5 分鐘內完成注射。
+  - 僅可皮下注射，不可經其他途徑給藥。
+  - 應由醫療專業人員給藥。
+  - 注射部位應左右大腿交替使用。
+  - 新的注射位置應選擇健康皮膚，且距離前次注射部位至少 2.5 cm。
+  - 不可注射於皮膚發紅、瘀青、壓痛、硬化、有痣或有疤痕之區域。
+  - 不可將單次劑量分成 2 支注射器或 2 個注射部位。
+  - 不可於與本藥相同部位注射其他皮下藥物。
+  - 為避免針頭阻塞，應在給藥前立即將注射針頭接上注射器，再進行適當體積調整。
+- 監測：
+  - 首次給藥後至少觀察 30 分鐘。
+  - 每次維持劑量後至少觀察 15 分鐘。
+  - 主要觀察過敏反應及/或給藥相關反應之徵象與症狀。
+- 若與 docetaxel 或 paclitaxel 併用：
+  - 應先給予 pertuzumab/trastuzumab/hyaluronidase，再給予 taxane。
+- 應確認標籤以確保給予正確產品：
+  - pertuzumab/trastuzumab/hyaluronidase
+  - trastuzumab/hyaluronidase
+  - 傳統 trastuzumab 製劑
+  - ado-trastuzumab emtansine
+  - fam-trastuzumab deruxtecan
+  - pertuzumab
+- 上述製品彼此不同，且不可互換。
+
+### 成人給藥前準備 (Preparation for Administration: Adult)
+- 應確認小瓶標籤以避免選錯產品，因 pertuzumab/trastuzumab/hyaluronidase 與 trastuzumab/hyaluronidase、ado-trastuzumab emtansine、fam-trastuzumab deruxtecan、傳統 trastuzumab、pertuzumab 皆不可互換。
+- 以轉移針 (transfer needle) 自小瓶抽取藥液至注射器。
+- 各劑量對應之小瓶可直接使用，無需稀釋。
+- 不可將單次劑量分裝於 2 支注射器。
+- 應於給藥前立即接上皮下注射針頭，以避免阻塞。
+- 注射體積應調整為：
+  - 起始劑量：15 mL
+  - 維持劑量：10 mL
+- 若無法立即給藥，應將轉移針改換為注射器封蓋。
+- 本藥與下列材質相容：
+  - 不鏽鋼
+  - 聚丙烯 (polypropylene)
+  - 聚碳酸酯 (polycarbonate)
+  - 聚乙烯 (polyethylene)
+  - 聚氨酯 (polyurethane)
+  - PVC
+  - 氟化乙烯丙烯共聚物 (fluorinated ethylene polypropylene)
+
+
+## 儲存與安定性 (Storage/Stability)
+- 未開封小瓶應儲存於 2°C 至 8°C。
+- 不可冷凍。
+- 應置於原外盒中避光保存。
+- 不可搖晃。
+- 若已配製至注射器但未立即使用：
+  - 可於 2°C 至 8°C 冷藏（不可冷凍）最多 24 小時。
+  - 或於 20°C 至 25°C 室溫下最多保存 4 小時。
+  - 應避免不必要之存放。
+- 註：
+  - 加拿大上市產品之儲存建議可能不同，應參照產品仿單。
+
+## 適應症 (Uses)
+### 核准適應症 (Labeled Indications)
+#### 早期乳癌 (Breast cancer, early)，HER2 陽性；輔助或新輔助治療
+- 用於成人 HER2 陽性、局部晚期 (locally advanced)、發炎性 (inflammatory) 或早期乳癌之新輔助治療。
+- 應與化學治療併用，作為完整早期乳癌治療方案之一部分。
+- 適用於腫瘤直徑 >2 cm 或淋巴結陽性 (node positive) 之病人。
+- 亦用於成人 HER2 陽性早期乳癌之輔助治療，與化學治療併用，適用於高復發風險 (high risk of recurrence) 者。
+
+#### 轉移性乳癌 (Breast cancer, metastatic)，HER2 陽性
+- 用於成人 HER2 陽性轉移性乳癌，與 docetaxel 併用。
+- 適用於先前未因轉移性疾病接受過抗 HER2 治療或化學治療者。
+
+## 用藥安全議題 (Medication Safety Issues)
+
+### 給藥相關安全問題 (Administration issues)
+- 本藥僅供皮下注射使用。
+- 不可用 trastuzumab（IV）、trastuzumab/hyaluronidase（SUBQ）或 pertuzumab（IV）取代 pertuzumab/trastuzumab/hyaluronidase（SUBQ）。
+- 在產品選擇、配製與給藥過程中應特別小心。
+
+### 其他安全顧慮 (Other safety concerns)
+- Pertuzumab/trastuzumab/hyaluronidase（Phesgo）可能與下列產品混淆：
+  - 傳統 trastuzumab（Herceptin 或 trastuzumab 生物相似藥）
+  - trastuzumab/hyaluronidase（Herceptin Hylecta）
+  - ado-trastuzumab emtansine（Kadcyla）
+  - fam-trastuzumab deruxtecan（Enhertu）
+  - pertuzumab（Perjeta）
+- 上述產品皆不可互換。
+
+## 交互作用 (Interactions)
+### 代謝/轉運影響 (Metabolism/Transport Effects)
+- 請參照各個單一成分。
+
+## 生殖、懷孕與哺乳 (Reproduction, Pregnancy, Lactation)
+### 生殖相關考量 (Reproductive Considerations)
+- 對於可能懷孕之病人，使用前應確認懷孕狀態。
+- 於懷孕前 7 個月內暴露於 pertuzumab/trastuzumab/hyaluronidase 可能造成胎兒傷害，包括胚胎－胎兒死亡與先天缺陷。
+- 可能懷孕者應於治療期間及最後一次給藥後 7 個月內採取有效避孕措施。
+- 更多資訊請參照 pertuzumab、trastuzumab 與 hyaluronidase 各自專論。
+
+### 懷孕相關考量 (Pregnancy Considerations)
+- Pertuzumab 與 trastuzumab 為人類化單株抗體 (humanized monoclonal antibodies)。
+- 人類 IgG 可通過胎盤。
+- 治療期間暴露於本藥可能導致胎兒傷害，包括胚胎－胎兒死亡與先天缺陷。
+- 若發生暴露，應監測羊水過少 (oligohydramnios)，並依胎齡 (gestational age, GA) 進行適當胎兒檢查。
+- 更多資訊請參照 pertuzumab、trastuzumab 與 hyaluronidase 各自專論。
+- 目前持續蒐集懷孕與嬰兒結局資料。
+- 鼓勵醫療人員將於懷孕期間或最後一次本藥給藥後 7 個月內暴露之病人，登錄於 Pregnancy Registry（1-888-835-2555）。
+
+### 哺乳相關考量 (Breastfeeding Considerations)
+- 目前未知 pertuzumab、trastuzumab 或 hyaluronidase 是否分泌於乳汁中。
+- 然而，pertuzumab 與 trastuzumab 為人類化單株抗體，人類 IgG 可存在於乳汁中。
+- 依製造商建議，治療期間是否哺乳，應綜合考量：
+  - 嬰兒暴露風險
+  - 哺乳對嬰兒之益處
+  - 治療對母親之益處
+- 亦應考量 pertuzumab 較長之消除半衰期與 trastuzumab 之洗脫期 (washout period) 7 個月。
+- 更多資訊請參照 pertuzumab、trastuzumab 與 hyaluronidase 各自專論。
+
+## 監測 (Monitoring)
+### 監測參數 (Monitoring Parameters)
+- 治療前應以經驗證之免疫組織化學染色 (IHC) 或螢光原位雜交 (FISH) 方法，確認乳癌之 HER2 過度表現與 HER2 基因擴增。
+- 對於可能懷孕之病人，治療開始前應確認懷孕狀態。
+- 治療前與治療期間應評估心臟功能。
+- 開始治療前應完成完整心血管評估，包括病史與理學檢查。
+- 應於基線及治療期間定期（約每 12 週）以 ECG 或多閘道血池攝影 (MUGA) 評估 LVEF。
+- 若因顯著 LVEF 功能障礙而暫停治療，應每 3 週追蹤一次 LVEF。
+- 若用於輔助治療，治療完成後至少 2 年內，每 6 個月持續監測心肌病變並評估 LVEF。
+- 監測心肌病變與/或肺毒性之徵象與症狀。
+- 首次給藥後至少密切觀察 30 分鐘；每次維持劑量後至少 15 分鐘，以監測過敏及/或給藥相關反應。
+- 若發生反應（包括過敏性休克、血管性水腫、間質性肺炎或 ARDS），應持續嚴密監測至症狀完全緩解。
+
+### 額外心血管監測（指引建議）
+- 治療前應做完整評估，包括病史、理學檢查，並篩檢高血壓、糖尿病、血脂異常、肥胖、吸菸等心血管危險因子。
+- 建議基線進行心臟超音波 (echocardiography)，以經胸超音波 (transthoracic) 為優先。
+- 治療期間每 3 個月重複檢查一次；若病人正常且無症狀，可減少至每 4 至 6 個月一次。
+- 若臨床需要，應更頻繁評估。
+- 完成治療後 12 個月內應再做一次心臟超音波。
+- 高風險與極高風險病人：
+  - 基線檢測 troponin 與利鈉胜肽 (natriuretic peptide)
+  - 可考慮每 2 至 3 個療程評估一次
+  - 完成治療後第 3 個月與第 12 個月再追蹤
+- 低風險與中風險病人：
+  - 可考慮於基線（anthracycline 後）、每 3 個月及完成治療後第 12 個月檢測 troponin 與利鈉胜肽。
+
+### B 型肝炎篩檢
+- ASCO 建議在開始（或一開始）全身性抗癌治療前，篩檢 B 型肝炎病毒 (HBV)：
+  - HBsAg
+  - anti-HBc total Ig 或 IgG
+  - anti-HBs
+- 不應因等待篩檢/結果而延遲治療。
+- 若偵測到慢性或既往 HBV 感染，需進一步風險評估，以決定是否需抗病毒預防、監測與追蹤。
+
+## 藥理學 (Pharmacology)
+### 作用機轉 (Mechanism of Action)
+- Pertuzumab：
+  - 為重組人類化單株抗體，作用於 HER2 蛋白細胞外二聚化區域 (extracellular HER2 protein dimerization domain)。
+  - 可抑制 HER2 二聚化 (dimerization)，阻斷 HER 下游訊號傳導，進而抑制細胞生長並誘導細胞凋亡 (apoptosis)。
+  - Pertuzumab 與 trastuzumab 結合於 HER2 的不同表位 (epitope)，因此兩者併用可更完整抑制 HER2 訊號。
+- Trastuzumab：
+  - 為單株抗體，結合 HER2 細胞外區域。
+  - 透過抑制 HER2 過度表現細胞之增殖，並介導抗體依賴性細胞毒殺作用 (antibody-dependent cellular cytotoxicity, ADCC)。
+- Hyaluronidase：
+  - 透過暫時性去聚合透明質酸 (hyaluronan)，增加皮下組織通透性，以提升含 trastuzumab 皮下注射製劑之分散與吸收速率。
+  - 於建議劑量下，其作用為短暫且局部性。
+  - 皮下組織通透性通常於 24 至 48 小時內恢復。
+
+### 藥物動力學 (Pharmacokinetics)
+- 分布容積 (Vd)，皮下注射：
+  - Pertuzumab：2.8 L
+  - Trastuzumab：2.9 L
+- 絕對生體可用率 (Absolute bioavailability)，皮下注射：
+  - Pertuzumab：0.71
+  - Trastuzumab：0.77
+- 消除半衰期 (Half-life elimination)，皮下注射：
+  - Pertuzumab：24 天
+  - Trastuzumab：22 天
+- 達峰時間 (Time to peak)，皮下注射：
+  - Pertuzumab 與 trastuzumab：3.8 天
+- 清除率 (Clearance)，皮下注射：
+  - Pertuzumab：0.2 L/day
+  - Trastuzumab（線性）：0.1 L/day
+
+### 藥物動力學：其他考量 (Pharmacokinetics: Additional Considerations)
+- 體重 (Body weight)：
+  - 雖臨床意義不大，但體重對藥物動力學有統計上顯著影響。
+  - 體重 <58 kg 病人：
+    - 使用本藥後第 7 療程之 AUC0-21 days 平均約較 IV trastuzumab 高 33%。
+  - 體重 >77 kg 病人：
+    - 使用本藥後第 7 療程之 AUC0-21 days 平均約較 IV trastuzumab 低 24%。
+
+## 病人諮詢重點 (Patient Counseling Points)
+### 其他資訊
+- 更多資訊請參閱「Pertuzumab、trastuzumab、hyaluronidase：病人用藥資訊」。
+
+### 此藥用途 (What is this drug used for?)
+- 用於治療乳癌。
+
+### 常見可能副作用
+- 所有藥物皆可能造成副作用，但許多人沒有副作用，或僅有輕微副作用。
+- 若以下副作用或其他任何副作用造成困擾或持續不退，應聯絡醫師：
+  - 掉髮
+  - 便秘、腹瀉、胃痛、腸胃不適、嘔吐或食慾下降
+  - 胃灼熱
+  - 皮膚乾燥
+  - 指甲改變
+  - 頭暈、疲倦或虛弱
+  - 頭痛
+  - 口腔刺激或口腔潰瘍
+  - 味覺改變
+  - 注射部位刺激
+  - 類流感症狀
+  - 體重下降
+  - 背部、骨頭、關節或肌肉疼痛
+  - 手臂或腿部疼痛
+  - 肌肉痙攣
+  - 鼻出血
+  - 一般感冒症狀
+  - 鼻或喉嚨刺激
+  - 睡眠困難
+  - 乾眼
+  - 流淚
+  - 熱潮紅
+
+### 需立即就醫之嚴重警訊
+- 雖然較少見，但有些人可能出現非常嚴重，甚至致命之副作用。
+- 若出現以下任何症狀或徵象，應立即告知醫師或就醫：
+  - 心臟問題：
+    - 新發或惡化之咳嗽或呼吸困難
+    - 腳踝或下肢腫脹
+    - 心跳異常
+    - 24 小時內體重增加超過 5 磅
+    - 頭暈
+    - 昏厥
+  - 肺部問題：
+    - 呼吸困難或其他呼吸問題
+    - 新發或惡化之咳嗽
+    - 發燒
+  - 感染徵象：
+    - 發燒
+    - 發冷
+    - 嚴重喉嚨痛
+    - 耳痛或鼻竇痛
+    - 咳嗽
+    - 痰量增加或痰色改變
+    - 排尿疼痛
+    - 口腔潰瘍
+    - 傷口久未癒合
+  - 電解質異常徵象：
+    - 情緒改變
+    - 意識混亂
+    - 肌肉疼痛、抽筋或痙攣
+    - 無力
+    - 發抖
+    - 平衡改變
+    - 心跳異常
+    - 癲癇發作
+    - 食慾下降
+    - 嚴重腸胃不適或嘔吐
+  - 低血糖徵象：
+    - 頭暈
+    - 頭痛
+    - 嗜睡
+    - 虛弱
+    - 顫抖
+    - 心跳加快
+    - 混亂
+    - 飢餓
+    - 出汗
+  - 高血壓徵象：
+    - 嚴重頭痛或頭暈
+    - 昏厥
+    - 視力改變
+  - 胸痛
+  - 異常灼熱感、麻木感或刺痛感
+  - 手掌或腳底紅腫或刺激
+  - 直腸刺激
+  - 無法解釋之瘀青或出血
+  - 腫瘤溶解症候群 (Tumor lysis syndrome, TLS) 徵象：
+    - 心跳過快或心律異常感
+    - 昏厥
+    - 排尿困難
+    - 肌肉無力或痙攣
+    - 腸胃不適、嘔吐、腹瀉或無法進食
+    - 嗜睡或無精打采
+  - 過敏反應徵象：
+    - 皮疹
+    - 蕁麻疹
+    - 搔癢
+    - 皮膚紅、腫、起泡或脫皮，可伴或不伴發燒
+    - 喘鳴
+    - 胸口或喉嚨緊縮
+    - 呼吸、吞嚥或說話困難
+    - 異常聲音沙啞
+    - 口腔、臉部、嘴唇、舌頭或喉嚨腫脹
+
+### 補充說明
+- 註：
+  - 以上並非所有副作用之完整清單；若有疑問，應與醫師討論。
+
+
+## 參考來源
+- 文件標題：Pertuzumab, trastuzumab, and hyaluronidase: Drug information
+- 來源：UpToDate Lexidrug / UpToDate, Inc.

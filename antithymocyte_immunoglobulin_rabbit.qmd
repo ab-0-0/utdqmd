@@ -1,0 +1,603 @@
+---
+title: "antithymocyte immunoglobulin (rabbit)"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    theme: cosmo
+    sidebar: true
+---
+
+
+
+## 藥理分類
+- 免疫球蛋白
+- 免疫抑制劑
+- 多株抗體
+
+## 劑量
+
+### 成人
+
+#### 成人劑量
+- 註：
+  - 為降低輸注相關反應的發生率與嚴重度，應於輸注前 1 小時預先給予 corticosteroids、acetaminophen 及/或 antihistamine。
+  - 若臨床上有需要，應給予抗黴菌與抗細菌預防治療。
+  - 所有病人均建議接受 herpes simplex virus 預防；對於移植時為 CMV 血清陽性之病人，以及預定接受來自 CMV 血清陽性捐贈者器官之 CMV 血清陰性病人，建議接受 cytomegalovirus (CMV) 預防。
+
+- 慢性 graft-versus-host disease 預防
+  - 慢性 graft-versus-host disease 預防（hematopoietic cell transplantation；仿單標示外使用）：
+    - IV：
+      - 移植前 2 日給予 0.5 mg/kg，並於移植前 1 日及移植後 1 日各給予 2 mg/kg
+      - 或自移植前 3 日開始，2.5 mg/kg 每日 1 次，共 3 日
+
+- 心臟移植，急性細胞排斥治療
+  - 心臟移植，急性細胞排斥治療（仿單標示外使用）：
+    - IV：0.75 至 1.5 mg/kg/day，治療 5 至 14 日
+
+- 心臟移植，誘導治療
+  - 心臟移植，高風險病人之誘導治療（仿單標示外使用）：
+    - IV：1 至 1.5 mg/kg 每日 1 次，最多 7 日
+    - 給藥頻率可依 CD3 計數調整，例如僅於 CD3 >25 cells/mm3 時重複給藥
+
+- 腸道及多臟器移植，誘導治療
+  - 腸道及多臟器移植誘導治療（仿單標示外使用）：
+    - IV：術後第 0、2、4、6、8 日各 2 mg/kg/day
+    - 與 rituximab 合併使用，可加用或不加用 basiliximab
+
+- 腸道移植，急性細胞排斥治療
+  - 腸道移植，急性細胞排斥治療（仿單標示外使用）：
+    - 註：最佳劑量、頻率與療程尚未確立，且會依機構流程而異；應作為適當合併療法的一部分使用。
+    - IV：1.5 mg/kg 每日 1 次，共 10 至 14 劑
+
+- 肝臟移植，誘導治療
+  - 肝臟移植誘導治療（仿單標示外使用）：
+    - 註：最佳劑量、頻率與療程尚未確立，且會依機構流程而異；應作為適當合併療法的一部分使用。
+    - IV：
+      - 1.5 mg/kg 每隔 1 日 1 次，共 2 至 3 劑
+      - 或 1.5 mg/kg 每日 1 次，共 3 劑
+
+- 肝臟移植，嚴重急性細胞排斥治療
+  - 肝臟移植，嚴重急性細胞排斥治療（仿單標示外使用）：
+    - 註：最佳劑量、頻率與療程尚未確立，且會依機構流程而異；用於 steroid resistant rejection 時，應作為適當合併療法的一部分使用。
+    - IV：1 至 1.5 mg/kg 每日 1 次，共 4 至 7 劑
+
+- 腎臟移植，誘導治療
+  - 腎臟移植誘導治療：
+    - 註：廠商建議以實際體重計算劑量，但亦有其他策略被使用，包括 ideal body weight 或累積總劑量 5 mg/kg；請依各中心流程。
+    - IV：1.5 mg/kg/day，連續 4 至 7 日
+    - 第一劑應於供腎再灌流前給予
+    - 劑量與療程可依同時使用之維持性免疫抑制、病人因素及/或移植物相關變項而異
+
+- 腎臟移植，排斥反應
+  - 腎臟移植排斥反應：
+    - IV：1.5 mg/kg/day，治療 7 至 14 日
+
+- 肺臟移植，誘導治療
+  - 肺臟移植誘導治療（仿單標示外使用）：
+    - IV：1.5 mg/kg/day，共 3 日
+    - 第一劑於移植後 24 小時內給予
+    - 可能仍需更多試驗以進一步界定 antithymocyte globulin (rabbit) 在肺移植後排斥預防中的角色
+
+- 肺臟移植，持續性急性細胞排斥治療
+  - 肺臟移植，持續性急性細胞排斥治療（仿單標示外使用）：
+    - IV：曾使用 pulse treatment 處理持續性急性細胞排斥
+    - 可能仍需更多資料以進一步界定其在肺移植後急性細胞排斥治療中的角色
+
+- 胰臟移植，誘導治療
+  - 胰臟移植誘導治療（仿單標示外使用）：
+    - 註：最佳劑量、頻率與療程尚未確立，且會依機構流程而異；應作為適當合併療法的一部分使用。
+    - IV：1 至 1.5 mg/kg 每日 1 次或每隔 1 日 1 次，共 3 至 7 劑
+
+- 胰臟移植，嚴重急性細胞排斥治療
+  - 胰臟移植，嚴重急性細胞排斥治療（仿單標示外使用）：
+    - 註：最佳劑量、頻率與療程尚未確立，且會依機構流程而異；應作為適當合併療法的一部分使用。
+    - IV：1.5 mg/kg 每日 1 次，共 5 至 10 劑
+
+- 併用藥物之劑量調整
+  - 存在重大藥物交互作用，可能需要調整劑量/頻率或避免併用。
+  - 請參閱藥物交互作用資料庫以取得更多資訊。
+
+#### 腎功能不全
+- 廠商仿單未提供劑量調整建議。
+- 然而，由於本品分子量高，不太可能經由腎絲球過濾，因此通常不太需要調整劑量。
+
+#### 肝功能不全
+- 廠商仿單未提供劑量調整建議。
+
+#### 肥胖
+- American Society for Blood and Marrow Transplantation (ASBMT) 之 obesity chemotherapy dosing 指引立場聲明：
+  - 造血幹細胞移植 conditioning regimen 之 mg/kg 劑量計算，應採用實際體重（full weight）。
+
+#### 毒性調整
+- 實體器官移植：
+  - WBC 2,000 至 3,000 cells/mm3 或 platelet 50,000 至 75,000 cells/mm3：
+    - 劑量減少 50%
+  - WBC <2,000 cells/mm3 或 platelet <50,000 cells/mm3：
+    - 考慮停藥或暫停給藥，待數值回升後再恢復
+  - CD3+ lymphocyte count：
+    - 停藥、暫停或減量之門檻依中心流程而異
+    - CD3 抑制持續時間與移植器官種類、併用免疫抑制治療及其他器官功能（例如腎功能）有關
+    - 其中一種以 CD3 為基礎之調整方式為：
+      - CD3 <25 cells/mm3 時停藥或暫停
+      - CD3 >25 cells/mm3 時再重新給藥
+    - 採用此策略時，需每日至隔日監測 CD3 計數
+
+#### 老年人
+- 參照成人劑量。
+
+### 兒科
+
+#### 兒科劑量
+- （更多資訊請參閱 "Antithymocyte globulin (rabbit derived, Thymoglobulin): Pediatric drug information"）
+- 註：
+  - 為降低輸注相關反應的發生率與嚴重度，應於輸注前 1 小時預先給予 corticosteroids、acetaminophen 及/或 antihistamine。
+  - 若臨床上有需要，應給予抗黴菌與抗細菌預防治療。
+  - 用於實體器官移植（如腎移植）時，對於移植時為 CMV 血清陽性之病人，以及預定接受來自 CMV 血清陽性捐贈者腎臟之 CMV 血清陰性病人，建議給予抗病毒預防治療。
+
+- 再生不良性貧血，難治型
+  - 資料有限：
+    - Children and Adolescents：
+      - IV：3.5 mg/kg/day，每日 1 次，共 5 日，與 cyclosporine 合併使用
+  - 註：
+    - 與成人觀察一致，對於 severe aplastic anemia 之初始治療，在兒童與青少年中，rabbit-antithymocyte globulin 與 cyclosporine 併用之效果較 horse-antithymocyte globulin 與 cyclosporine 併用為差。
+
+- 造血幹細胞移植；graft-versus-host disease 預防
+  - Hematopoietic stem cell transplant；graft-versus-host disease (GVHD) prevention：
+    - 資料有限；治療方案與流程差異大，請依各機構流程
+    - Infants、Children、Adolescents：
+      - IV：常見報告之總劑量範圍為 4.5 至 15 mg/kg，分成 3 至 5 次，每日 1 次，於移植前給藥
+      - 常見療程為連續 3 至 4 日給藥，並與 chemotherapy 或 radiation 合併使用
+    - Adolescents ≥16 歲：
+      - 曾成功使用較低總劑量與特定時序：
+        - IV：移植前 2 日 0.5 mg/kg/day
+        - 移植前 1 日 2 mg/kg/day
+        - 移植後 1 日 2 mg/kg/day
+      - 總劑量 4.5 mg/kg
+      - 並搭配標準 GVHD prophylaxis
+
+- 實體器官移植
+  - 註：劑量與時機可能不同；請依各機構流程
+  - 腎臟移植：
+    - Infant、Children、Adolescents：
+      - 誘導／預防：
+        - IV：1.5 mg/kg/dose，每日 1 次，共 4 至 10 劑
+        - 於移植時、供腎再灌流前開始
+        - 治療期間可變，且依其他免疫抑制療法而定
+      - 急性排斥治療：
+        - IV：1.5 mg/kg/dose，每日 1 次，共 7 至 14 日
+  - 心臟／肺臟移植：
+    - 資料有限
+    - Infant、Children、Adolescents：
+      - 誘導／預防：
+        - 報告範圍：IV：1 至 2 mg/kg/dose，每日 1 次，輸注 12 小時，共 5 日
+        - 劑量依基線血小板計數而定
+        - 試驗中依 platelet count 使用下列劑量：
+          - >150,000/mm3：IV 2 mg/kg/dose
+          - 100,000 至 150,000/mm3：IV 1.5 mg/kg/dose
+          - 50,000 至 <100,000/mm3：IV 1 mg/kg/dose
+      - 急性排斥治療：
+        - IV：2 mg/kg/dose，每日 1 次，共 5 日
+  - 肝臟、腸道或多臟器移植：
+    - 資料有限
+    - Infants、Children、Adolescents：
+      - 誘導／預防：
+        - IV：總劑量 5 mg/kg，分為術前與術後劑量
+        - 於移植物再灌流前 6 至 8 小時內給予 2 至 3 mg/kg
+        - 術後再於 6 至 8 小時內給予剩餘之 2 至 3 mg/kg
+        - 與其他免疫抑制劑合併使用
+      - 排斥反應：
+        - 1.5 mg/kg/dose 每日 1 次
+        - 療程長短依 biopsy 結果而異，通常至少 4 至 5 日
+
+- 併用藥物之劑量調整
+  - 存在重大藥物交互作用，可能需要調整劑量/頻率或避免併用。
+  - 請參閱藥物交互作用資料庫以取得更多資訊。
+
+#### 腎功能不全
+- 廠商仿單未提供劑量調整建議。
+
+#### 肝功能不全
+- 廠商仿單未提供劑量調整建議。
+
+## 不良反應
+
+### 不良反應
+- 下列不良藥物反應與發生率，除另有註明外，均來自產品仿單。
+
+- >10%：
+  - 心血管系統：
+    - 高血壓（18% 至 37%）
+    - 低血壓（10% 至 16%）
+    - 周邊水腫（20%）
+    - 心搏過速（7% 至 23%）
+  - 皮膚科：
+    - 尋常痤瘡（12%）
+    - 多汗（6% 至 13%）
+    - 皮疹（7% 至 13%）
+  - 內分泌及代謝：
+    - 高鉀血症（17% 至 57%）
+    - 高脂血症（15%）
+    - 低鉀血症（6% 至 12%）
+  - 腸胃道：
+    - 腹痛（8% 至 38%）
+    - 便秘（15% 至 33%）
+    - 腹瀉（6% 至 20%）
+    - 噁心（29% 至 37%）
+    - 嘔吐（12% 至 20%）
+  - 泌尿生殖系統：
+    - 泌尿道感染（39% 至 42%）
+  - 血液及腫瘤：
+    - 貧血（12% 至 25%）
+    - 白血球增多症（13%）
+    - 白血球減少症（21% 至 63%）
+    - 血小板減少症（9% 至 37%）
+  - 感染：
+    - 巨細胞病毒疾病（6% 至 13%）
+    - 感染（17% 至 76%；嚴重感染：23%）
+    - 敗血症（6% 至 12%）
+  - 神經系統：
+    - 焦慮（7% 至 14%）
+    - 寒顫（9% 至 57%）
+    - 頭痛（18% 至 40%）
+    - 失眠（12% 至 20%）
+    - 不適（9% 至 13%）
+    - 疼痛（26%）
+  - 神經肌肉及骨骼：
+    - 關節痛（15%）
+    - 虛弱（13%）
+    - 背痛（12%）
+    - 肌肉痛（11% 至 20%）
+  - 呼吸系統：
+    - 呼吸困難（15% 至 28%）
+    - 下呼吸道感染（≤13%）
+    - 肺部疾病（12%）
+    - 上呼吸道感染（11%）
+  - 其他：
+    - 發燒（13% 至 46%）
+
+- 1% 至 10%：
+  - 心血管系統：
+    - 胸痛（9%）
+    - 水腫（6%）
+  - 皮膚科：
+    - 搔癢（6%）
+  - 內分泌及代謝：
+    - 酸中毒（6% 至 9%）
+    - 高磷血症（6% 至 7%）
+    - 低磷血症（6%）
+  - 腸胃道：
+    - 食慾不振（6%）
+    - 消化不良（10%）
+    - 胃炎（1%）
+    - 腸道念珠菌病（5%）
+    - 口腔念珠菌病（6%）
+  - 血液及腫瘤：
+    - 淋巴增生性疾病（移植後：2%）
+    - 惡性腫瘤（4%）
+  - 過敏反應：
+    - 血清病（1% 至 2%）
+  - 感染：
+    - 單純疱疹感染（5%）
+    - 帶狀疱疹感染（5%）
+  - 呼吸系統：
+    - 咳嗽加劇（7%）
+    - 鼻咽炎（5%）
+
+- <1%：
+  - 過敏反應：
+    - 過敏性休克
+
+- 頻率未定：
+  - 其他：
+    - 輸注相關反應
+
+- 上市後通報：
+  - 血液及腫瘤：
+    - 血液凝血成分障礙
+    - 彌漫性血管內凝血 (DIC)
+    - 嗜中性白血球減少性發燒
+    - 惡性淋巴瘤
+    - 惡性實體腫瘤
+  - 肝臟：
+    - 血清轉氨酶升高
+  - 過敏反應：
+    - 全身性過敏反應 (Anaphylaxis)
+    - 細胞激素釋放症候群
+  - 其他：
+    - 疾病再活化
+
+## 禁忌症／警語
+
+### 禁忌症
+- 對 rabbit proteins 或本品任一成分過敏（allergy 或 anaphylaxis）
+- 任何會因額外免疫抑制而構成禁忌之活動性急性或慢性感染
+
+### 警語／注意事項
+- 與不良反應有關之注意事項：
+  - 血液學影響：
+    - 可能發生 anemia、neutropenia 及/或 thrombocytopenia
+    - 可能需要調整劑量或停止治療
+  - 過敏反應：
+    - 曾有嚴重過敏反應及致命性 anaphylactic reactions 報告
+    - 若出現 hypersensitivity reaction，應立即停止輸注
+    - 輸注期間應備有立即治療措施（包括 SUBQ epinephrine 與 corticosteroids）以處理過敏反應
+  - 感染：
+    - 與免疫抑制劑併用 antithymocyte globulin 後，可能發生嚴重感染（細菌、黴菌、病毒及/或原蟲）
+    - 曾有感染再活化（尤其 CMV）及 sepsis 報告
+    - 建議適當之 antiviral、antibacterial、antiprotozoal 及/或 antifungal 預防治療
+    - 應密切監測感染
+  - 輸注反應：
+    - 曾有嚴重輸注相關反應報告
+    - 活化之 monocytes 與 lymphocytes 釋放 cytokines，於輸注期間可能導致 cytokine release syndrome，並可能引起嚴重心肺事件（有時致命）
+    - 遵循建議劑量與輸注時間可降低反應之發生率與嚴重度
+    - 降低輸注速率亦可能降低反應風險
+    - 若發生輸注反應，應立即停止輸注並給予支持性治療
+  - 惡性腫瘤：
+    - 免疫抑制劑（包括 antithymocyte globulins）可能增加惡性腫瘤發生率，包括 lymphoma、post-transplant lymphoproliferative disease 或其他惡性腫瘤
+    - 可能致命
+
+- 併用藥物治療相關問題：
+  - 疫苗接種：
+    - 治療期間或治療後短期內，不應接種減毒活病毒疫苗
+    - 治療後接種疫苗之安全性尚未研究
+
+- 疾病相關注意事項：
+  - 肝臟移植誘導治療：
+    - antithymocyte globulin (rabbit) 用於肝臟移植誘導時，與不良反應增加有關
+    - 此族群應謹慎使用
+
+- 其他警語／注意事項：
+  - 產品選擇：
+    - antithymocyte globulin (ATG) (rabbit) 依地區不同有不同製劑，如 ATG-Thymoglobulin 與 ATG-Fresenius
+    - 不同製劑間劑量不同
+    - antithymocyte globulin (rabbit) 與其他 antithymocyte globulin 產品（例如 ATG [equine]）之劑量亦不同
+    - 各產品之蛋白組成與濃度不同
+    - 應特別確認處方劑量確為預定給予之特定產品
+
+## 給藥
+
+### 成人
+
+#### 給藥方式
+- IV：
+  - 第一劑至少輸注 6 小時
+  - 後續劑量至少輸注 4 小時
+  - 經高流量靜脈（central line）輸注
+  - 使用 0.22 micron in-line filter
+  - 於輸注前 1 小時預先給予 corticosteroids、acetaminophen 及/或 antihistamine，可降低輸注相關反應的發生率與嚴重度
+  - 降低輸注速率可減少輸注反應
+  - 仿單標示外用途之輸注速率可能不同，請依特定 protocol
+
+- 腎移植：
+  - 曾有經 peripheral vein 給藥之報告，並於 500 mL NS（僅限 NS）中加入 heparin 1,000 units 與 hydrocortisone 20 mg，以降低 thrombosis 與 phlebitis 風險
+  - 前 2 劑輸注 6 小時，後續劑量輸注 4 小時
+  - 有些中心選擇不加入添加物，並以 1 mg/mL 濃度使用 NS 稀釋
+    - 第一劑輸注 4 至 6 小時
+    - 後續劑量輸注 2 至 4 小時
+
+#### 給藥前配製
+- 先使小瓶恢復至室溫
+- 每瓶以 SWFI 5 mL 回溶，濃度為 5 mg/mL
+- 輕輕轉動 vial 直至完全溶解
+- 給藥前再進一步稀釋：
+  - 每支 25 mg 應稀釋於 50 mL NS 或 D5W 中
+  - 總體積通常為 50 至 500 mL，依每次劑量所需 vial 數目而定
+- 僅需將 infusion bag 輕輕倒轉 1 至 2 次混勻
+- 若採 peripheral administration：
+  - 曾有將藥品稀釋於 500 mL NS（僅限 NS），可加或不加 heparin 1,000 units 與 hydrocortisone 20 mg 之報告
+
+### 兒科
+
+#### 給藥方式
+- Parenteral：
+  - 以緩慢 IV infusion 給藥
+  - preconditioning/induction dose：輸注 6 至 12 小時
+  - 初始 acute rejection treatment dose：輸注 6 小時
+  - 若第一劑耐受，後續劑量可於 4 小時輸注完成
+  - 經 central line 或 high flow vein，並搭配 0.22 micron in-line filter
+  - 預先給予 corticosteroids、acetaminophen 及/或 antihistamine，可能降低輸注相關反應
+
+#### 給藥前配製
+- Parenteral：IV：
+  - 先使小瓶恢復至室溫
+  - 每瓶以 SWFI 5 mL 回溶
+  - 輕輕轉動 vial 至完全溶解
+  - 回溶後 thymoglobulin 濃度為 5 mg/mL
+  - 再進一步稀釋至最終濃度 0.5 mg/mL
+    - 例如 1 vial（25 mg）加至 50 mL saline 或 dextrose
+  - 成人常用總體積為 50 至 500 mL，依每次劑量所需 vial 數目而定
+  - 以輕輕倒轉 infusion bag 1 至 2 次混勻
+
+## 儲存／安定性
+- 完整未開封小瓶應儲存於 2°C 至 8°C（36°F 至 46°F）
+- 不可冷凍
+- 避光保存
+- 回溶後產品於室溫下可穩定至多 24 小時
+- 然而，本品不含防腐劑，因此不建議室溫存放
+- 廠商建議於回溶並以 D5W 或 NS 配製供輸注後立即使用
+
+## 用途
+
+### 核准適應症
+- 腎移植排斥：
+  - 用於接受腎移植之成人與兒科病人之 acute rejection 預防與治療
+  - 應與 concomitant immunosuppression 併用
+
+- 註：
+  - 在一項 multicenter、double-blind、randomized trial 中，antithymocyte globulin (rabbit) 於逆轉 acute rejection 及預防後續發作方面優於 antithymocyte globulin (equine)
+  - 根據多項研究資料（包括追蹤 10 年），於成人腎移植誘導治療中，相較 ATG (equine)，ATG (rabbit) 因較佳療效及較低 acute rejection 發生率，而成為較常用之 T-cell lymphocyte depleting induction therapy
+
+### 仿單標示外用途：成人
+- 慢性 graft-versus-host disease 預防（於 hematopoietic cell transplantation）
+- 心臟移植，急性細胞排斥治療
+- 心臟移植，誘導治療
+- 腸道及多臟器移植，誘導治療
+- 腸道移植，急性細胞排斥治療
+- 肝臟移植，誘導治療
+- 肝臟移植，嚴重急性細胞排斥治療
+- 肺臟移植，誘導治療
+- 肺臟移植，持續性急性細胞排斥治療
+- 胰臟移植，誘導治療
+- 胰臟移植，嚴重急性細胞排斥治療
+
+
+## 交互作用
+
+### 代謝／轉運影響
+- 目前未知
+
+## 生殖、懷孕與哺乳
+
+### 生殖相關考量
+- 具生育能力之女性應於治療期間及治療後至少 3 個月內採取有效避孕措施。
+- antithymocyte globulin (rabbit) 曾用於接受 uterine transplant 病人之免疫抑制誘導治療。
+- 建議 uterine transplant 與 embryo transfer 之間至少間隔 3 個月。
+
+### 懷孕相關考量
+- antithymocyte globulin (rabbit) 為純化之 immunoglobulin G。
+- 人類 IgG 經胎盤轉移之程度取決於 IgG subclass、母體血清濃度、新生兒出生體重及 gestational age，且通常隨妊娠進展而增加。
+- 在 organogenesis 期間，預期暴露最低。
+- 關於懷孕期間使用 antithymocyte globulin (rabbit) 之資料有限。
+- Transplant Pregnancy Registry International (TPR) 為追蹤 maternal transplant recipients 或由 male transplant recipients 父親所孕育之妊娠登錄系統。
+- TPR 鼓勵回報 solid organ transplant 後之妊娠：
+  - 電話：1-877-955-6877
+  - 網站：https://www.transplantpregnancyregistry.org
+
+### 哺乳相關考量
+- 目前不清楚 antithymocyte globulin (rabbit) 是否會存在於乳汁中。
+- 由於其他 immunoglobulins 可存在於乳汁中，廠商建議於 antithymocyte globulin (rabbit) 治療期間停止哺乳。
+
+## 監測
+
+### 監測參數
+- Lymphocyte count（total lymphocyte 及/或 T-cell subset）
+- CBC with differential 與 platelet count
+- 給藥期間之 vital signs
+- 感染之徵象與症狀
+- 實體器官移植：
+  - kidney 與 heart transplant recipients 曾考慮監測 absolute CD3 count（cells/µL）並依 CD3 進行 dosing
+  - 對特定病人族群可能有益，但非例行建議或常規使用
+  - 曾建議依 CD3 count 調整劑量
+
+## 藥理學
+
+### 作用機轉
+- Antithymocyte globulin (rabbit) 為多株抗體
+- 其免疫抑制作用似乎是藉由作用於 T-cell surface antigens 並耗竭 CD4 lymphocytes 而達成
+
+### 藥物動力學
+- 成人資料（除另有註明外）：
+  - 起效時間（T-cell depletion）：
+    - 24 小時內
+  - 持續時間：
+    - lymphopenia 可能持續至 1 年
+  - 排除半衰期：
+    - 2 至 3 日
+
+## 病人衛教重點
+- （更多資訊請參閱 "Antithymocyte globulin (rabbit derived, Thymoglobulin): Patient drug information"）
+
+### 本藥用於何種情況？
+- 用於腎臟移植後，幫助身體避免排斥移植腎。
+- 也可能因其他原因而給藥，請與醫師討論。
+
+### 所有藥物都可能引起副作用；然而，許多人沒有副作用，或只有輕微副作用。若下列副作用或任何其他副作用造成困擾或未消失，請聯絡醫師或尋求醫療協助：
+- 頭痛
+- 便秘、腹瀉、腹痛、胃部不適、嘔吐，或食慾降低
+- 疲倦或無力
+- 肌肉或關節疼痛
+- 失眠
+- 大量出汗
+- 青春痘（acne）
+- 背痛
+- 感冒症狀
+- 鼻部或喉嚨刺激感
+- 注射部位疼痛、發紅或腫脹
+
+### 警告／注意：雖然少見，但有些人在使用藥物時可能出現非常嚴重，甚至致命的副作用。若出現下列任何可能與嚴重副作用相關之徵象或症狀，請立刻告知醫師或立即就醫：
+- Cytokine release syndrome 相關症狀：
+  - chills
+  - dizziness
+  - feeling tired or weak
+  - fever
+  - headache
+  - passing out
+  - rash
+  - face swelling
+  - trouble breathing
+  - upset stomach 或 vomiting
+  - wheezing
+- 感染相關症狀：
+  - fever
+  - chills
+  - 嚴重 sore throat
+  - ear pain 或 sinus pain
+  - cough
+  - 痰量增加或痰色改變
+  - 排尿疼痛
+  - mouth sores
+  - 傷口不癒合
+- 泌尿道感染（UTI）相關症狀：
+  - urine 中有血
+  - 排尿灼熱或疼痛
+  - 頻尿或急尿
+  - fever
+  - lower abdominal pain
+  - pelvic pain
+- 高血壓或低血壓相關症狀：
+  - 嚴重頭痛或頭暈
+  - 昏厥
+  - 視力改變
+- 電解質異常相關症狀：
+  - mood changes
+  - confusion
+  - 肌肉痛、痙攣或抽搐
+  - weakness
+  - shakiness
+  - balance 改變
+  - 異常心跳
+  - seizures
+  - 食慾不振
+  - 嚴重胃部不適或嘔吐
+- 血中酸過多（acidosis）相關症狀：
+  - confusion
+  - 快速呼吸
+  - 心跳加快
+  - 感覺心跳異常
+  - 嚴重腹痛、胃部不適或嘔吐
+  - 非常嗜睡
+  - shortness of breath
+  - 極度疲倦或無力
+- 胸痛、胸悶或心跳加快
+- 無法解釋的瘀青或出血
+- 手臂或腿部腫脹
+- 呼吸急促
+- anxiety
+- confusion
+- agitation
+- restlessness
+- 皮膚腫塊或新生物
+- 痣之顏色或大小改變
+- 過敏反應徵象：
+  - rash
+  - hives
+  - itching
+  - 皮膚發紅、腫脹、起泡或脫皮，可伴或不伴 fever
+  - wheezing
+  - 胸口或喉嚨緊縮
+  - 呼吸、吞嚥或說話困難
+  - 異常聲音沙啞
+  - mouth、face、lips、tongue 或 throat 腫脹
+
+### 註
+- 以上並非所有副作用之完整列表；如有疑問，請與醫師討論。
+
+
+## 參考來源
+UpToDate Lexidrug™, UpToDate, Inc. and its affiliates and/or licensors.
+Content version: Topic 10026 Version 279.0.
+
+

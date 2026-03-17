@@ -1,0 +1,549 @@
+---
+title: "carboplatin"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+## 藥品名稱
+- Carboplatin
+
+## 黑框警示
+### 美國加框警語 (US Boxed Warning)
+- 應由具有癌症化學治療藥物使用經驗之合格醫師監督給藥。
+- 只有在具備充分治療設施時，才可能妥善處理治療與併發症。
+- 骨髓抑制 (Bone marrow suppression) 與劑量相關，且可能嚴重，導致感染或出血。
+- 貧血可能呈累積性，並可能需要輸血支持。
+- 嘔吐為另一常見之藥物相關不良反應。
+- 曾有類過敏性反應 (Anaphylactic-like reactions) 報告，且可於給藥後數分鐘內發生。
+- 可使用腎上腺素 (Epinephrine)、皮質類固醇 (Corticosteroids)、抗組織胺 (Antihistamines) 緩解症狀。
+
+
+## 藥理分類
+- 抗腫瘤藥物 (Antineoplastic agent)，烷化劑 (Alkylating agent)
+- 抗腫瘤藥物 (Antineoplastic agent)，鉑類類似物 (Platinum analog)
+
+## 劑量與用法
+### 成人劑量
+- 劑量原則
+  - 成人常以目標 AUC 並依 Calvert 公式計算：
+    - 總劑量 (mg) = 目標 AUC × (GFR + 25)
+  - 若以估算 GFR 用於 Calvert 公式，FDA 建議臨床上可考慮將估算 GFR 上限設為 125 mL/minute，以降低潛在毒性。
+  - 若治療目標為治癒性治療，或病人體型/肌肉量屬極端狀況，或 eGFR ≤45 mL/minute/1.73 m2 或 >125 mL/minute/1.73 m2，較建議使用實測 CrCl 或實測 GFR。
+- 臨床考量
+  - 可考慮使用止吐藥預防噁心與嘔吐。
+  - 成人之致吐風險為中度至高度，且與劑量/AUC 有關。
+  - 仿單外用法之細節應依特定治療方案或機構指引。
+
+#### 成人常見適應症與劑量
+- 肛門癌，晚期 (Anal cancer, advanced；仿單外使用)
+  - IV：目標 AUC 5，於 28 天療程第 1 天給藥，合併 paclitaxel，治療 6 個療程，或至疾病惡化/不可接受毒性。
+  - 或 IV：目標 AUC 5 或 6，於 21 天療程第 1 天給藥，合併 paclitaxel。
+- 膀胱癌，晚期 (Bladder cancer, advanced；仿單外使用)
+  - IV：目標 AUC 5，於 21 天療程第 1 天給藥，合併 gemcitabine，通常 6 個療程；若仍有臨床效益可延長。
+  - 或 IV：目標 AUC 4.5，於 21 天療程第 1 天給藥，合併 gemcitabine，至疾病惡化或不可接受毒性。
+- 乳癌，晚期或轉移性 (Breast cancer, advanced or metastatic；仿單外使用)
+  - 可合併 paclitaxel、gemcitabine 或其他方案；實際 AUC、週期與療程數依特定方案決定。
+- 乳癌，新輔助或輔助治療 (Breast cancer, neoadjuvant/adjuvant；仿單外使用)
+  - 多採目標 AUC 5 或 6，合併 taxane 類或其他藥物；細節依方案。
+- 子宮頸癌，復發或轉移性 (Cervical cancer, recurrent or metastatic；仿單外使用)
+  - 多合併 paclitaxel ± bevacizumab；劑量常為目標 AUC 5 或 6，每 3 週一次。
+- 子宮內膜癌，晚期或復發 (Endometrial cancer, advanced or recurrent；仿單外使用)
+  - 常合併 paclitaxel；典型為目標 AUC 5 或 6，每 3 週一次。
+- 食道癌 (Esophageal cancer；仿單外使用)
+  - 可依方案與 paclitaxel、fluorouracil 或 pembrolizumab 併用。
+- 胃癌 (Gastric cancer；仿單外使用)
+  - 常與 fluoropyrimidine 類藥物併用；依方案使用目標 AUC 劑量。
+- 妊娠滋養細胞腫瘤，高風險/難治型 (Gestational trophoblastic neoplasia, high-risk, refractory；仿單外使用)
+  - 常納入多藥方案；依方案調整。
+- 頭頸癌，晚期、復發或轉移性 (Head and neck cancer, advanced/recurrent/metastatic；仿單外使用)
+  - IV：目標 AUC 5，於第 1 天每 3 週一次，合併 cetuximab 與 fluorouracil，最多 6 個療程。
+  - 或 300 mg/m2，第 1 天每 4 週一次，合併 fluorouracil。
+  - 或目標 AUC 6，第 1 天每 3 週一次，合併 paclitaxel。
+  - 或目標 AUC 1.5，每週一次共 7 週，合併放射治療，並於 TPF 誘導後使用。
+  - 或目標 AUC 5，每 3 週一次，合併 fluorouracil 與 pembrolizumab，共 6 個療程，之後 pembrolizumab 單藥維持最多 24 個月。
+- 鼻咽癌，局部晚期 (Nasopharyngeal carcinoma, locally advanced；仿單外使用)
+  - Cisplatin 為較優先之鉑類，但若 cisplatin 禁忌可考慮 carboplatin。
+  - 同步放化療：目標 AUC 6，第 1 天每 3 週一次，共 2 個療程。
+  - 或 100 mg/m2，每週一次，於放療期間第 1、8、15、22、29、36 天給藥。
+  - 輔助治療：目標 AUC 5，第 1 天每 4 週一次，合併 fluorouracil，共 3 個療程。
+- 鼻咽癌，復發或轉移性 (Nasopharyngeal carcinoma, recurrent or metastatic；仿單外使用)
+  - IV：目標 AUC 5，第 1 天每 3 週一次，合併 cetuximab，至疾病惡化、不可接受毒性，或最多 8 個療程。
+- 轉移性生殖細胞腫瘤造血幹細胞移植前處置 (Hematopoietic cell transplant for metastatic germ cell tumors；仿單外使用)
+  - EC regimen：700 mg/m2/日，連續 3 天，於周邊血球輸注前 5 天開始，合併 etoposide。
+  - TI-CE regimen：目標 AUC 7 至 8，第 1 至 3 天，合併 etoposide，之後自體幹細胞支持。
+- 霍奇金淋巴瘤，復發或難治 (Hodgkin lymphoma, relapsed or refractory；仿單外使用)
+  - GCD regimen：目標 AUC 5，第 1 天，每 21 天一療程，合併 gemcitabine 與 dexamethasone，最多 4 個療程。
+  - ICE regimen：目標 AUC 5（最大劑量 800 mg），第 2 天，每 14 天療程，合併 ifosfamide、etoposide 與 mesna，共 2 個療程。
+- 黑色素瘤，晚期或轉移性 (Melanoma, advanced or metastatic；仿單外使用)
+  - 若需細胞毒性化療時，可與 paclitaxel 併用：
+    - 目標 AUC 6，第 1 天每 3 週一次，共 4 個療程，之後可降為 AUC 5 再續至 6 個療程。
+    - 或目標 AUC 2，於第 1、8、15 天給藥，每 4 週一次。
+- Merkel 細胞癌 (Merkel cell carcinoma；仿單外使用)
+  - 可與 etoposide 及同步放療併用；亦可每週合併放療後再接續每 3 週方案。
+- 胸膜間皮瘤 (Pleural mesothelioma；仿單外使用)
+  - 第一線常為鉑類加 pemetrexed，4 至 6 個療程。
+  - 合併 pemetrexed：目標 AUC 5，第 1 天，每 21 天一療程。
+  - 合併 pemetrexed 與 pembrolizumab：目標 AUC 5 至 6，第 1 天，每 21 天一療程，最多 6 個療程，之後以 pembrolizumab 維持。
+- 神經內分泌腫瘤，晚期、非肺部、非典型或低分化 (Neuroendocrine tumors；仿單外使用)
+  - 目標 AUC 6，第 1 天每 3 週一次，合併 etoposide，共 4 至 6 個療程。
+- 非霍奇金淋巴瘤，復發或難治 (Non-Hodgkin lymphomas, relapsed or refractory；仿單外使用)
+  - R-GCD regimen：目標 AUC 5，第 1 天，每 21 天一療程。
+  - R-ICE regimen：目標 AUC 5（最大 800 mg），約每 14 天療程第 4 天給藥。
+- 非小細胞肺癌 (Non-small cell lung cancer；仿單外使用)
+  - 新輔助治療：目標 AUC 5 或 6，第 1 天，每 21 天一療程，合併 paclitaxel 與 nivolumab，最多 3 個療程。
+  - 新輔助後接輔助治療：
+    - 可合併 durvalumab 與 paclitaxel 或 pemetrexed。
+    - 可合併 nivolumab 與 paclitaxel 或 pemetrexed。
+  - 輔助治療：
+    - 目標 AUC 2，每週一次共 7 週，之後 AUC 6 每 3 週一次 2 個鞏固療程，合併 paclitaxel 與放療。
+    - 或目標 AUC 6，第 1 天每 21 天一次，合併 paclitaxel，共 4 個療程。
+  - 晚期或轉移性：
+    - 非鱗狀細胞型可與 amivantamab、atezolizumab、bevacizumab、cemiplimab、durvalumab、ipilimumab/nivolumab、osimertinib、pembrolizumab、pemetrexed 等併用。
+    - 鱗狀細胞型可與 durvalumab/gemcitabine/tremelimumab、ipilimumab/nivolumab/paclitaxel、pembrolizumab/paclitaxel 等併用。
+    - 常用劑量為目標 AUC 5 或 6，第 1 天每 3 週一次；依方案可僅給 2 至 6 個療程，後續接維持治療。
+- 卵巢癌，晚期 (Ovarian cancer, advanced)
+  - 仿單外常見方案：
+    - 目標 AUC 5 或 6，第 1 天每 3 週一次，合併 paclitaxel，共 6 個療程。
+    - 目標 AUC 2，每週一次，合併每週 paclitaxel，共 18 週。
+    - 目標 AUC 5，每 3 週一次，合併 docetaxel。
+    - 目標 AUC 6，第 1 天每 3 週一次，合併 bevacizumab 與 paclitaxel，後續 bevacizumab 維持。
+    - 目標 AUC 5，第 1 天每 4 週一次，合併脂質體 doxorubicin。
+  - 新輔助治療
+    - 常以目標 AUC 5 或 6，第 1 天每 3 週一次，單用或合併 paclitaxel，先行 3 至 4 個療程，手術後再補足總療程數。
+  - 惡性生殖細胞腫瘤
+    - 400 mg/m2，第 1 天，每 4 週一次，合併 etoposide，共 3 個療程。
+  - 仿單廠商標示
+    - 360 mg/m2 每 4 週一次，單藥。
+    - 或 300 mg/m2 每 4 週一次，合併 cyclophosphamide，共 6 個療程。
+    - 或既往治療病人單藥目標 AUC 4 至 6。
+- 前列腺癌，轉移性去勢抗性 (Prostate cancer, metastatic castration resistant；仿單外使用)
+  - 目標 AUC 4，第 1 天每 3 週一次，合併 cabazitaxel、prednisone 與生長因子支持。
+  - 或目標 AUC 5，第 1 天每 3 週一次，合併 docetaxel。
+  - 或目標 AUC 5，第 1 天每 3 週一次，合併 etoposide。
+- 肉瘤，Ewing sarcoma、osteosarcoma (仿單外使用)
+  - 成人 ≤22 歲：400 mg/m2/日，連續 2 天，每 21 天一次，合併 ifosfamide 與 etoposide。
+- 小細胞肺癌 (Small cell lung cancer；仿單外使用)
+  - 局限期：目標 AUC 6，第 1 天每 3 週一次，合併 etoposide，最多 6 個療程。
+  - 廣泛期：
+    - 目標 AUC 5，第 1 天每 3 週一次，合併 etoposide。
+    - 或合併 irinotecan。
+    - 或合併 etoposide 與 atezolizumab。
+    - 或合併 etoposide 與 durvalumab。
+  - 復發疾病：目標 AUC 5，第 1 天每 3 週一次，合併 etoposide，最多 6 個療程。
+- 睪丸癌，seminoma，早期輔助治療 (Testicular cancer, seminoma, early stage；仿單外使用)
+  - 目標 AUC 7，單次給藥。
+- 胸腺瘤或胸腺癌 (Thymoma or thymic carcinoma；仿單外使用)
+  - 可切除局部病灶新輔助治療：目標 AUC 6，第 1 天每 3 週一次，合併 paclitaxel。
+  - 局部晚期不可切除同步放化療：目標 AUC 2，每週一次，合併 paclitaxel 與放療，共 6 週。
+  - 晚期或轉移性第一線：目標 AUC 6，第 1 天每 3 週一次，合併 paclitaxel，最多 6 個療程。
+- 未分化甲狀腺癌 (Anaplastic thyroid carcinoma；仿單外使用)
+  - 輔助或放射增敏：目標 AUC 2，每週一次，合併每週 paclitaxel。
+  - 晚期或轉移性：目標 AUC 6，第 1 天，每 21 天一療程，合併 paclitaxel，共 6 個療程。
+- 原發不明癌 (Unknown primary cancer；仿單外使用)
+  - 可合併 paclitaxel、docetaxel、etoposide 或 irinotecan。
+  - 常用目標 AUC 5 或 6，每 3 或 4 週一次。
+- 合併治療時之劑量調整
+  - 因存在重要藥物交互作用，可能需調整劑量/頻率或避免併用。
+  - 詳見藥物交互作用資料庫。
+
+### 成人腎功能不全劑量
+- 腎功能調整建議係依現有最佳證據與臨床專家意見制定。
+- 一般原則
+  - 優先以 Calvert 公式依目標 AUC 計算：
+    - 總劑量 (mg) = 目標 AUC × (GFR + 25)
+  - 某些研究指出，若將 CKD-EPI 轉為 mL/minute 後用於 Calvert 公式，對腎功能估算可能較 Cockcroft-Gault 更準確。
+  - 若為治癒意圖、極端體型/肌肉量、eGFR ≤45 或 >125 mL/minute/1.73 m2，較建議使用實測 GFR。
+- 廠商仿單（單藥治療，標準劑量 360 mg/m2 每 4 週）
+  - 基線 CrCl ≥60 mL/minute：無須調整。
+  - 基線 CrCl 41 至 59 mL/minute：起始 250 mg/m2，後續依骨髓毒性調整。
+  - 基線 CrCl 16 至 40 mL/minute：起始 200 mg/m2，後續依骨髓毒性調整。
+  - 基線 CrCl ≤15 mL/minute：仿單未提供明確調整建議。
+- 腎清除增強 (Augmented renal clearance)
+  - 可能造成暴露不足，宜依特定方案與實測腎功能審慎計算。
+
+### 成人肝功能不全劑量
+- Carboplatin 不依賴肝臟代謝或生物轉換，主要由腎臟排除。
+- 治療前已有肝轉移或肝功能異常但無肝硬化者
+  - 通常不需調整劑量。
+- 既有肝硬化者
+  - Child-Turcotte-Pugh A 至 C：通常不需調整劑量。
+- 治療期間發生肝功能異常時
+  - 應依治療目標、風險效益與整體臨床狀況個別化判斷。
+
+### 成人肥胖病人
+- ASCO 對 BMI ≥30 kg/m2 成人癌症病人系統性治療劑量建議
+  - 若依 BSA 或體重計算，應使用實際體重 (actual body weight)。
+  - 毒性處理原則與非肥胖病人相同。
+- AUC 劑量計算
+  - 婦癌病人 BMI <25 kg/m2：GOG 建議以實際體重計算 CrCl。
+  - 婦癌病人 BMI ≥25 kg/m2：建議使用調整體重 (adjusted body weight)。
+  - 若 serum creatinine <0.7 mg/dL，建議至少以 0.7 mg/dL 代入。
+  - 其他癌別 BMI ≥30 kg/m2：可考慮以 GFR 為基礎計算，且 GFR 不宜超過 125 mL/minute。
+- 造血幹細胞移植前處置
+  - 成人 conditioning regimen 計算 BSA 時，建議可使用實際體重。
+
+### 成人毒性調整
+- 其他合併抗腫瘤藥物亦可能需暫停、減量或停藥，應依治療方案處理。
+- 血液毒性
+  - 單藥 carboplatin 療程通常應延後至 WBC 與血小板恢復。
+  - 若血小板 <50,000/mm3 或 ANC <500/mm3：
+    - 給予原劑量之 75%。
+
+### 老年人
+- 老年病人劑量應使用 Calvert 公式計算。
+- 其餘參照成人劑量。
+
+### 小兒劑量
+- 詳細資料另見小兒藥品資訊。
+- 劑量原則
+  - 劑量與頻率依治療方案與治療階段而異。
+  - 小兒劑量可能依 BSA (mg/m2)、體重 (mg/kg) 或修正 Calvert 公式計算。
+  - 計算時須特別確認 GFR/估算 CrCl 的單位與公式，以避免過量或不足。
+- 臨床考量
+  - 小兒之致吐風險高，建議預防性止吐。
+- 修正 Calvert 公式
+  - Newell formula：
+    - 總劑量 (mg) = 目標 AUC × [未校正 GFR (mL/minute) + (0.36 × 體重 kg)]
+  - Mann/Pein formula：
+    - 總劑量 (mg) = 目標 AUC × [未校正 GFR (mL/minute) + (15 × BSA m2)]
+  - Marina/St. Jude formula B：
+    - 劑量 (mg/m2) = 目標 AUC × [(0.93 × 依病人 BSA 校正後之 GFR，mL/minute/m2) + 15]
+- 小兒腎功能不全
+  - GFR >50 mL/minute/1.73 m2：通常不需調整。
+  - GFR ≤50 mL/minute/1.73 m2：使用含 GFR 之修正 Calvert 公式。
+  - CRRT：使用含 GFR 33 mL/minute 的修正公式。
+  - 血液透析/腹膜透析：使用含 GFR <10 mL/minute 的修正公式。
+- 小兒肝功能不全
+  - 仿單未提供明確調整；因肝代謝極少，通常可能不需調整。
+
+## 不良反應
+### 重要不良反應之臨床考量
+#### 骨髓抑制 (Bone marrow suppression)
+- 與劑量相關，且可能嚴重。
+- 血小板減少 (Thrombocytopenia) 通常為劑量限制性血液毒性，可能導致出血。
+- 血小板減少之嚴重度與 AUC 增加相關。
+- 亦常見：
+  - 貧血 (Anemia)
+  - 白血球減少 (Leukopenia)
+  - 嗜中性白血球減少 (Neutropenia)
+- 因嗜中性白血球減少可能發生感染。
+- 貧血常為多因素性，且可能具有累積性。
+- 多數病例之血液學恢復約於治療後 4 至 6 週內。
+- 風險因子
+  - 腎功能不全
+  - 老年人 (>65 歲)
+  - 先前或同時接受細胞毒性治療
+
+#### 即時型過敏反應 (Immediate hypersensitivity reactions)
+- 可表現為：
+  - 顏面潮紅
+  - 全身性紅斑 (Diffuse erythroderma)
+  - 喘鳴
+  - 蕁麻疹/血管性水腫 (Urticaria/angioedema)
+  - 噁心/嘔吐
+  - 腹瀉
+  - 呼吸困難
+  - 心搏過速
+  - 低血壓
+- 可符合 IgE 介導之過敏性休克 (Anaphylaxis)。
+- 發作快速，可在輸注中、輸注後數分鐘，或數日內發生。
+- 第 1 至 5 個療程內發生者不到 1%；多數反應發生於反覆暴露後。
+
+### 不良反應
+- 成人常見不良反應
+#### >10%
+- 內分泌與代謝
+  - 低血鈣 (Decreased serum calcium)：22% 至 31%
+  - 低血鎂 (Decreased serum magnesium)：29% 至 43%
+  - 低血鉀 (Decreased serum potassium)：20% 至 28%
+  - 低血鈉 (Decreased serum sodium)：29% 至 47%
+- 腸胃道
+  - 腸胃道疼痛 (Gastrointestinal pain)：17%
+  - 噁心 (Nausea)：10% 至 15%
+  - 噁心與嘔吐：92%
+  - 嘔吐 (Vomiting)：65% 至 81%
+  - 嚴重嘔吐：22%
+- 血液與腫瘤
+  - 貧血 (Anemia)：21% 至 90%
+  - 白血球減少 (Leukopenia)：15% 至 85%
+  - 嗜中性白血球減少 (Neutropenia)：16% 至 67%
+  - 血小板減少 (Thrombocytopenia)：25% 至 62%
+- 肝臟
+  - 鹼性磷酸酶升高：24% 至 37%
+  - AST 升高：15% 至 19%
+- 神經系統
+  - 無力 (Asthenia)：11%
+  - 疼痛：23%
+- 腎臟
+  - Creatinine clearance 降低：27%
+  - BUN 升高：14% 至 22%
+
+#### 1% 至 10%
+- 皮膚
+  - 掉髮 (Alopecia)：2% 至 3%
+- 腸胃道
+  - 便秘：6%
+  - 腹瀉：6%
+  - 味覺異常 (Dysgeusia)：1%
+  - 口腔炎 (Stomatitis)：1%
+- 血液與腫瘤
+  - 出血：5%
+- 肝臟
+  - Bilirubin 升高：5%
+- 過敏
+  - 過敏反應：2%
+- 感染
+  - 感染：5%
+- 神經系統
+  - 神經毒性 (Neurotoxicity)：5%
+  - 周邊神經病變 (Peripheral neuropathy)：4% 至 6%
+- 眼部
+  - 視覺障礙：1%
+- 耳部
+  - 耳毒性 (Ototoxicity)：1%
+- 腎臟
+  - Serum creatinine 升高：6% 至 10%
+
+#### 上市後通報
+- 心血管
+  - 高血壓
+- 內分泌與代謝
+  - 脫水
+- 腸胃道
+  - 厭食
+- 血液與腫瘤
+  - 發燒性嗜中性白血球減少 (Febrile neutropenia)
+  - 溶血性尿毒症症候群 (Hemolytic-uremic syndrome)
+  - 次發性急性骨髓性白血病 (Secondary acute myelocytic leukemia)
+- 過敏
+  - 過敏性休克 (Anaphylaxis)
+- 局部
+  - 注射部位反應：紅斑、疼痛、腫脹
+- 神經系統
+  - 不適 (Malaise)
+- 眼部
+  - 視乳頭水腫/出血性視乳頭病變 (Papilledema, hemorrhagic)
+
+## 禁忌症
+- 曾對 carboplatin、cisplatin、其他含鉑製劑，或任何配方成分發生嚴重過敏反應者。
+- 不應用於嚴重骨髓抑制或顯著出血病人。
+- 加拿大仿單另列
+  - 既有嚴重腎功能不全。
+
+## 警告與注意事項
+### 與不良反應相關之注意事項
+- 肝功能異常
+  - 高劑量（>建議劑量 4 倍）可能導致嚴重肝功能檢驗異常。
+- 過敏/類過敏反應
+  - 曾報告類過敏性反應，可於給藥後數分鐘內發生。
+  - 可用腎上腺素、皮質類固醇、抗組織胺處理。
+  - 既往接受鉑類治療者，過敏風險增加。
+  - 文獻中曾報告皮膚測試與減敏方案。
+- 視力喪失
+  - 高於建議劑量時曾有視力喪失報告，通常停藥數週後可恢復。
+
+### 併用藥物相關注意事項
+- Taxane 類衍生物
+  - 若採序列輸注，docetaxel 或 paclitaxel 應先於 carboplatin/cisplatin 給藥，以降低骨髓抑制並可能提升療效。
+
+### 其他注意事項
+- Calvert 公式計算
+  - 若使用 eGFR 計算 carboplatin 劑量，肌酐檢測之實驗室方法會影響劑量。
+  - IDMS 標準化方法在低肌酐值病人中可能低估血清肌酐，並在腎功能正常者高估 GFR，造成劑量偏高風險。
+
+
+## 給藥方式
+### 成人
+- 建議使用止吐藥預防噁心與嘔吐。
+- 成人之致吐風險依劑量可為中度或高度。
+- IV：
+  - 至少輸注 15 分鐘。
+  - 臨床上常於 15 至 60 分鐘輸完。
+  - 部分方案可能需延長至 24 小時輸注。
+- 若屬合併化療方案，給藥順序依方案而異。
+- 不可使用含鋁針具或輸液器材調製或給藥。
+  - 鋁會與 carboplatin 反應，導致沉澱形成及效價降低。
+
+### 成人給藥前調製
+- 仿單指出可再稀釋至最低 0.5 mg/mL，使用 NS 或 D5W。
+- 臨床上多將劑量稀釋於 100 mL 或 250 mL NS 或 D5W。
+- 減敏治療時之濃度依不同方案而異。
+- 不可使用含鋁器材。
+
+### 小兒
+- 小兒屬高致吐風險，建議預防性止吐。
+- 腸外給藥
+  - 不可使用含鋁針具或輸液器材。
+- IV
+  - 輸注時間約 15 至 60 分鐘。
+  - 部分方案可達 24 小時。
+  - 合併化療時之順序依方案而定。
+
+### 小兒給藥前調製
+- 不可使用含鋁器材。
+- IV 注射液可再稀釋至最低 0.5 mg/mL，使用 NS 或 D5W。
+- 成人常稀釋於 100 mL 或 250 mL NS 或 D5W；小兒臨床亦應依方案調整。
+- 減敏治療濃度依方案。
+
+## 外滲風險
+- 可能為刺激性藥物 (Irritant)。
+
+
+## 儲存與穩定性
+- 未開封小瓶
+  - 25°C 儲存。
+  - 可容許 15°C 至 30°C 短暫溫度變動。
+  - 避光。
+- 稀釋後
+  - 稀釋至 0.5 mg/mL 於 NS 或 D5W，室溫 25°C 下可穩定 8 小時。
+  - 文獻另有較長穩定性資料，但因無防腐劑，製造商仍建議於 8 小時內使用。
+- 多劑量小瓶
+  - 開封後於 25°C，經多次穿刺可穩定約 14 至 15 天。
+  - 應依個別產品標示確認。
+- Beyond-use date 應遵循 USP <797>。
+
+## 適應症
+### 核准適應症
+- 卵巢癌，晚期 (Ovarian cancer, advanced)
+  - 與其他既定化療藥物合併作為晚期卵巢癌初始治療。
+  - 曾接受既往化療（包括 cisplatin 為基礎治療）後復發卵巢癌之緩和治療。
+
+### 仿單外適應症（成人）
+- 肛門癌，晚期
+- 膀胱癌，晚期
+- 乳癌，晚期或轉移性
+- 乳癌，新輔助及輔助治療
+- 子宮頸癌，復發或轉移性
+- 子宮內膜癌，晚期或復發
+- 食道癌
+- 胃癌
+- 妊娠滋養細胞腫瘤，高風險、難治性
+- 頭頸癌，晚期、復發或轉移性
+- 鼻咽癌，局部晚期
+- 轉移性生殖細胞腫瘤之造血幹細胞移植前處置
+- 霍奇金淋巴瘤，復發或難治
+- 黑色素瘤，晚期或轉移性
+- Merkel 細胞癌
+- 胸膜間皮瘤
+- 神經內分泌腫瘤，晚期、非典型或低分化、非肺部
+- 非霍奇金淋巴瘤，復發或難治
+- 非小細胞肺癌
+- 前列腺癌，去勢抗性、轉移性
+- 肉瘤：Ewing sarcoma、osteosarcoma
+- 小細胞肺癌
+- 睪丸癌，seminoma，早期輔助治療
+- 胸腺瘤或胸腺癌
+- 未分化甲狀腺癌
+- 原發不明癌
+
+
+## 交互作用
+### 代謝/轉運影響
+- 目前未知 (None known)。
+
+## 生殖、懷孕與哺乳
+### 生殖相關考量
+- 可能懷孕之病人
+  - 在全身性抗癌治療期間及最後一劑後 3 至 6 個月，應使用有效避孕。
+- 其伴侶可能懷孕之病人
+  - 在治療期間及最後一劑後 3 至 6 個月，亦應使用有效避孕。
+- 可能增加卵巢功能障礙風險。
+- 可能具有中等風險之治療相關無精症 (Azoospermia) 與男性不孕。
+- 接受抗癌治療前，男女病人均可考慮生育保存 (Fertility preservation)。
+
+### 懷孕
+- Carboplatin 可穿越人類胎盤。
+- 孕期暴露已有母體使用結果資料。
+- 懷孕期間使用可能造成胎兒傷害。
+- 若孕期需化療
+  - 應避免於第一孕期使用。
+  - 最後一次化療與預期分娩間應保留至少 3 週，以利母胎骨髓恢復。
+  - 不應於妊娠 33 週後再給予化療。
+  - 如確有需要，第二或第三孕期可依非孕婦建議之相同劑量與時程給藥。
+- 建議轉介具孕期癌症處理經驗之中心，並採多專科團隊照護。
+
+### 哺乳
+- Carboplatin 可存在於乳汁中。
+- 文獻案例顯示
+  - 給藥後前約 24 小時乳汁中鉑濃度最高。
+  - 鉑可於乳汁中持續偵測達 21 天。
+- 雖然部分計算之相對嬰兒劑量 (RID) 低，但低累積劑量是否對哺乳嬰兒有害仍未知。
+- 一般不建議哺乳。
+- 若有個案化評估，至少應知悉給藥後長時間仍可能有藥物暴露。
+
+## 監測參數
+- CBC（含分類與血小板）
+- 血清電解質
+- 血清 creatinine 與 BUN
+- CrCl
+- 肝功能檢查 (LFTs)
+- 聽力評估
+  - 尤其是 <6 個月嬰幼兒
+- 過敏反應之徵象與症狀
+- 開始全身性抗癌治療前，ASCO 建議進行 B 肝篩檢
+  - HBsAg
+  - anti-HBc（total Ig 或 IgG）
+  - anti-HBs
+
+## 藥理作用
+### 作用機轉
+- Carboplatin 為鉑化合物烷化劑 (Platinum compound alkylating agent)。
+- 可與 DNA 共價結合，形成 DNA 鏈間交聯 (Interstrand DNA cross-links)，干擾 DNA 功能。
+- 顯然非細胞週期特異性藥物。
+
+### 藥物動力學
+- 分布容積 (Vd)
+  - 約 16 L（以 300 至 500 mg/m2 劑量推估）
+- 分布
+  - 可進入肝、腎、皮膚與腫瘤組織
+- 蛋白結合
+  - Carboplatin 本身：約 0%
+  - 由 carboplatin 釋出之 platinum：不可逆結合血漿蛋白
+- 代謝
+  - 肝代謝極少，形成水合與氫氧化化合物
+- 消除半衰期
+  - CrCl >60 mL/minute：
+    - Carboplatin：2.6 至 5.9 小時
+    - Platinum：≥5 天
+- 排泄
+  - 尿液排泄
+    - 約 70% 以 carboplatin 原形於 24 小時內排出
+    - 約 3% 至 5% 以 platinum 於 1 至 4 天內排出
+
+### 其他藥動學考量
+- 腎功能改變
+  - CrCl <60 mL/minute 時，總體清除率與腎清除率會隨 CrCl 降低而下降。
+
+## 病人衛教重點
+### 本藥用途
+- 用於治療卵巢癌。
+- 醫師也可能因其他原因給予本藥。
+
+### 常見副作用
+- 便秘、腹瀉、胃痛、胃部不適、嘔吐
+- 掉髮
+- 疲倦或虛弱
+- 口腔刺激或口腔潰瘍
+
+### 何時應立即就醫
+- 感染徵象
+  - 發燒、寒顫、嚴重喉嚨痛、耳痛、鼻竇痛、咳嗽、痰變多或顏色改變、解尿疼痛、口瘡、傷口不癒合
+- 出血徵象
+  - 吐血、咳血、咖啡渣樣嘔吐物、血尿、黑便/紅便/柏油樣便、牙齦出血、異常陰道出血、不明原因瘀青或瘀青擴大、出血止不住
+- 電解質異常徵象
+  - 情緒改變、意識混亂、肌肉痛、抽筋、痙攣、無力、顫抖、平衡改變、心律異常、癲癇、食慾不振
+- 嚴重過敏反應
+  - 皮疹、蕁麻疹、搔癢、皮膚起泡或脫皮、呼吸困難、胸悶、口唇舌喉腫脹
+- 神經毒性或視聽力問題
+  - 視力改變、耳鳴、聽力下降、手腳麻木刺痛
+- 嚴重腎功能問題
+  - 尿量改變、明顯水腫
+
+## 參考來源
+
+文件標題：Carboplatin: Drug information
+內容來源平台：UpToDate / Lexidrug

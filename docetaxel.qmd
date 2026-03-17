@@ -1,0 +1,220 @@
+---
+title: "docetaxel"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+## 藥品名稱
+- Docetaxel
+
+
+## 適應症
+### 核准適應症
+- 乳癌
+- 非小細胞肺癌
+- 前列腺癌
+- 胃癌
+- 頭頸部癌
+
+### 成人 Off-Label 用途
+- 多種實體腫瘤之化學治療組合方案
+
+## 劑量與給藥
+### 成人
+#### 乳癌
+- 單藥治療
+  - 60 至 100 mg/m²
+  - 每 3 週 IV 給藥一次
+
+- 與其他化療藥物合併
+  - 劑量依具體方案而定
+  - 常見劑量：
+    - 75 mg/m²
+    - 每 3 週 IV 給藥一次
+
+#### 非小細胞肺癌
+- 單藥
+  - 75 mg/m²
+  - 每 3 週一次 IV infusion
+
+- 合併 cisplatin
+  - docetaxel 75 mg/m²
+  - 每 3 週 IV infusion
+
+#### 去勢抗性前列腺癌
+- 75 mg/m²
+- 每 3 週一次
+- 合併 prednisone
+
+#### 胃癌
+- 75 mg/m²
+- 每 3 週一次
+- 與 cisplatin 與 fluorouracil 合併
+
+#### 頭頸部癌
+- 75 mg/m²
+- 每 3 週一次
+- 與 cisplatin 與 fluorouracil 合併
+
+### 腎功能不全
+- 無特定劑量調整建議
+
+### 肝功能不全
+- AST/ALT 或 bilirubin 升高時需調整劑量或避免使用
+
+## 給藥方式
+### 成人
+#### Administration
+- 以靜脈輸注給藥
+- 通常輸注時間約 1 小時
+
+#### Preparation for Administration
+- 必須稀釋後使用
+- 使用適當輸液溶液
+- 需避免藥物外滲
+
+
+## 不良反應
+### 血液學
+- 嗜中性球減少
+- 白血球減少
+- 血小板減少
+- 貧血
+
+### 胃腸道
+- 噁心
+- 嘔吐
+- 腹瀉
+- 黏膜炎
+- 口腔炎
+
+### 皮膚
+- 皮疹
+- 皮膚炎
+- 掉髮
+- 紅斑
+- 脫屑
+
+### 神經系統
+- 周邊神經病變
+- 感覺異常
+
+### 全身症狀
+- 疲倦
+- 發燒
+- 水腫
+
+### 其他
+- 液體滯留
+- 胸腔積液
+- 腹水
+- 呼吸困難
+
+## 禁忌症
+- 對 docetaxel 或製劑中成分過敏
+- 對含 polysorbate 80 藥物有嚴重過敏反應者
+- 嗜中性球數 <1500/mm³
+
+加拿大標示另外列出：
+- 嚴重肝功能不全
+- 懷孕
+- 哺乳
+
+## 警告與注意事項
+### 骨髓抑制
+- 嗜中性球減少可能非常嚴重
+- 為主要劑量限制毒性
+- 可能導致嚴重感染
+
+### 皮膚反應
+- 紅斑
+- 水腫
+- 脫屑
+- 可能出現嚴重皮膚不良反應
+  - Stevens-Johnson syndrome
+  - Toxic epidermal necrolysis
+  - Acute generalized exanthematous pustulosis
+
+### 外滲
+- Docetaxel 為刺激性藥物
+- 給藥前與給藥中需確認導管位置
+- 避免外滲
+
+### 液體滯留
+- 可能出現：
+  - 胸腔積液
+  - 腹水
+  - 周邊水腫
+  - 呼吸困難
+  - 心包填塞
+  - 全身性水腫
+- 建議使用 corticosteroid 預處置
+- 通常於累積劑量約 819 mg/m² 後出現
+- 停藥後約 16 週可逐漸改善
+
+### 胃腸毒性
+- 可發生
+  - enterocolitis
+  - neutropenic colitis
+- 可能致命
+- 嗜中性球減少患者需特別注意
+
+## 交互作用
+### Metabolism / Transport Effects
+- 主要經 CYP3A4 代謝
+
+## 生殖、懷孕與哺乳
+### Reproductive Considerations
+- 可能造成生殖毒性
+
+### Pregnancy Considerations
+- 懷孕期間可能對胎兒造成傷害
+- 應避免使用
+
+### Breastfeeding Considerations
+- 建議治療期間避免哺乳
+
+## 監測
+### Monitoring Parameters
+- CBC
+- 嗜中性球計數
+- 肝功能
+- 感染症狀
+- 液體滯留
+- 神經毒性
+
+## 藥理作用
+### Mechanism of Action
+- Docetaxel 為 taxane 類抗癌藥
+- 可促進微管聚合並抑制去聚合
+- 造成細胞週期停滯於 M phase
+- 導致腫瘤細胞死亡
+
+### Pharmacokinetics
+- 高度蛋白結合
+- 主要由肝臟代謝
+- 經膽汁排泄
+
+## 病人衛教
+### Patient Counseling Points
+- 可能出現感染風險增加
+- 出現發燒需立即就醫
+- 可能發生周邊神經病變
+- 可能出現液體滯留
+- 治療期間避免懷孕
+
+## 儲存
+### Storage / Stability
+- 依製造商建議保存
+- 避免極端溫度
+- 稀釋後溶液需於建議時間內使用
+
+## 參考來源
+UpToDate Lexidrug™, UpToDate, Inc. 
+Source document: Docetaxel: Drug information.  

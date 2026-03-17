@@ -1,0 +1,263 @@
+---
+title: "irinotecan_liposome"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+## US Boxed Warning
+
+### 骨髓抑制
+
+- 在接受 irinotecan (liposomal) 與 oxaliplatin、fluorouracil 及 leucovorin 聯合治療，或與 fluorouracil 及 leucovorin 聯合治療的患者中，曾發生嚴重且可能危及生命的嗜中性球減少。
+- 已報告致死性嗜中性球敗血症與致死性嗜中性球發燒。
+- 若絕對嗜中性球計數 (absolute neutrophil count, ANC) 低於 1,500/mm³ 或出現嗜中性球發燒，應暫停給予 irinotecan (liposomal)。
+- 治療期間應定期監測血球計數。
+
+### 胃腸道毒性
+
+- 在接受 irinotecan (liposomal) 與 oxaliplatin、fluorouracil 及 leucovorin 聯合治療，或與 fluorouracil 及 leucovorin 聯合治療的患者中，曾發生嚴重且可能危及生命的腹瀉。
+- 對於腸阻塞患者，不得使用 irinotecan (liposomal)。
+- 若出現第 2 至第 4 級腹瀉，應暫停給予 irinotecan (liposomal)。
+- 對任何程度的延遲性腹瀉，應給予 loperamide。
+- 對任何程度的早發性腹瀉，在無禁忌情況下可給予 atropine。
+
+## Pharmacologic Category
+
+- Antineoplastic Agent, Camptothecin
+- Antineoplastic Agent, Topoisomerase I Inhibitor
+
+## Dosing
+
+### Adult
+
+#### Adult Dosing
+
+- 常見建議劑量：
+  - irinotecan (liposomal) 70 mg/m²
+  - 靜脈輸注
+  - 每 2 週一次
+  - 與 fluorouracil 及 leucovorin 併用
+- 給藥前需確認患者血球計數符合治療條件。
+- 若出現嚴重毒性，需進行劑量調整或暫停治療。
+
+#### Kidney Impairment
+
+- 輕度至中度腎功能不全通常不需要調整劑量。
+- 嚴重腎功能不全患者使用資料有限，應謹慎使用並密切監測。
+
+#### Liver Impairment
+
+- 輕度肝功能異常通常不需要劑量調整。
+- 中度或重度肝功能異常患者使用資料有限。
+- 需密切監測肝功能與毒性反應。
+
+#### Obesity
+
+- 劑量通常依體表面積 (body surface area, BSA) 計算。
+- 不建議因肥胖而自行降低劑量。
+
+#### Adjustment for Toxicity
+
+- 出現以下情況可能需劑量調整或暫停治療：
+  - 嗜中性球減少
+  - 血小板減少
+  - 嚴重腹瀉
+  - 其他第 3 或第 4 級毒性
+- 恢復至可接受程度後方可重新開始治療。
+
+#### Older Adult
+
+- 老年患者通常可依標準劑量給藥。
+- 需密切監測骨髓抑制與胃腸道毒性。
+
+## Adverse Reactions
+
+### 常見不良反應
+
+- 嗜中性球減少
+- 白血球減少
+- 血小板減少
+- 貧血
+- 腹瀉
+- 噁心
+- 嘔吐
+- 疲倦
+- 食慾下降
+- 發燒
+- 口腔炎
+- 黏膜炎
+- 脫水
+- 腹痛
+
+### 嚴重不良反應
+
+- 嚴重嗜中性球減少
+- 嗜中性球敗血症
+- 嚴重腹瀉
+- 脫水
+- 感染
+- 電解質異常
+- 急性膽鹼性症候群
+
+## Contraindications / Warnings
+
+### Contraindications
+
+- 對 irinotecan 或其任何成分過敏者
+
+### Warnings / Precautions
+
+- 骨髓抑制
+- 嚴重腹瀉
+- 感染風險增加
+- 脫水
+- 電解質異常
+- 膽鹼性症候群
+- 肝功能異常患者需謹慎使用
+
+## Preparations
+
+### US
+
+#### Dosage Forms
+
+- 注射劑
+  - 43 mg/10 mL 單劑量小瓶
+
+#### Generic Equivalent Available
+
+- 目前無學名藥可用
+
+#### Pricing
+
+- 價格依醫療體系與地區而異
+
+### Canada: Dosage Forms
+
+- 注射劑
+  - 43 mg/10 mL 小瓶
+
+## Administration
+
+### Adult Administration
+
+- 靜脈輸注給藥
+- 輸注時間通常為 90 分鐘
+- 與 fluorouracil 及 leucovorin 聯合治療
+
+### Preparation for Administration
+
+- 使用無菌技術配製。
+- 稀釋於適當輸液溶液中。
+- 使用前輕柔混合，不可劇烈搖晃。
+
+### Hazardous Drugs Handling Considerations
+
+- 屬於危險藥物。
+- 配製與處理時應遵循化療藥物安全操作規範。
+- 使用適當個人防護裝備。
+
+## Storage / Stability
+
+- 未開封小瓶應依製造商建議儲存。
+- 配製後溶液需在規定時間內使用。
+- 避免過度光照與極端溫度。
+
+## Uses
+
+### Labeled Indications
+
+- 與 fluorouracil 及 leucovorin 聯合使用
+- 用於治療轉移性胰臟腺癌
+- 適用於先前接受 gemcitabine 治療後疾病進展的患者
+
+### Off-Label: Adult
+
+- 其他腫瘤治療的研究用途
+- 需依臨床判斷與證據使用
+
+## Medication Safety Issues
+
+- 需注意藥名混淆與劑量錯誤
+- 與傳統 irinotecan 並非完全相同製劑
+
+## Interactions
+
+### Metabolism / Transport Effects
+
+- 主要經肝臟代謝
+- 參與代謝酶包括 UGT1A1
+
+## Reproduction, Pregnancy, Lactation
+
+### Reproductive Considerations
+
+- 可能影響生殖能力
+- 治療期間建議採取有效避孕措施
+
+### Pregnancy Considerations
+
+- 懷孕期間使用可能造成胎兒傷害
+- 僅在潛在益處大於風險時考慮使用
+
+### Breastfeeding Considerations
+
+- 治療期間不建議哺乳
+- 停藥後一段時間內仍需避免哺乳
+
+## Dietary Considerations
+
+- 治療期間應維持充分水分與營養攝取
+- 出現腹瀉時需特別注意水分補充
+
+## Monitoring
+
+### Monitoring Parameters
+
+- 全血球計數
+- 肝功能
+- 腎功能
+- 腹瀉與脫水症狀
+- 感染徵象
+
+## Pharmacology
+
+### Mechanism of Action
+
+- irinotecan (liposomal) 為拓撲異構酶 I 抑制劑
+- 抑制 DNA 複製過程
+- 導致 DNA 損傷與腫瘤細胞死亡
+
+### Pharmacokinetics
+
+- 脂質體包覆形式可延長藥物循環時間
+- 轉化為活性代謝物 SN-38
+- 主要經肝臟代謝
+
+### Pharmacokinetics: Additional Considerations
+
+- 代謝可能受 UGT1A1 基因型影響
+- 某些患者可能出現較高毒性風險
+
+## Patient Counseling Points
+
+- 說明可能出現的副作用，例如：
+  - 腹瀉
+  - 噁心
+  - 嘔吐
+  - 發燒
+  - 疲倦
+- 若出現嚴重腹瀉、發燒或感染症狀，應立即就醫。
+- 治療期間需定期抽血監測。
+- 建議使用避孕措施。
+
+## 參考來源
+
+UpToDate Lexidrug™, UpToDate, Inc. 
+Content version: 2026.  

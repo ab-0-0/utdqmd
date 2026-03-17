@@ -1,0 +1,692 @@
+---
+title: "trastuzumab"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+## 美國加框警語
+
+### 心肌病變 (Cardiomyopathy)
+- Trastuzumab 給藥可能導致亞臨床性及臨床性心臟衰竭。
+- 於含 anthracycline 化療方案中合併使用 trastuzumab 的病人，其發生率與嚴重度最高。
+- 所有病人於開始治療前及治療期間皆應評估左心室功能。
+- 接受輔助治療 (adjuvant therapy) 的病人，如發生左心室功能具臨床意義之下降，應停用 trastuzumab。
+- 轉移性疾病病人，如發生左心室功能具臨床意義之下降，應暫停 trastuzumab。
+
+### 輸注反應與肺毒性 (Infusion reactions and pulmonary toxicity)
+- Trastuzumab 給藥可能導致嚴重且致命之輸注反應與肺毒性。
+- 症狀通常發生於給藥期間或給藥後 24 小時內。
+- 若出現呼吸困難 (dyspnea) 或具臨床意義之低血壓，應中斷輸注。
+- 應監測病人直到症狀完全緩解。
+- 如發生過敏性休克 (anaphylaxis)、血管性水腫 (angioedema)、間質性肺炎 (interstitial pneumonitis) 或急性呼吸窘迫症候群 (acute respiratory distress syndrome, ARDS)，應停用 trastuzumab。
+
+### 懷孕 (Pregnancy)
+- 懷孕期間暴露於 trastuzumab 可能導致羊水過少 (oligohydramnios) 及羊水過少序列 (oligohydramnios sequence)，表現為肺發育不全 (pulmonary hypoplasia)、骨骼異常 (skeletal abnormalities) 與新生兒死亡。
+- 應告知病人上述風險，以及必須採取有效避孕措施。
+
+
+## 藥理分類
+- 抗腫瘤藥物，抗 HER2 製劑 (Antineoplastic Agent, Anti-HER2)
+- 抗腫瘤藥物，單株抗體 (Antineoplastic Agent, Monoclonal Antibody)
+
+## 劑量
+
+### 成人劑量
+
+#### 劑量給藥原則
+- 安全性：
+  - 開始治療前應積極控制可調整之心血管危險因子，包括吸菸、高血壓、糖尿病、血脂異常與肥胖。
+  - 傳統型 trastuzumab 不可與 ado-trastuzumab emtansine、fam-trastuzumab deruxtecan、pertuzumab/trastuzumab/hyaluronidase 或 trastuzumab/hyaluronidase 互相替代；各產品不同，且不可互換。
+- 劑型資訊：
+  - Hercessi (trastuzumab-strf)、Herzuma (trastuzumab-pkrb)、Kanjinti (trastuzumab-anns)、Ogivri (trastuzumab-dkst)、Ontruzant (trastuzumab-dttb)、Trazimera (trastuzumab-qyyp) 為 Herceptin 之生物相似藥 (biosimilars)。
+  - 加拿大核准之 Herceptin 生物相似藥包括 Herzuma、Kanjinti、Ogivri、Ontruzant、Trazimera。
+- 臨床考量：
+  - 應依據腫瘤檢體之 HER2 過度表現 (HER2 overexpression) 或 HER2 基因擴增 (HER2 gene amplification) 選擇治療對象。
+  - 因乳癌與胃癌於病理型態上存在差異，例如胃癌常見膜染色不完整與 HER2 表現異質性較高，應使用對應腫瘤類型之檢測方法評估 HER2 狀態。
+  - 若檢體固定不當、未使用指定試劑、未設置適當品管或未遵循特定檢測流程，可能導致不可靠結果。
+  - 仿單外劑量細節應參考治療方案或機構內指引。
+
+#### 轉移性膽道癌 (biliary tract cancer, metastatic)，HER2 陽性；仿單外用途
+- 與 pertuzumab 併用：
+  - 起始負荷劑量：IV 8 mg/kg
+  - 維持劑量：IV 6 mg/kg，每 3 週一次
+  - 持續至疾病惡化或出現不可接受毒性
+- 與 tucatinib 併用：
+  - 起始負荷劑量：IV 8 mg/kg，輸注 90 分鐘
+  - 維持劑量：IV 6 mg/kg，每 3 週一次，輸注 30 分鐘
+  - 持續至疾病惡化或出現不可接受毒性
+
+#### 乳癌 (breast cancer) 輔助治療，HER2 陽性
+- 註：
+  - 不建議將輔助治療延長超過 1 年。
+- 與 paclitaxel 或 docetaxel 同步使用：
+  - 起始負荷劑量：IV 4 mg/kg，輸注 90 分鐘
+  - 維持劑量：IV 2 mg/kg，每週一次，輸注 30 分鐘，共 12 週
+  - 接續於 1 週後（同步化療完成時）改為 IV 6 mg/kg，每 3 週一次，輸注 30 至 90 分鐘
+  - 總療程 52 週
+- 與 docetaxel/carboplatin 同步使用：
+  - 起始負荷劑量：IV 4 mg/kg，輸注 90 分鐘
+  - 維持劑量：IV 2 mg/kg，每週一次，輸注 30 分鐘，共 18 週
+  - 接續於 1 週後改為 IV 6 mg/kg，每 3 週一次，輸注 30 至 90 分鐘
+  - 總療程 52 週
+- 完成 anthracycline 為基礎之多模式治療後：
+  - 起始負荷劑量：IV 8 mg/kg，輸注 90 分鐘
+  - 維持劑量：IV 6 mg/kg，每 3 週一次，輸注 30 至 90 分鐘
+  - 總療程 52 週
+- 治療期間：
+  - 標準輔助治療期間為 1 年（52 週）。
+  - 對無法耐受 1 年治療者，部分研究顯示 6 個月療程之無病存活率 (disease-free survival) 可能不劣於 12 個月。
+- 仿單外合併療法：
+  - IV 8 mg/kg（第 1 週期），輸注 90 分鐘
+  - 後續 IV 6 mg/kg，每 3 週一次，輸注 30 分鐘
+  - 與 pertuzumab 及標準 anthracycline 和/或 taxane 為基礎療法併用
+  - 自第一個含 taxane 週期第 1 天開始給予 pertuzumab 與 trastuzumab
+  - 最長 1 年（最多 18 週期），或至疾病惡化／不可接受毒性
+
+#### 早期乳癌 (breast cancer, early)，HER2 陽性，新輔助治療 (neoadjuvant treatment)；仿單外用途
+- Trastuzumab + pertuzumab + docetaxel：
+  - IV 起始 8 mg/kg（第 1 週期），後續 6 mg/kg，每 3 週一次
+  - 與 pertuzumab、docetaxel 併用，共 4 個新輔助週期
+  - 術後再給 3 週期 FEC [fluorouracil、epirubicin、cyclophosphamide]
+  - 之後改 trastuzumab 單藥，每 3 週一次，完成 1 年治療
+- 先接受 4 個術前 FEC 週期後，再給 trastuzumab + pertuzumab + docetaxel：
+  - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+  - 新輔助共 4 週期
+  - 術後與 pertuzumab 併用，每 3 週一次，最多 13 週期，總療程 1 年
+- 先接受 4 個術前 dose-dense doxorubicin/cyclophosphamide 週期後，再給 trastuzumab + pertuzumab + paclitaxel：
+  - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+  - 與每週 paclitaxel 及 pertuzumab 併用，共 4 個新輔助週期
+  - 術後與 pertuzumab 併用，每 3 週一次，最多 13 週期，總療程 1 年
+- 先接受 3 個術前 FEC 週期後，再給 trastuzumab + pertuzumab + docetaxel：
+  - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+  - 新輔助共 3 週期
+  - 術後改 trastuzumab 單藥，每 3 週一次，完成 1 年治療
+- Trastuzumab + pertuzumab + docetaxel + carboplatin：
+  - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+  - 新輔助共 6 週期
+  - 術後改 trastuzumab 單藥，每 3 週一次，共 13 週期
+
+#### 轉移性乳癌 (breast cancer, metastatic)，HER2 陽性
+- 單藥或與 paclitaxel 併用：
+  - 起始負荷劑量：IV 4 mg/kg，輸注 90 分鐘
+  - 維持劑量：IV 2 mg/kg，每週一次，輸注 30 分鐘
+  - 持續至疾病惡化
+- 仿單外常用合併方案：
+  - Trastuzumab + pertuzumab + docetaxel（未曾接受抗 HER2 治療或治療轉移性疾病化療者）：
+    - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+    - 持續至疾病惡化或不可接受毒性
+  - Trastuzumab + pertuzumab + 每週 paclitaxel：
+    - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+    - 持續至疾病惡化
+  - Trastuzumab + tucatinib + capecitabine（復發／難治性疾病，可伴或不伴腦轉移）：
+    - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+    - 持續至疾病惡化或不可接受毒性
+  - Trastuzumab + lapatinib（先前 trastuzumab 治療後惡化）：
+    - IV 起始 4 mg/kg，後續 2 mg/kg，每週一次
+  - Trastuzumab + 芳香化酶抑制劑 (aromatase inhibitor)：
+    - IV 起始 4 mg/kg，後續 2 mg/kg，每週一次
+    - 與 anastrozole 併用
+    - 持續至疾病惡化
+  - Trastuzumab + abemaciclib + fulvestrant（荷爾蒙受體陽性）：
+    - 對停經前或圍停經期病人，應自第 1 週期第 1 天前至少 28 天開始併用促性腺激素釋放素促效劑 (gonadotropin-releasing hormone agonist)
+    - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+    - 持續至疾病惡化或不可接受毒性
+  - 其他合併方案：
+    - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次，可與 docetaxel 或 vinorelbine 併用
+    - 或 IV 起始 4 mg/kg，後續 2 mg/kg，每週一次，可與 docetaxel 併用
+    - 持續至疾病惡化或不可接受毒性
+
+#### 轉移性大腸直腸癌 (colorectal cancer, metastatic)，HER2 陽性，既往已治療；仿單外用途
+- Trastuzumab + lapatinib：
+  - IV 起始 4 mg/kg，後續 2 mg/kg，每週一次
+  - 持續至疾病惡化或不可接受毒性
+- Trastuzumab + pertuzumab：
+  - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+  - 持續至疾病惡化或不可接受毒性
+- Trastuzumab + tucatinib：
+  - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+  - 持續至疾病惡化或不可接受毒性
+
+#### 子宮漿液性子宮內膜癌 (uterine serous endometrial cancer)，晚期或復發，HER2 陽性；仿單外用途
+- IV 起始 8 mg/kg（第 1 週期）
+- 維持劑量：6 mg/kg，每 3 週一次
+- 與 carboplatin + paclitaxel 併用約 6 週期後
+- 再以 trastuzumab 6 mg/kg 每 3 週維持，至疾病惡化或不可接受毒性
+
+#### 轉移性胃癌或胃食道交界癌 (gastric or gastroesophageal junction cancer, metastatic)，HER2 陽性
+- 與 cisplatin 及 capecitabine 或 fluorouracil 併用，共 6 週期，後續 trastuzumab 單藥：
+  - 起始負荷劑量：IV 8 mg/kg，輸注 90 分鐘
+  - 維持劑量：IV 6 mg/kg，每 3 週一次，輸注 30 至 90 分鐘
+  - 持續至疾病惡化
+- 仿單外方案：
+  - 與 mFOLFOX 併用：
+    - 第 1 週期第 1 天 IV 6 mg/kg
+    - 之後每 2 週第 1 天 IV 4 mg/kg
+    - 與 fluorouracil、leucovorin、oxaliplatin 併用
+    - 持續至疾病惡化或不可接受毒性
+  - 與 XELOX 併用：
+    - 第 1 週期第 1 天 IV 8 mg/kg
+    - 之後每 3 週第 1 天 IV 6 mg/kg
+    - 與 capecitabine、oxaliplatin 併用，最多 6 週期
+    - 6 週期後可持續 trastuzumab ± capecitabine，至疾病惡化或不可接受毒性
+  - 與 pembrolizumab 及含 fluoropyrimidine / platinum 化療併用：
+    - IV 起始 8 mg/kg，後續 6 mg/kg，每 3 週一次
+    - 可與 cisplatin/fluorouracil 或 capecitabine/oxaliplatin 併用
+    - trastuzumab、pembrolizumab 及 fluoropyrimidine 可持續至疾病惡化或不可接受毒性；若未惡化，最長 24 個月
+
+#### 漏打劑量 (Missed doses)
+- 若延遲超過 1 週，約需 6 週才可回復至穩態濃度範圍，且需重新給予負荷劑量。
+- 若漏打 ≤1 週：
+  - 應盡快補打原維持劑量，不需等到下次預定療程
+  - 之後依原排程於 7 天或 21 天後再給藥
+- 若漏打 >1 週：
+  - 每週方案：重新負荷劑量 4 mg/kg，輸注 90 分鐘
+  - 每 3 週方案：重新負荷劑量 8 mg/kg，輸注 90 分鐘
+  - 之後於 7 天或 21 天後恢復原維持劑量
+
+#### 合併治療之劑量調整
+- 可能存在需調整劑量／頻率或需避免之顯著藥物交互作用。
+- 詳細資訊應查閱藥物交互作用資料庫。
+
+### 腎功能不全成人劑量
+- 註：
+  - Trastuzumab 分子量大（145 kDa），理論上不易經腎絲球過濾或透析濾器移除，因此通常不需因腎功能障礙或腎臟替代治療調整劑量。
+  - eGFR <75 mL/minute/1.73 m² 病人有較高 trastuzumab 相關心毒性風險，治療前應評估風險並持續監測 LVEF。
+- 腎功能改變：
+  - IV：任何程度腎功能障礙皆不需調整劑量。
+- 增強型腎清除 (augmented renal clearance, ARC；尿液測得 CrCl ≥130 mL/minute/1.73 m²)：
+  - IV：不需調整劑量。
+- 間歇性血液透析：
+  - 不太可能被顯著透析移除。
+  - IV：不需補充劑量或調整劑量。
+  - 可考慮較正常腎功能病人更頻繁監測 LVEF。
+- 腹膜透析：
+  - 不太可能被顯著透析移除。
+  - IV：不需調整劑量。
+  - 可考慮更頻繁監測 LVEF。
+- CRRT：
+  - IV：不需調整劑量。
+- PIRRT（如 sustained low-efficiency diafiltration）：
+  - IV：不需調整劑量。
+
+### 肝功能不全成人劑量
+- 一般考量：
+  - 基線肝功能受損時之抗癌治療調整，應依治療目標（治癒或緩和）與功能狀態個別評估。
+  - 傳統肝功能替代指標在癌症病人可能不易解讀，例如低白蛋白可能與營養不良有關，膽紅素或轉胺酶升高亦可能來自腫瘤本身或肝轉移。
+  - Child-Turcotte-Pugh 分數於非肝硬化癌症病人應謹慎使用。
+- 治療前已有肝功能不全：
+  - 有肝轉移或既有肝功能異常但無肝硬化者：
+    - 初始劑量不需調整。
+  - 既有肝硬化者：
+    - Child-Turcotte-Pugh A 至 C：不需調整劑量。
+
+### 肥胖成人劑量
+- 依美國臨床腫瘤學會 (ASCO) 指引，BMI ≥30 kg/m² 之癌症成人病人，FDA 核准之全身治療劑量一般應以實際體重計算。
+- 本品依實際體重劑量計算。
+
+### 毒性調整成人劑量
+- 註：
+  - 其他合併抗癌治療亦可能需要中斷、減量或停藥。
+- 心毒性 (cardiotoxicity)：無症狀性心臟病
+  - 任何等級：
+    - 可考慮開始心衰竭藥物，例如 ACEI、ARB 與/或 beta-blocker。
+- 輕度心功能異常：
+  - 可持續治療，但需密切心血管監測。
+- 中度心功能異常：
+  - 可考慮持續治療並密切心血管監測。
+  - 建議開始心衰竭藥物。
+- 重度心功能異常：
+  - 應中斷治療。
+  - 是否恢復治療應由多專科團隊共同評估。
+  - 建議開始心衰竭藥物。
+- 有症狀性心臟病：
+  - LVEF 較基線下降 ≥16%，或 LVEF 低於正常下限且較基線下降 ≥10%：
+    - 暫停治療至少 4 週。
+    - 每 4 週重複 LVEF。
+    - 若 4 至 8 週內回復正常且絕對下降 ≤15%，可恢復治療。
+    - 若持續下降或需多次因心肌病變暫停，應永久停藥。
+- 其他毒性之詳細調整應依具體治療方案、臨床嚴重度與指引處理。
+
+## 不良反應
+
+### 一般說明
+- 以下不良反應及其發生率主要來自產品仿單，除非另有註明。
+- 百分比若未特別說明，多為單藥治療資料。
+
+### >10%
+- 心血管：
+  - 左心室射出分率下降 (decreased left ventricular ejection fraction)（4% 至 22%）
+- 皮膚：
+  - 皮疹 (rash)（4% 至 18%）
+- 腸胃道：
+  - 腹痛（22%；上腹痛 2%）
+  - 厭食 (anorexia)（14%）
+  - 腹瀉（7% 至 25%）
+  - 噁心（6% 至 33%）
+  - 嘔吐（4% 至 23%）
+- 過敏／輸注相關：
+  - 輸注相關反應 (infusion-related reaction)（首次輸注 ≤40%；後續輸注 21%，其中重度 1%）
+- 感染：
+  - 感染（20%）
+- 神經系統：
+  - 無力／衰弱感 (asthenia)（5% 至 42%）
+  - 發冷（5% 至 32%）
+  - 頭暈（4% 至 13%）
+  - 頭痛（10% 至 26%）
+  - 失眠（14%）
+  - 疼痛（47%）
+- 神經肌肉與骨骼：
+  - 背痛（5% 至 22%）
+- 呼吸系統：
+  - 咳嗽（5% 至 26%）
+  - 呼吸困難 (dyspnea)（3% 至 22%）
+  - 咽炎 (pharyngitis)（12%）
+  - 鼻炎 (rhinitis)（2% 至 14%）
+- 其他：
+  - 發燒（6% 至 36%）
+
+### 1% 至 10%
+- 心血管：
+  - 心律不整 (cardiac arrhythmia)（3%）
+  - 水腫（8%）
+  - 心衰竭（≤7%）
+  - 高血壓（4%）
+  - 心悸（3%）
+  - 周邊水腫（5% 至 10%）
+  - 心搏過速 (tachycardia)（5%）
+- 皮膚：
+  - 痤瘡 (acne vulgaris)（2%）
+  - 指甲疾病（2%）
+  - 搔癢 (pruritus)（2%）
+- 腸胃道：
+  - 便祕（2%）
+  - 消化不良 (dyspepsia)（2%）
+- 泌尿生殖系統：
+  - 泌尿道感染（3% 至 5%）
+- 血液與腫瘤：
+  - 貧血（4%；第 3 級 <1%）
+  - 白血球減少 (leukopenia)（3%）
+- 過敏：
+  - 過敏反應 (hypersensitivity reaction)（≤3%）
+- 感染：
+  - 單純皰疹感染（2%）
+  - 流感（4%）
+- 神經系統：
+  - 憂鬱（6%）
+  - 神經病變 (neuropathy)（1%）
+  - 感覺異常 (paresthesia)（2% 至 9%）
+  - 周邊神經炎 (peripheral neuritis)（2%）
+- 神經肌肉與骨骼：
+  - 關節痛 (arthralgia)（6% 至 8%）
+  - 肌肉痙攣（3%）
+  - 肌痛 (myalgia)（4%）
+  - 骨痛 (ostealgia)（3% 至 7%）
+- 呼吸系統：
+  - 鼻出血（2%）
+  - 類流感症狀（2% 至 10%）
+  - 鼻咽炎（8%）
+  - 咽喉疼痛 (pharyngolaryngeal pain)（2%）
+  - 鼻竇炎（2% 至 9%）
+  - 上呼吸道感染（3%）
+
+### <1%
+- 心血管：
+  - 心臟疾病
+  - 心室功能異常 (ventricular dysfunction)
+- 內分泌與代謝：
+  - 甲狀腺炎 (thyroiditis)（自體免疫性）
+- 免疫：
+  - 抗體產生
+- 呼吸系統：
+  - 間質性肺炎 (interstitial pneumonitis)
+  - 肺炎 (pneumonitis)
+  - 肺高壓 (pulmonary hypertension)
+  - 肺浸潤 (pulmonary infiltrates)
+  - 呼吸衰竭
+
+### 發生率未定
+- 心血管：
+  - 心肌病變 (cardiomyopathy)
+- 血液與腫瘤：
+  - 嗜中性白血球減少 (neutropenia)
+- 呼吸系統：
+  - 肺纖維化 (pulmonary fibrosis)
+
+### 上市後通報
+- 皮膚：
+  - 眉毛脫失 (madarosis of eyebrow)
+- 泌尿生殖：
+  - 羊水過少
+- 血液與腫瘤：
+  - 免疫性血小板減少 (immune thrombocytopenia)
+  - 腫瘤溶解症候群 (tumor lysis syndrome, TLS)
+- 過敏：
+  - 過敏性休克 (anaphylaxis)
+  - 血管性水腫 (angioedema)
+- 眼科：
+  - 視力模糊
+  - 結膜炎 (conjunctivitis)
+  - 角膜疾病（與血管新生抑制相關）
+  - 乾眼症候群 (dry eye syndrome)
+  - 流淚增加（與刺激相關）
+  - 黃斑病變 (maculopathy)（雙側缺血性）
+  - 視力喪失
+- 腎臟：
+  - 局灶節段性腎小球硬化症 (focal segmental glomerulosclerosis)
+  - 腎小球腎炎 (glomerulonephritis)（膜性、局灶性、纖維性）
+  - 腎小球病變 (glomerulopathy)
+  - 腎病症候群 (nephrotic syndrome)
+- 呼吸系統：
+  - 急性呼吸窘迫症候群 (ARDS)
+  - 支氣管痙攣 (bronchospasm)
+  - 低氧血症 (hypoxia)
+  - 非心因性肺水腫 (noncardiogenic pulmonary edema)
+  - 胸腔積液 (pleural effusion)
+
+## 禁忌症
+- 美國仿單未列明禁忌症。
+- 加拿大仿單：
+  - 已知對 trastuzumab、中國倉鼠卵巢細胞蛋白 (Chinese hamster ovary cell proteins) 或本品任一成分過敏者禁用。
+
+## 警告／注意事項
+
+### 與不良反應相關之風險
+- 心肌病變 (cardiomyopathy)：
+  - 可引起有症狀或無症狀之 LVEF 下降與心衰竭。
+  - 與含 anthracycline 化療併用時風險最高。
+  - 既有心臟疾病或心功能異常者應極度謹慎。
+  - 既往或同步接受 anthracycline 或放射治療可明顯增加風險。
+  - 其他可能風險因子包括高齡、高或低 BMI、吸菸、糖尿病、高血壓、甲狀腺功能亢進或低下。
+  - 完成或停用 trastuzumab 後再接受 anthracycline 者，心功能異常風險升高；最後一劑 trastuzumab 後至少 7 個月內應避免使用 anthracycline。
+  - trastuzumab 所致心肌病變通常於停藥後 1 至 3 個月內可逆。
+  - 亦可能與心律不整、高血壓、壁血栓形成、中風甚至心因性死亡有關。
+  - ASCO 指引指出，下列狀況增加心臟功能異常風險：
+    - trastuzumab 單藥且合併下列任一：
+      - 多重心血管危險因子（≥2 項），如吸菸、高血壓、糖尿病、血脂異常、肥胖
+      - 癌症治療時年齡 ≥60 歲
+      - 治療前或治療中已有心功能受損，如邊界低值 LVEF（50% 至 55%）、心肌梗塞病史、中度以上瓣膜病
+    - 低劑量 anthracycline 後序貫 trastuzumab 治療
+- 輸注反應 (infusion reactions)：
+  - 包括致命案例。
+  - 多發生於第一次輸注期間或 24 小時內。
+  - 可表現為發燒、畏寒、噁心、嘔吐、疼痛、頭痛、頭暈、呼吸困難、低血壓、皮疹與虛弱。
+  - 曾發生重度過敏反應之病人曾嘗試預處置後再挑戰；部分可耐受，部分仍再度發生重度反應。
+- 腎毒性 (kidney toxicity)：
+  - 曾有罕見腎病症候群與腎小球病變病例，發生時間約在開始 trastuzumab 後 4 至 18 個月。
+  - 併發症可包括體液過多與心衰竭。
+  - 在轉移性胃癌中，trastuzumab 加入化療時腎功能異常發生率增加。
+- 肺毒性 (pulmonary toxicity)：
+  - 可引起嚴重肺部毒性，包括呼吸困難、低氧、間質性肺炎、肺浸潤、胸腔積液、非心因性肺水腫、肺功能不全、ARDS 及/或肺纖維化。
+  - 既有肺部疾病或肺部腫瘤廣泛侵犯者應特別小心。
+  - 肺部事件可於給藥時或給藥後 24 小時內發生，亦可延遲出現。
+
+### 合併用藥相關問題
+- 化療：
+  - 與骨髓抑制性化療併用時，可能增加中至重度嗜中性白血球減少與發燒性嗜中性白血球減少之發生率。
+
+### 劑型特異性問題
+- Benzyl alcohol 及其衍生物：
+  - 部分稀釋液可能含 benzyl alcohol。
+  - 大量 benzyl alcohol（≥99 mg/kg/day）與新生兒致命性「喘息症候群 (gasping syndrome)」有關。
+  - 其表現包括代謝性酸中毒、呼吸窘迫、喘息樣呼吸、中樞神經功能異常（含痙攣、顱內出血）、低血壓與心血管崩潰。
+  - 新生兒應避免或謹慎使用含 benzyl alcohol 劑型。
+- 不可互換：
+  - 傳統 trastuzumab 製劑與 ado-trastuzumab emtansine、trastuzumab/hyaluronidase 不可互換。
+  - 給藥前應再次確認標籤，以避免用藥錯誤。
+  - Herceptin／生物相似藥與 Kadcyla、Enhertu、Phesgo、Herceptin Hylecta 之劑量與療程皆不同。
+
+### 其他警告／注意事項
+- HER2 表現評估：
+  - 治療前應以核准之檢測確認 HER2 狀態，可為免疫組織化學染色 (immunohistochemistry, IHC) 之蛋白過度表現或螢光原位雜交 (fluorescence in situ hybridization, FISH) 之基因擴增。
+  - 乳癌與胃癌應使用對應腫瘤類型之檢測方式。
+  - 若檢測流程不當，可能導致不可靠結果。
+
+
+## 給藥方式
+
+### 成人
+- 僅可經靜脈輸注 (IV infusion)。
+- 起始負荷劑量應輸注 90 分鐘。
+- 維持劑量若耐受可於 30 分鐘輸注。
+- 不可使用 D5W。
+- 不可 IV push 或快速 bolus 給藥。
+- 不可與其他藥物混合。
+- 輸注期間應密切觀察是否出現發燒、畏寒或其他輸注相關症狀。
+- Acetaminophen、Diphenhydramine 及/或 Meperidine 常可有效處理輸注相關事件。
+- 給藥前應再次確認產品標籤，避免將傳統 trastuzumab 與 ado-trastuzumab emtansine、fam-trastuzumab deruxtecan、pertuzumab/trastuzumab/hyaluronidase 或 trastuzumab/hyaluronidase 混淆；各產品不可互換。
+
+
+## 儲存／安定性
+
+### Vials
+#### 重配前
+- 完整 vial 應冷藏保存於 2°C 至 8°C。
+- 加拿大儲存建議可能不同，應參照當地仿單。
+- 個別產品補充：
+  - Hercessi：
+    - 原盒冷藏保存至重配時
+    - 不可冷凍或搖晃
+  - Kanjinti：
+    - 原盒冷藏避光保存
+  - Trazimera：
+    - 原盒冷藏避光保存
+    - 可於 ≤30°C 單次放置最多 3 個月
+    - 一旦移出冷藏，不可再放回冰箱
+
+#### 重配後
+- 150 mg vial：
+  - 若未立即使用，可於 2°C 至 8°C 保存最多 24 小時
+  - 不可冷凍
+  - Hercessi 重配液應避光
+- 420 mg vial：
+  - 以 SWFI 重配者應立即使用
+  - 以 bacteriostatic water for injection 重配者可於 2°C 至 8°C 保存最多 28 天
+  - 不可冷凍
+- 440 mg vial（加拿大產品）：
+  - 以 SWFI 重配者應立即使用
+  - 以 bacteriostatic water for injection 重配者可於 2°C 至 8°C 保存最多 28 天
+  - 不可冷凍
+  - 其他特殊條件應參照產品仿單
+
+### 稀釋後輸注液
+- 可於 2°C 至 8°C 保存最多 24 小時
+- 不可冷凍
+- 此保存時間為重配 vial 可保存時間之外額外時間
+- 加拿大建議可能不同
+- Hercessi：
+  - 可於 30°C 至 35°C 保存最多 6 小時
+  - 此時間為重配 vial 可保存時間之外額外時間
+
+## 適應症
+
+### 核准適應症
+- HER2 陽性乳癌，輔助治療：
+  - 成人 HER2 過度表現之淋巴結陽性或淋巴結陰性（ER/PR 陰性或具 1 項高危險特徵）乳癌
+  - 可作為 doxorubicin、cyclophosphamide 加 paclitaxel 或 docetaxel 治療方案之一部分
+  - 或作為 docetaxel + carboplatin 治療方案之一部分
+  - 或於完成 anthracycline 為基礎之多模式治療後單藥使用
+- HER2 陽性轉移性乳癌：
+  - 第一線與 paclitaxel 併用
+  - 或已接受 1 種以上轉移性疾病化療後單藥使用
+- HER2 陽性轉移性胃癌或胃食道交界腺癌：
+  - 與 cisplatin 及 capecitabine 或 5-fluorouracil 併用
+  - 適用於未曾接受轉移性疾病治療之成人
+- 使用限制：
+  - 乳癌與胃癌治療前，應以核准之 companion diagnostic test 確認腫瘤 HER2 過度表現或 HER2 基因擴增。
+  - 因胃癌較常見膜染色不完整及異質性 HER2 表現，應使用適用該腫瘤類型之檢測。
+
+### 仿單外成人用途
+- HER2 陽性轉移性膽道癌
+- HER2 陽性早期乳癌新輔助治療
+- HER2 陽性荷爾蒙受體陽性轉移性乳癌（與芳香化酶抑制劑併用）
+- HER2 陽性轉移性大腸直腸癌（既往已治療）
+- HER2 陽性晚期或復發性子宮漿液性子宮內膜癌
+
+
+## 交互作用
+
+### 代謝／轉運影響
+- 目前已知無。
+
+## 生殖相關考量
+- 具懷孕可能之病人於治療前應確認懷孕狀態。
+- 應告知懷孕暴露風險與必須採取有效避孕措施。
+- 具懷孕可能之病人於治療期間及最後一劑後 7 個月內應採有效避孕。
+
+## 懷孕考量
+- Trastuzumab 為人源化 IgG1 單株抗體。
+- 人類 IgG 可通過胎盤；胎兒暴露量受 IgG 亞型、母體血中濃度、胎盤完整性、新生兒體重與妊娠週數影響，通常隨孕期進展而增加。
+- 器官形成期暴露最低，第三孕期暴露最高。
+- 懷孕期間暴露可導致：
+  - 羊水過少
+  - 羊水過少序列
+  - 肺發育不全
+  - 骨骼異常
+  - 新生兒死亡
+- 若停用 trastuzumab，羊水過少可能可逆；部分病例停藥後羊水指數回升，重新用藥後再度出現羊水過少。
+- 子宮內暴露亦可能增加自然流產風險。
+- 若治療期間或受孕前 7 個月內曾暴露，可能仍有胎兒不良事件風險。
+- 若於懷孕期間或受孕前 7 個月內暴露，應監測羊水量。
+- 對 HER2 陽性且懷孕之病人，ESMO 共識建議將 trastuzumab 延後至產後再使用。
+- Herceptin：
+  - 若懷孕期間使用，或治療中及最後一劑後 7 個月內懷孕，應通報 Genentech Adverse Events：1-888-835-2555。
+
+## 哺乳考量
+- 目前未知 trastuzumab 是否存在於人乳中。
+- 人類 IgG 存在於乳汁中，其濃度與 IgG 亞型及產後時間有關。
+- 製造商建議應綜合考量：
+  - 嬰兒暴露風險
+  - 哺乳對嬰兒之益處
+  - 治療對母親之益處
+- 治療完成後是否恢復哺乳，應將 7 個月清除期一併納入考量。
+
+## 監測參數
+- 治療前：
+  - 以經驗證之 IHC 或 FISH 評估腫瘤檢體 HER2 過度表現與 HER2 基因擴增
+  - 應使用符合腫瘤類型（乳癌或胃癌）之檢測方法
+  - 對具懷孕可能之病人確認懷孕狀態
+  - 進行完整心血管評估，包括病史與身體檢查
+- LVEF 監測：
+  - 基線（開始 trastuzumab 前立即）
+  - 治療期間每 3 個月
+  - 若因明顯左心室功能異常而暫停治療，每 4 週
+  - 完成輔助治療後至少 2 年內每 6 個月
+- 輸注期間：
+  - 監測生命徵象
+  - 監測過敏反應或輸注反應
+  - 若發生反應，應持續監測至症狀完全緩解
+- 其他：
+  - 監測心功能不全症狀／徵象
+  - 監測肺毒性症狀／徵象
+  - 若治療期間意外懷孕，應監測羊水量
+- 額外心血管監測（指引建議）：
+  - 治療前進行完整評估並篩檢高血壓、糖尿病、血脂異常、肥胖、吸菸等危險因子
+  - 取得基線心臟超音波（以 transthoracic echocardiography 為優先）
+  - 治療期間每 3 個月重複，可於正常且無症狀者延長為每 4 至 6 個月
+  - 臨床需要時增加頻率
+  - 治療完成後 12 個月內再做一次心臟超音波
+  - 高風險與極高風險病人：
+    - 基線測定 troponin 與 natriuretic peptide
+    - 可考慮每 2 至 3 個週期，以及治療完成後 3 與 12 個月追蹤
+  - 低至中度風險病人：
+    - 可考慮於 anthracycline 後基線、每 3 個月及完成後 12 個月測定 troponin 與 natriuretic peptide
+- HBV：
+  - ASCO 建議開始系統性抗癌治療前（或開始時）檢測 HBsAg、anti-HBc total Ig 或 IgG、anti-HBs
+  - 不應因等待檢驗結果而延遲治療
+  - 若有慢性或既往 HBV 感染，需進一步評估抗病毒預防、監測及追蹤策略
+
+## 藥理作用
+
+### 作用機轉
+- Trastuzumab 為單株抗體，可結合人類表皮生長因子受體 2 (human epidermal growth factor receptor 2, HER-2) 蛋白之細胞外區域。
+- 可藉由抑制 HER-2 過度表現細胞之增殖，並介導抗體依賴性細胞毒殺作用 (antibody-dependent cellular cytotoxicity)。
+
+### 藥物動力學
+- 排除：
+  - 多數病人停藥後約 7 個月，trastuzumab 濃度降至約 3%（約 97% washout）
+- 清除率 (clearance)：
+  - 每週給藥：0.201 至 0.244 L/day
+  - 每 3 週給藥：0.173 至 0.337 L/day
+
+## 病人諮詢重點
+- 另可參考「Trastuzumab including biosimilars: Patient drug information」
+
+### 本藥用途
+- 用於治療乳癌。
+- 用於治療胃癌。
+- 亦可能基於其他原因使用，應與醫師討論。
+
+### 可能出現但較常見的不適
+- 頭暈、疲倦或虛弱
+- 胃痛
+- 頭痛
+- 體重減輕
+- 味覺改變
+- 背部、骨骼、關節或肌肉疼痛
+- 失眠
+- 類感冒症狀
+- 鼻或喉嚨刺激感
+- 類流感症狀
+- 口腔刺激或口瘡
+- 腹瀉、嘔吐、腸胃不適、食慾下降
+
+### 需立即就醫之警示症狀
+- 心臟問題：
+  - 新發或惡化之咳嗽或呼吸困難
+  - 腳踝或下肢腫脹
+  - 心律異常
+  - 24 小時內體重增加超過 5 磅
+  - 頭暈或昏厥
+- 輸注反應與肺部問題：
+  - 頭痛、頭暈、昏厥
+  - 腸胃不適、嘔吐
+  - 發燒、畏寒、虛弱
+  - 呼吸困難、喘
+  - 新發或惡化之咳嗽
+- 感染徵象：
+  - 發燒、畏寒
+  - 嚴重喉嚨痛
+  - 耳痛或鼻竇痛
+  - 咳嗽
+  - 痰量增加或顏色改變
+  - 解尿疼痛
+  - 口腔潰瘍
+  - 傷口久未癒合
+- 血壓異常：
+  - 劇烈頭痛
+  - 頭暈
+  - 昏厥
+  - 視力改變
+- 腫瘤溶解症候群：
+  - 心跳快速或不規則
+  - 昏厥
+  - 排尿困難
+  - 肌肉無力或痙攣
+  - 腸胃不適、嘔吐、腹瀉
+  - 食慾極差
+  - 嗜睡／遲滯
+- 不明原因瘀青或出血
+- 異常灼熱、麻木或刺痛感
+- 憂鬱
+- 過敏反應徵象：
+  - 皮疹、蕁麻疹、搔癢
+  - 皮膚紅、腫、水泡或脫皮
+  - 喘鳴
+  - 胸口或喉嚨緊縮
+  - 呼吸、吞嚥或說話困難
+  - 聲音沙啞
+  - 口、臉、嘴唇、舌頭或喉嚨腫脹
+
+### 註
+- 上述並非所有可能副作用之完整清單，如有疑問應與醫師討論。
+- 此病人教育資訊為一般摘要，不可取代醫療專業人員之診斷、處置或完整用藥說明。
+
+## 參考來源
+- 文件標題：Trastuzumab including biosimilars: Drug information
+- 資料來源：UpToDate Lexidrug

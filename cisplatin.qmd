@@ -1,0 +1,651 @@
+---
+title: "cisplatin"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+
+
+
+## 藥品名稱
+- Cisplatin
+
+## 黑框警示
+### 美國黑框警示
+- 骨髓抑制 (Myelosuppression)
+  - Cisplatin 可造成嚴重骨髓抑制 (Myelosuppression)，並可能因感染而致死。應監測血球計數，必要時需中斷治療。
+- 噁心與嘔吐 (Nausea and vomiting)
+  - Cisplatin 可造成嚴重噁心與嘔吐。應使用高效止吐預防用藥。
+- 腎毒性 (Nephrotoxicity)
+  - Cisplatin 可造成嚴重腎毒性 (Nephrotoxicity)，包括急性腎衰竭。嚴重腎毒性具劑量相關性且具累積性。應確保充分補液，並監測腎功能與電解質。腎功能受損患者應考慮減量或改用其他治療。
+- 周邊神經病變 (Peripheral neuropathy)
+  - Cisplatin 可造成與劑量相關之周邊神經病變 (Peripheral neuropathy)，且隨重複療程而加重。
+
+
+
+## 藥理分類
+- 鉑類抗腫瘤藥 (Platinum antineoplastic agent)
+
+## 劑量
+### 成人
+#### 一般劑量指引
+- 安全性注意事項
+  - 給藥前應給予適當補液，且於 Cisplatin 給藥後 24 小時內維持足夠補液與尿量。
+  - 可依臨床需要考慮補充鎂。
+  - 每一療程超過 100 mg/m^2 的 Cisplatin 劑量極少使用，如處方超過此範圍應再次確認。
+- 臨床考量
+  - Cisplatin 具有高度致吐風險，建議使用止吐藥預防噁心與嘔吐。
+  - 仿單外使用之具體劑量與頻率可能依療程或機構規範而異。
+
+#### 成人適應症與常用劑量
+- 晚期腎上腺皮質癌 (Adrenocortical carcinoma, advanced)；仿單外使用
+  - IV：40 mg/m^2，28 天療程第 3、4 天，併用 doxorubicin、etoposide、mitotane；持續至疾病進展或無法接受毒性。
+  - 或 IV：40 mg/m^2，28 天療程第 2、9 天，併用 doxorubicin、etoposide、mitotane；最多 6 個療程。
+- 肛門癌 (Anal carcinoma)；仿單外使用
+  - 第 I 至 III 期作為放射增敏劑：
+    - IV：60 mg/m^2（最大 120 mg），第 1、29 天，併用 fluorouracil。
+    - 或替代方案：IV：20 mg/m^2，每週一次，於放療日給藥，併用 fluorouracil。
+  - 轉移性或無法切除之局部復發鱗狀細胞癌：
+    - IV：75 mg/m^2，第 1 天，每 28 天一療程，併用持續輸注 fluorouracil；研究中中位療程數為 4。
+    - 或 IV：40 mg/m^2，第 1 天，每 14 天一療程，併用 docetaxel 與 fluorouracil（modified DCF）共 8 個療程。
+- 晚期膽道癌 (Biliary tract cancer, advanced)；仿單外使用
+  - Cisplatin/gemcitabine：
+    - IV：25 mg/m^2，第 1、8 天，每 21 天一療程，共 4 至 8 個療程。
+  - Durvalumab/cisplatin/gemcitabine：
+    - IV：25 mg/m^2，第 1、8 天，每 21 天一療程，最多 8 個療程；之後持續 durvalumab 單藥至疾病進展或無法接受毒性。
+  - Pembrolizumab/cisplatin/gemcitabine：
+    - IV：25 mg/m^2，第 1、8 天，每 21 天一療程，最多 8 個療程；之後持續 pembrolizumab（最多 35 個療程）與 gemcitabine 至疾病進展或無法接受毒性。
+- 晚期膀胱癌 (Bladder cancer, advanced)
+  - IV：50 至 70 mg/m^2，每 3 至 4 週一次。
+  - 曾接受大量前治療者：50 mg/m^2，每 4 週一次。
+  - 仿單外合併方案：
+    - 新輔助治療：
+      - dose-dense MVAC：IV：70 mg/m^2，第 1 或第 2 天，每 14 天一療程，共 3 或 4 療程；亦有共 6 療程之方案。每療程後依方案給予 G-CSF 預防。
+      - GC（gemcitabine/cisplatin）：IV：70 mg/m^2，第 1 天，每 21 天一療程，共 4 療程。
+      - split-dose cisplatin：IV：35 mg/m^2，第 1、8 天，每 21 天一療程，共 4 療程。
+      - Durvalumab + GC：IV：70 mg/m^2，第 1 天，每 21 天一療程，共 4 個新輔助療程；後行根除性膀胱切除，再以 durvalumab 輔助治療最多 8 療程。
+      - MVAC：IV：70 mg/m^2，第 2 天，每 28 天一療程，共 3 療程。
+      - CMV：IV：100 mg/m^2，第 1 天，每 21 天一療程，共 3 療程。
+    - 局部晚期或轉移性疾病：
+      - dose-dense MVAC：IV：70 mg/m^2，第 2 天，每 14 天一療程，併用 methotrexate、vinblastine、doxorubicin 與生長因子支持，持續至疾病進展或無法接受毒性。
+      - GC：IV：70 mg/m^2，第 2 天，每 28 天一療程，最多 6 療程。
+      - 部分病人可考慮將 70 mg/m^2 分成 2 天給藥之 split-dose 方案。
+- 腦轉移（源自乳癌或非小細胞肺癌）(Brain metastases, due to breast or non-small cell lung cancers)；仿單外使用
+  - IV：100 mg/m^2，第 1 天，每 21 天一療程，併用 etoposide，最多 6 療程。
+- 三陰性乳癌 (Breast cancer, triple negative)；仿單外使用
+  - IV：75 mg/m^2，第 1 天，每 21 天一療程，單藥，共 4 療程。
+- 子宮頸癌 (Cervical cancer)；仿單外使用
+  - 併用同步放化療：
+    - IV：40 mg/m^2，於第 1、8、15、22、29、36 天，在放療前 4 小時輸注。
+    - 或 IV：75 mg/m^2，第 1 天，每 21 天一療程，併用 fluorouracil 與放療，共 3 療程。
+    - 或 IV：70 mg/m^2，第 1 天，每 21 天一療程，共 4 療程，併用 fluorouracil；第 1、2 療程與放療同步。
+    - 或 IV：50 mg/m^2，第 1 天，每 28 天一療程，併用放療與 fluorouracil，共 2 療程。
+    - 第 III 至 IVA 期亦可使用 IV：40 mg/m^2，每週一次，共 5 或 6 劑，併用 pembrolizumab 與放療，之後近接治療，再以 pembrolizumab 單藥持續至疾病進展、無法接受毒性或最多 24 個月。
+  - 持續性、復發性、晚期或轉移性疾病之合併化療：
+    - 併用 bevacizumab 與 paclitaxel：IV：50 mg/m^2，第 1 或第 2 天，每 21 天一療程，持續至疾病進展或無法接受毒性。
+    - 併用 paclitaxel：IV：50 mg/m^2，第 2 天，每 21 天一療程；無反應者最多 6 療程，臨床有反應者可超過 6 療程。
+    - 併用 topotecan：IV：50 mg/m^2，第 1 天，每 21 天一療程；無反應者最多 6 療程，或至疾病進展/無法接受毒性。
+    - 併用 paclitaxel、pembrolizumab、± bevacizumab：IV：50 mg/m^2，第 1 或第 2 天，每 21 天一療程，共 6 療程；若臨床受益且毒性可接受，可延長化療；pembrolizumab 最多 35 療程。
+- 復發性、轉移性或高風險子宮內膜癌 (Endometrial carcinoma, recurrent, metastatic, or high risk)；仿單外使用
+  - IV：50 mg/m^2，第 1 天，每 21 天一療程，併用 doxorubicin ± paclitaxel，共 7 療程，或至疾病進展/無法接受毒性。
+- 食道癌、胃癌、胃食道交界癌 (Esophageal, gastric, and gastroesophageal cancers)；仿單外使用
+  - Nivolumab/cisplatin/fluorouracil：
+    - 食道鱗狀細胞癌且 PD-L1 ≥1，一線治療。
+    - IV：80 mg/m^2，第 1 天，每 28 天一療程，併用 nivolumab 與 fluorouracil，至疾病進展或無法接受毒性；無進展者 nivolumab 最多 2 年。
+  - Pembrolizumab/trastuzumab/cisplatin/fluorouracil：
+    - HER2 陽性胃或胃食道交界腺癌，且 PD-L1 CPS ≥1。
+    - IV：80 mg/m^2，第 1 天，每 21 天一療程，最多 6 療程；其後可依醫師裁量繼續，並持續 pembrolizumab、trastuzumab、fluorouracil 至疾病進展、無法接受毒性或最多 24 個月。
+  - Pembrolizumab/cisplatin/fluorouracil：
+    - HER2 陰性胃或胃食道交界腺癌且 PD-L1 CPS ≥1：
+      - IV：80 mg/m^2，第 1 天，每 21 天一療程；cisplatin 常限制於 6 療程；其後持續 pembrolizumab 與 fluorouracil。
+    - 食道癌或胃食道交界癌且 PD-L1 CPS ≥1：
+      - IV：80 mg/m^2，第 1 天，每 21 天一療程，最多 6 療程；其後持續 pembrolizumab 與 fluorouracil 至疾病進展、無法接受毒性或最多 24 個月。
+  - Tislelizumab/cisplatin/capecitabine：
+    - 無法切除或轉移性食道鱗癌且 PD-L1 ≥1。
+    - IV：60 至 80 mg/m^2，第 1 天，每 21 天一療程；cisplatin 可依地方規範或醫師裁量限制為 6 療程；持續治療至疾病進展或無法接受毒性。
+- 高風險妊娠滋養細胞腫瘤 (Gestational trophoblastic neoplasia, high risk)；仿單外使用
+  - EMA-EP：IV：60 至 80 mg/m^2，第 8 天，每 14 天一療程，併用 etoposide、methotrexate、leucovorin、dactinomycin；hCG 正常後再持續 2 至 4 療程。
+  - EP-EMA：IV：25 mg/m^2/次，第 1 天連續 3 劑，每劑輸注 4 小時，與 etoposide 併用，與 EMA 每週交替。
+  - BEP（難治性）：IV：20 mg/m^2，第 1 至 4 天，每 21 天一療程，併用 bleomycin、etoposide 與白血球生長因子支持；hCG 正常後至少再 2 療程。
+  - TP/TE（難治性）：IV：60 mg/m^2，第 1 天，輸注 3 小時，每 28 天一療程，與 paclitaxel 併用，與 TE 每 2 週交替。
+  - 低劑量 EP 誘導療法：IV：20 mg/m^2，第 1、2 天，每週一次，共 1 至 2 療程；之後改用 EMA-CO。
+- 頭頸癌 (Head and neck cancer)；仿單外使用
+  - 局部晚期疾病，併用同步放療：
+    - IV：100 mg/m^2，第 1 天，每 21 天一療程，共 3 劑。
+    - 或無法耐受高劑量者：IV：30 mg/m^2，每週一次，共 6 或 7 週，至放療結束。
+    - 或 IV：40 mg/m^2（最大 70 mg），放療期間每週一次，共 7 週。
+  - 術後輔助治療，併用 pembrolizumab 與放療：
+    - 先前已接受 6 週 pembrolizumab 單藥後手術。
+    - 術後 6 週內開始輔助治療。
+    - IV：100 mg/m^2，第 1 天，每 21 天一療程，共 3 療程；之後 pembrolizumab 單藥至復發、無法接受毒性或最多 1 年。
+  - 併用化療：
+    - IV：75 mg/m^2，第 1 天，每 21 天一療程，併用 docetaxel 與 fluorouracil，共 4 療程。
+    - 或 IV：100 mg/m^2，第 1 天，每 21 天一療程，併用 docetaxel 與 fluorouracil，共 3 療程。
+- 復發或難治性何杰金氏淋巴瘤 (Hodgkin lymphoma, relapsed or refractory)；仿單外使用
+  - DHAP：IV：100 mg/m^2，第 1 天，連續輸注 24 小時，共 2 療程，併用 dexamethasone 與 cytarabine。
+  - ESHAP：IV：25 mg/m^2，第 1 至 4 天，每 3 至 4 週一療程，併用 etoposide、methylprednisolone、cytarabine，共 3 或 6 療程。
+- 胸膜間皮瘤 (Mesothelioma, pleural)；仿單外使用
+  - 併用 gemcitabine：
+    - IV：100 mg/m^2，第 1 天，每 28 天一療程，共 6 療程。
+    - 或 IV：80 mg/m^2，第 1 天，每 21 天一療程，共 6 療程。
+  - 併用 pemetrexed：
+    - IV：75 mg/m^2，第 1 天，每 21 天一療程。
+    - 或持續至疾病進展或無法接受毒性。
+  - 併用 pemetrexed 與 bevacizumab：
+    - IV：75 mg/m^2，第 1 天，每 21 天一療程，最多 6 療程；其後 bevacizumab 單藥維持。
+  - 併用 pemetrexed 與 pembrolizumab：
+    - IV：75 mg/m^2，第 1 天，每 21 天一療程，最多 6 療程；其後 pembrolizumab 單藥至疾病進展、無法接受毒性或最多 24 個月。
+- 多發性骨髓瘤 (Multiple myeloma)；仿單外使用
+  - DT-PACE：IV：10 mg/m^2/日，連續輸注，第 1 至 4 天，每 4 至 6 週重複。
+  - VDT-PACE：IV：10 mg/m^2/日，連續輸注 4 天，每 4 至 6 週重複。
+  - DCEP：IV：10 mg/m^2/日，連續輸注，第 1 至 4 天，每 21 天一療程，至疾病進展或無法接受毒性。
+- 轉移性神經內分泌腫瘤 (Neuroendocrine tumors, metastatic carcinoma)；仿單外使用
+  - IV：45 mg/m^2/日，第 2、3 天連續輸注，每 4 週一療程，併用 etoposide，至疾病進展或無法接受毒性。
+  - 或 IV：80 mg/m^2，第 1 天，30 分鐘輸注，每 3 週一療程，併用 etoposide，最多 6 療程。
+- 復發或難治性非何杰金氏淋巴瘤 (Non-Hodgkin lymphoma, relapsed or refractory)；仿單外使用
+  - R-DHAP 或 DHAP：IV：100 mg/m^2，第 1 天，24 小時連續輸注，每 3 至 4 週一療程，最多 6 至 10 療程。
+  - R-ESHAP 或 ESHAP：IV：25 mg/m^2/日，第 1 至 4 天，24 小時連續輸注，每 3 至 4 週一療程，共 3 至 8 療程。
+  - R-GDP 或 GDP：IV：75 mg/m^2，第 1 天，每 3 週一療程，共 2 至 6 療程。
+- 非小細胞肺癌 (Non-small cell lung cancer)；仿單外使用
+  - 常見方案眾多，以下列出常用方案：
+    - 新輔助治療：IV：75 mg/m^2，第 1 天，每 21 天一療程，併用 nivolumab 與 pemetrexed 或 gemcitabine，最多 3 療程。
+    - 新輔助後接輔助治療：
+      - 與 durvalumab 及 gemcitabine（鱗癌）或 pemetrexed（非鱗癌）併用：IV：75 mg/m^2，第 1 天，每 21 天一療程，共 4 療程；手術後以 durvalumab 單藥每 4 週一次，最多 12 療程。
+      - 與 nivolumab 及 docetaxel（鱗癌）或 pemetrexed（非鱗癌）併用：IV：75 mg/m^2，第 1 天，每 21 天一療程，最多 4 療程；術後 nivolumab 最多 1 年。
+    - 與 pembrolizumab、gemcitabine（鱗癌）或 pemetrexed（非鱗癌）之方案亦可使用，劑量通常為 IV：75 mg/m^2，第 1 天，每 21 天一療程。
+- 骨肉瘤 (Osteosarcoma)；仿單外使用
+  - MAP：成人 ≤40 歲：
+    - IV：60 mg/m^2/日，輸注 4 小時，共 2 天（每療程總量 120 mg/m^2），於第 1、6 週作新輔助治療；第 12、17 週作輔助治療，併用 methotrexate、leucovorin、doxorubicin。
+- 晚期卵巢癌 (Ovarian cancer, advanced)
+  - IV：75 至 100 mg/m^2，每 3 至 4 週一次。
+  - 或仿單外與 paclitaxel 併用：75 mg/m^2，每 3 週一次。
+  - 腹腔內給藥（仿單外途徑）：
+    - 100 mg/m^2，第 2 天，每 21 天一療程，併用 IV 與腹腔內 paclitaxel，共 6 療程。
+  - 卵巢生殖細胞腫瘤：
+    - BEP：IV：20 mg/m^2，第 1 至 5 天，每 21 天一療程，共 3 療程。
+    - EP：IV：20 mg/m^2，第 1 至 5 天，每 21 天一療程，共 4 療程。
+    - TIP：IV：25 mg/m^2，第 2 至 5 天，每 21 天一療程，共 4 療程。
+- 局部晚期或轉移性胰臟癌 (Pancreatic cancer, locally advanced or metastatic)；仿單外使用
+  - IV：50 mg/m^2，第 1、15 天，各輸注 1 小時，每 28 天一療程，併用 gemcitabine。
+- 轉移性陰莖癌 (Penile cancer, metastatic)；仿單外使用
+  - 新輔助治療：IV：25 mg/m^2，第 1、2、3 天，各輸注 2 小時，每 3 至 4 週一療程，共 4 療程，併用 paclitaxel 與 ifosfamide。
+- 復發或難治性原發性中樞神經系統淋巴瘤 (Primary CNS lymphoma, relapsed or refractory)；仿單外使用
+  - IV：100 mg/m^2，第 1 天，24 小時連續輸注，每 3 至 4 週一療程，併用 dexamethasone 與高劑量 cytarabine，對反應者約治療 6 至 10 療程。
+- 轉移性去勢抗性前列腺癌之小細胞變異或未分化特徵 (Prostate cancer, metastatic, castration resistant, small cell variant or with anaplastic feature)；仿單外使用
+  - IV：25 mg/m^2，第 1、2、3 天，每 21 天一療程，併用 etoposide，至少 4 療程。
+- 小細胞肺癌 (Small cell lung cancer)；仿單外使用
+  - 侷限期：
+    - IV：60 mg/m^2，第 1 天，每 3 週一療程，共 4 療程，併用 etoposide 與同步放療。
+    - 或 IV：80 mg/m^2，第 1 天，每 3 週一療程，共 4 療程，併用 etoposide 與序列放療。
+    - 或 IV：80 mg/m^2，第 1 天，每 4 週一療程，共 4 療程，併用 etoposide 與同步放療。
+    - 或 IV：25 mg/m^2，第 1、2、3 天，每 3 至 4 週一療程，共 6 療程，併用 etoposide。
+  - 廣泛期：
+    - IV：80 mg/m^2，第 1 天，每 3 週一療程，共 4 療程，或最多 8 療程，併用 etoposide。
+    - 或 IV：60 mg/m^2，第 1 天，每 4 週一療程，共 4 療程，併用 irinotecan。
+    - 或 IV：25 mg/m^2，第 1、2、3 天，每 3 至 4 週一療程，共 6 療程，併用 etoposide。
+- 晚期睪丸癌 (Testicular cancer, advanced)
+  - IV：20 mg/m^2，每日一次，共 5 天，每 3 週重複，併用 bleomycin 與 etoposide。
+  - 睪丸生殖細胞瘤轉移，good-risk：
+    - EP：IV：20 mg/m^2，第 1 至 5 天，每 3 週一療程，共 4 療程。
+  - intermediate 或 poor-risk：
+    - TIP：IV：25 mg/m^2，第 2 至 5 天，每 3 週一療程，共 4 療程。
+    - BEP：IV：20 mg/m^2，第 1 至 5 天，每 3 週一療程，共 4 療程。
+    - VIP：IV：20 mg/m^2，第 1 至 5 天，每 3 週一療程，共 4 療程。
+    - VeIP：IV：20 mg/m^2，第 1 至 5 天，每 3 週一療程，共 4 療程。
+- 局部可切除胸腺瘤或胸腺癌 (Thymoma or thymic carcinoma, localized, potentially resectable)；仿單外使用
+  - 新輔助 CAP：IV：50 mg/m^2，第 1 天，每 21 天一療程，併用 cyclophosphamide 與 doxorubicin。
+  - CAP + prednisone 誘導：IV：30 mg/m^2，第 1 至 3 天，每 3 至 4 週一療程，共 3 療程；之後手術、放療與鞏固化療。
+- 局部晚期無法切除之胸腺瘤或胸腺癌 (Thymoma or thymic carcinoma, locally advanced, unresectable)；仿單外使用
+  - 與 etoposide 及同步放療之 PE 方案：
+    - IV：50 mg/m^2，第 1、8 天，每 4 週一療程，共 2 療程。
+- 晚期或轉移性胸腺瘤或胸腺癌 (Thymoma or thymic carcinoma, advanced or metastatic)；仿單外使用
+  - CAP：IV：50 mg/m^2，第 1 天，每 21 天一療程，最多 8 療程。
+  - ADOC：IV：50 mg/m^2，第 1 天，每 3 至 4 週一療程，最多 6 療程。
+  - PE：IV：60 mg/m^2，第 1 天，每 3 週一療程，最多 8 療程。
+  - VIP：IV：20 mg/m^2，第 1 至 4 天，每 3 週一療程，最多 4 療程，或至疾病進展/無法接受毒性。
+- 未分化甲狀腺癌 (Thyroid carcinoma, anaplastic)；仿單外使用
+  - 輔助或放射增敏：
+    - IV：120 mg/m^2，每 4 週一次，併用 doxorubicin；放療前 2 療程、放療後 4 療程。
+  - 晚期或轉移性：
+    - IV：40 mg/m^2，每 3 週一次，併用 doxorubicin，至疾病進展、無法接受毒性或達蒽環類終生最大累積劑量。
+- 原發部位不明腺癌 (Unknown primary, adenocarcinoma)；仿單外使用
+  - IV：100 mg/m^2，第 1 天，每 21 天一療程，併用 gemcitabine；研究中位療程數 4。
+  - 或 IV：80 mg/m^2，第 1 天，每 21 天一療程，併用 docetaxel，共 2 至 6 療程。
+- 原發部位不明鱗癌 (Unknown primary, squamous cell carcinoma)；仿單外使用
+  - IV：75 mg/m^2，第 1 天，每 21 天一療程，併用 fluorouracil ± docetaxel，共 3 療程。
+  - 或 IV：20 mg/m^2，第 1 至 5 天，每 28 天一療程，併用 fluorouracil，至疾病進展或無法接受毒性。
+- 局部晚期外陰癌 (Vulvar cancer, locally advanced)；仿單外使用
+  - IV：40 mg/m^2（最大 70 mg），放療期間每週一次，最多 7 週。
+
+### 成人腎功能不全劑量
+- 一般原則
+  - 以下建議基於目前可得最佳證據與臨床專家意見。
+  - 因腎毒性風險，基線腎功能受損病人若臨床可行，通常優先考慮替代藥物。
+  - 廠商建議對腎功能不全病人考慮減量或替代治療，但未提供明確調整方案。
+- 腎功能改變
+  - 根治性治療 (curative intent)
+    - CrCl ≥60 mL/minute：無需調整。
+    - CrCl 50 至 <60 mL/minute：給予常規適應症建議劑量之 75%。
+    - CrCl 40 至 <50 mL/minute：給予常規適應症建議劑量之 50%。
+    - CrCl <40 mL/minute：不建議使用。
+  - 緩和性治療 (palliative intent)
+    - CrCl ≥60 mL/minute：無需調整。
+    - CrCl 50 至 <60 mL/minute：給予常規適應症建議劑量之 75%。
+    - CrCl <50 mL/minute：不建議使用。
+- 間歇性血液透析 (Hemodialysis)
+  - 因蛋白結合高且迅速，透析移除效果差。
+  - 一般不建議用於慢性腎病病人；但對不可逆 CKD 且已接受血液透析者，腎毒性考量相對不同，文獻有少數使用策略。
+  - 根治性治療：可考慮給予常規適應症建議劑量之 50%，並於血液透析後（或非透析日）給藥。
+  - 緩和性治療：不建議使用。
+- 腹膜透析 (Peritoneal dialysis)
+  - 不會被明顯透析移除。
+  - 根治性治療：若必要可考慮給予常規劑量之 50%，但有殘餘腎功能者仍有顯著腎毒性風險。
+  - 緩和性治療：不建議使用。
+- CRRT
+  - 不建議使用。
+
+### 成人肝功能不全劑量
+- 一般原則
+  - 抗癌藥於基線肝功能不全時之調整應依治療目的（根治或緩和）與功能狀態綜合評估。
+  - 使用 Child-Turcotte-Pugh 分類評估肝功能時應審慎，主要限於既有肝硬化病人。
+- 藥物特性
+  - Cisplatin 以非酵素代謝為主，且主要經腎臟排除；預期不會造成或明顯受肝功能異常影響。
+- 開始治療前已有肝功能異常
+  - 有肝轉移或既有肝功能異常但無肝硬化：無需調整劑量。
+  - 既有肝硬化，Child-Turcotte-Pugh A 至 C：無需調整劑量。
+
+### 成人肥胖
+- BMI ≥30 kg/m^2 之成人癌症病人
+  - 依 ASCO 指引，BSA 或體重計算劑量時應使用實際體重。
+  - 毒性處理方式與 BMI <30 kg/m^2 病人相同。
+  - 若因毒性減量，僅在仿單允許加量、且肝腎功能等影響因素已充分改善、功能狀態明顯改善或足夠時，才可考慮恢復全劑量或先前耐受劑量。
+
+### 成人毒性調整
+- 一般建議
+  - 發生毒性時應考慮改用其他治療或進行減量。
+- 血液毒性
+  - 嚴重骨髓抑制時應延後或中斷治療。
+- 腎毒性
+  - 出現腎功能惡化時，應考慮減量或改用其他治療。
+- 耳毒性 (Ototoxicity)
+  - 若出現臨床顯著聽力改變，應考慮停藥。
+- 過敏反應 (Hypersensitivity reactions)
+  - 曾有嚴重過敏反應者不應再次以 cisplatin 挑戰。
+  - 給藥時應備妥處理嚴重過敏反應之支持設備與藥物。
+- 神經毒性 (Neurotoxicity)
+  - 若出現症狀性第 3 或 4 級周邊神經病變，應考慮停藥。
+
+### 高齡者
+- 參照成人劑量。
+- 應審慎選擇劑量並密切監測；≥65 歲病人可能較易出現腎毒性與周邊神經病變。
+
+### 兒科
+- 一般注意事項
+  - 劑量單位可能為 mg/kg 或 mg/m^2，使用時務必注意。
+  - 劑量與頻率會依方案與治療階段而異，應依特定 protocol 執行。
+  - Cisplatin 具有高度致吐性，建議止吐預防。
+  - 為避免過量，任何單一療程超過 100 mg/m^2 之劑量均應再次確認。
+  - 給藥前建議先補液。
+- 兒科適應症範例
+  - 生殖細胞腫瘤 (Germ cell tumors) 等兒科腫瘤之用量依專屬 protocol 執行。
+
+### 兒科腎功能不全劑量
+- 廠商建議在血清 creatinine >1.5 mg/dL 和/或 BUN >25 mg/dL 前不宜重複給藥療程。
+- 具體兒科減量方案有限，通常依成人資料、機構經驗與兒科腫瘤 protocol 個別調整。
+
+### 兒科肝功能不全劑量
+- 廠商未提供明確調整建議。
+- 由於 Cisplatin 主要經腎臟排除，通常不需因肝功能異常而調整，但仍應依臨床狀況評估。
+
+## 不良反應
+### 重要不良反應考量
+- 骨髓抑制 (Bone marrow suppression)
+  - 可造成嚴重且與劑量相關之貧血、白血球減少、嗜中性白血球減少、血小板減少。
+  - 曾有因骨髓抑制繼發感染而死亡之案例。
+  - 風險因子包括：
+    - 每療程劑量與累積劑量增加
+    - 合併其他細胞毒性化療
+    - 年齡 ≥65 歲
+    - 基線 creatinine 升高或 Cisplatin 相關腎損傷
+    - BSA <1.5 m^2
+    - 治療前已有貧血
+- 即時型過敏反應 (Immediate hypersensitivity reactions)
+  - 曾報告即時過敏反應，部分可致命。
+  - 表現可包括血管性水腫 (Angioedema)、支氣管痙攣 (Bronchospasm)、呼吸困難 (Dyspnea)、腹瀉、噁心/嘔吐、蕁麻疹、低血壓、心搏過速，符合過敏性休克 (Anaphylaxis)。
+  - 典型發生於第 4 至第 8 療程之間。
+  - 風險因子包括先前接受過 cisplatin、合併放療、合併 taxane、女性、以及不同鉑類間可能存在交叉反應。
+- 噁心與嘔吐 (Nausea and vomiting)
+  - 屬高度致吐性藥物。
+  - 急性嘔吐通常於給藥後 3 至 6 小時最嚴重；延遲性噁心與嘔吐通常於 48 至 72 小時最嚴重，症狀可持續 1 週。
+  - 風險因子包括劑量 >50 mg/m^2、較快輸注速率、女性、年齡 <60 歲、急性嘔吐控制不佳、暈車病史。
+- 腎毒性 (Nephrotoxicity)
+  - 為最常見之劑量限制毒性，可造成 eGFR 降低、腎小管毒性、急性腎損傷 (Acute kidney injury)、慢性腎衰竭 (Chronic renal failure)。
+  - 連續療程可造成 GFR 逐漸下降與 serum creatinine 升高。
+  - 低鎂血症 (Hypomagnesemia) 為其常見後果，且治療結束後仍可能持續。
+  - 風險因子包括較高單次或累積劑量、基線腎功能受損、合併腎毒性藥物、腹部放療、年齡較大或較小等。
+
+### 整體不良反應
+- >10%
+  - 胃腸道
+    - 噁心與嘔吐 (Nausea and vomiting)：≤100%
+  - 血液與腫瘤
+    - 骨髓抑制 (Bone marrow depression)：25% 至 30%
+      - 包括貧血、發燒性嗜中性白血球減少、白血球減少、血小板減少
+  - 耳毒性
+    - 耳毒性 (Ototoxicity)
+      - 兒童：40% 至 60%
+      - 成人：≤31%
+      - 包括耳聾、聽力下降、高頻聽損、耳鳴、前庭毒性
+  - 腎臟
+    - 腎毒性 (Nephrotoxicity)：28% 至 36%
+      - 包括急性腎損傷、氮血症、creatinine clearance 降低、BUN 升高、serum creatinine 升高
+- 上市後通報
+  - 心血管
+    - 急性心肌梗塞、動脈血栓栓塞、心搏過緩、心臟功能異常、心衰竭、心包積液、靜脈炎、肺栓塞、雷諾氏病 (Raynaud disease)、血栓形成、血管痙攣、靜脈血栓栓塞、心室功能異常
+  - 皮膚
+    - 掉髮、皮疹
+  - 內分泌與代謝
+    - 脫水、高尿酸血症、低鈣血症、低鉀血症、低鎂血症、低鈉血症、低磷血症、乳酸脫氫酶升高、抗利尿激素分泌不當症候群 (SIADH)
+  - 胃腸道
+    - 味覺喪失、厭食、腹瀉、味覺異常、胃腸穿孔、打嗝、血清 amylase 升高、腸繫膜缺血、中性白血球低下性腸炎、胰臟炎、口腔炎
+  - 血液與腫瘤
+    - 急性白血病、溶血性貧血、溶血性尿毒症症候群、嗜中性白血球減少、血栓性微血管病變、血栓性血小板減少性紫斑症、腫瘤溶解症候群
+  - 肝臟
+    - 肝衰竭、肝酵素升高、bilirubin 升高
+  - 過敏
+    - 過敏性休克、顏面水腫
+  - 局部
+    - 注射部位蜂窩性組織炎、紅斑、纖維化、疼痛、腫脹、組織壞死
+  - 神經系統
+    - 虛弱、腦動脈炎、腦中風、不適、運動功能喪失、神經毒性
+      - 包括自主神經病變、腦病變 (Encephalopathy)、白質腦病變、Lhermitte 徵象、脊髓病變、神經病變、周邊神經病變、進行性多灶性白質腦病變、可逆性後腦白質病變症候群、癲癇
+  - 神經肌肉與骨骼
+    - 肌肉痙攣、肌肉抽搐
+  - 眼部
+    - 眼毒性
+      - 包括視力模糊、大腦性失明、色盲、視神經炎、視乳頭水腫、視網膜色素改變
+  - 腎臟
+    - 慢性腎衰竭、eGFR 降低
+  - 呼吸系統
+    - 間質性肺病、肺炎 (Pneumonitis)
+
+## 禁忌症
+### 禁忌症
+- 對 Cisplatin 或配方中任何成分有嚴重過敏反應者禁用。
+- 加拿大標示之額外禁忌症（美國標示未列）
+  - 對其他含鉑化合物過敏
+  - 既有腎功能或聽力障礙（除非效益大於風險）
+  - 骨髓抑制
+
+## 警語與注意事項
+### 警語/注意事項
+- 與不良反應相關之注意事項
+  - 外滲 (Extravasation)
+    - 高濃度時為發泡劑 (Vesicant)，低濃度時為刺激劑 (Irritant)。
+    - 外滲後可能發生局部軟組織毒性，嚴重度與濃度相關。
+    - >0.5 mg/mL 之輸注液可能造成蜂窩性組織炎、纖維化、壞死、疼痛、水腫、紅斑。
+  - 眼毒性 (Ocular toxicity)
+    - 可見視神經炎、視乳頭水腫、皮質性失明。
+    - 高劑量或高頻率方案可能造成視力模糊與色覺改變。
+    - 通常停藥後可改善或恢復，但可能延遲。
+- 疾病相關注意事項
+  - 重症肌無力 (Myasthenia gravis)
+    - 可能使病情惡化。
+  - 腫瘤溶解症候群 (Tumor lysis syndrome)
+    - 曾報告高尿酸血症，可考慮降尿酸治療。
+- 其他警語/注意事項
+  - 用藥安全
+    - >100 mg/m^2/療程（每 3 至 4 週一次）極少使用，應再次向處方醫師確認。
+    - 核准劑量下，cisplatin 給藥頻率不應高於每 3 至 4 週一次。
+    - 應避免因 CISplatin 與 CARBOplatin 名稱相似，或醫囑未清楚區分每日劑量與整個療程總劑量而導致過量。
+
+
+## 給藥
+### 成人給藥
+- Cisplatin 為高度致吐藥，建議預先給予止吐藥。
+- 給藥前建議先補液；給藥後應維持足夠補液與尿量（成人例如 >100 mL/hour）至少 24 小時。
+- IV
+  - 通常輸注 6 至 8 小時。
+  - 亦有 30 分鐘至 3 小時、1 mg/minute 或持續輸注之方案；實際速率依 protocol 而異。
+  - 不可作為快速靜脈推注。
+  - 合併治療時，也應依 protocol 注意補液、利尿與給藥順序。
+- 腹腔內 (Intraperitoneal)；仿單外途徑
+  - 可將溶液以溫熱生理食鹽水調製後，經植入式腹腔導管儘速輸注。
+- 器材注意
+  - 不可使用含鋁之針頭或輸液組，因鋁會與 Cisplatin 反應形成沉澱並降低效價。
+- 外滲處置
+  - 若外滲發生，應立即停止輸注並斷開輸液，但保留針頭/套管原位。
+  - 輕柔抽吸外滲藥液，不可沖洗管路。
+  - 開始 sodium thiosulfate 解毒處理並抬高患肢。
+  - Sodium thiosulfate 1/6 M：
+    - 每 100 mg 外滲之 cisplatin，可經原有 IV line 注入 2 mL。
+    - 另可考慮於外滲周邊以皮下注射 0.1 mL/點、總量 1 mL，順時鐘方向分次注射，未來 3 至 4 小時內可重複。
+  - Dimethyl sulfoxide (DMSO) 亦可考慮：
+    - 塗布於約為受影響區域 2 倍之範圍，每 8 小時一次，共 7 天；應於外滲 10 分鐘內開始，且不要覆蓋敷料。
+
+### 成人配製
+- 不可使用含鋁針頭或輸液組進行配製或給藥。
+- 凍晶粉末
+  - 每個 50 mg vial 以 50 mL SWFI 重配，重配後濃度為 1 mg/mL。
+  - 再稀釋於 1 至 2 L 相容輸液（可含或不含 mannitol 37.5 g）。
+- 溶液
+  - 輸注前可稀釋於 NS、D5 1/2 NS 或 D5NS。
+  - 不可稀釋於 D5W。
+  - 廠商建議最多稀釋至 2 L。
+
+### 兒科給藥
+- 為高度致吐藥，建議預先給予止吐藥。
+- 給藥前建議補液；給藥後 24 小時內應維持充分補液與尿量。
+- IV
+  - 通常輸注 6 至 8 小時。
+  - 亦曾使用 30 分鐘至 3 小時、1 mg/minute 或持續輸注方式；實際速率依 protocol 而異。
+- 不可使用含鋁針頭或輸液組。
+- 高濃度時屬發泡劑，應避免外滲；若外滲發生，立即停止輸注、保留針頭/套管、抽吸藥液、開始 sodium thiosulfate 解毒並抬高患肢。
+- DMSO 亦可考慮作為處置選項。
+
+### 兒科配製
+- 輸注液最終 sodium chloride 濃度應 ≥0.2%。
+- 不可使用含鋁針頭或輸液組配製或給藥。
+- 若稀釋後輸注液於 6 小時內未使用，應避光保存。
+
+## 外滲風險
+### 外滲/發泡性風險
+- 發泡劑 (Vesicant)：濃度 >0.4 mg/mL
+- 刺激劑 (Irritant)：濃度 ≤0.4 mg/mL
+
+
+## 儲存
+### 儲存/安定性
+- 凍晶粉末
+  - 未開封小瓶儲存於 20°C 至 25°C。
+  - 容許短暫偏移至 15°C 至 30°C。
+  - 重配前置於原紙盒中避光。
+  - 重配後溶液於 20°C 至 25°C 可穩定 20 小時；不可冷藏。
+  - 若自琥珀色小瓶取出後 6 小時內未使用，應避光。
+- 溶液
+  - 未開封小瓶儲存於 20°C 至 25°C，避光。
+  - 不可冷藏，否則可能產生沉澱。
+  - 廠商表示，小瓶首次開封後，避光於室溫可穩定 28 天；在室內螢光燈下室溫至少 7 天。
+- 稀釋後輸注液
+  - 於 D5 1/4 NS、D5 1/2 NS、D5NS、1/4 NS、1/3 NS、1/2 NS、或 NS 中之穩定性與氯離子濃度有關。
+
+## 適應症
+### 核准適應症
+- 晚期膀胱癌 (Bladder cancer, advanced)
+  - 用於治療晚期膀胱癌。
+- 晚期卵巢癌 (Ovarian cancer, advanced)
+  - 用於治療晚期卵巢癌。
+- 晚期睪丸癌 (Testicular cancer, advanced)
+  - 用於治療晚期睪丸癌。
+
+### 仿單外成人適應症
+- 晚期腎上腺皮質癌
+- 肛門癌
+- 晚期膽道癌
+- 乳癌或非小細胞肺癌所致腦轉移
+- 三陰性乳癌
+- 子宮頸癌
+- 復發性、轉移性或高風險子宮內膜癌
+- 食道癌
+- 胃癌
+- 高風險妊娠滋養細胞腫瘤
+- 局部晚期或轉移性頭頸癌
+- 鼻咽癌
+- 何杰金氏淋巴瘤
+- 胸膜間皮瘤
+- 多發性骨髓瘤
+- 轉移性神經內分泌腫瘤
+- 復發或難治性非何杰金氏淋巴瘤
+- 非小細胞肺癌
+- 骨肉瘤
+- 局部晚期或轉移性胰臟癌
+- 轉移性陰莖癌
+- 復發或難治性原發性中樞神經系統淋巴瘤
+- 去勢抗性轉移性前列腺癌
+- 侷限期與廣泛期小細胞肺癌
+- 胸腺瘤或胸腺癌
+- 未分化甲狀腺癌
+- 原發部位不明腺癌
+- 原發部位不明鱗癌
+- 局部晚期外陰癌
+
+## 用藥安全
+### 用藥安全議題
+
+- 給藥安全
+  - >100 mg/m^2 且每 3 至 4 週一次之劑量很少使用，應與處方醫師再次確認。
+
+## 交互作用
+### 代謝/運輸體影響
+- 為 MATE1/2-K、OCT2 之受質 (Substrate)
+- 依要求，交互作用子節點之 Drug Interactions 已刪除。
+
+## 生殖、懷孕與哺乳
+### 生殖考量
+- 對可能懷孕病人，開始治療前應確認懷孕狀態。
+- 可能懷孕病人
+  - 治療期間及最後一次 cisplatin 後 14 個月內應採有效避孕。
+- 其伴侶可能懷孕之病人
+  - 治療期間及最後一次 cisplatin 後 11 個月內應採有效避孕。
+- Cisplatin 與累積劑量相關之卵巢衰竭、提早停經、精子生成受損（少精症、無精症；可能不可逆）及男女生育力下降有關。
+- 接受抗癌藥前可考慮生育保存。
+
+### 懷孕考量
+- Cisplatin 可穿越人類胎盤。
+- 懷孕期間使用可能造成胎兒傷害。
+- 曾報告相關不良結局包括：
+  - 羊水過少 (Oligohydramnios)
+  - 子宮內生長遲滯 (Intrauterine growth restriction)
+  - 早產
+  - 新生兒急性呼吸窘迫症候群
+  - 血球減少
+  - 聽力損失
+- 子宮內暴露之兒童應追蹤聽力。
+- 若懷孕期間必須化療：
+  - 應避免在第一孕期使用。
+  - 最後一次化療與預產期之間應保留 3 週，以利母胎骨髓恢復。
+  - 妊娠 33 週後不應再給化療。
+  - 第二或第三孕期若必須使用，可依非孕病人之相同劑量與時程給藥。
+- 有癌症合併懷孕之長期觀察研究可供登錄。
+
+### 哺乳考量
+- Cisplatin 可存在於母乳中。
+- 多篇病例報告顯示，乳汁中可檢出 platinum，且部分資料顯示可能累積。
+- 重要觀察
+  - 妊娠期使用 cisplatin 者，哺乳初期乳汁中濃度可達母體血清濃度之 1% 至 9%。
+  - 產後 2 年單次 IV 100 mg 後，乳汁 platinum 約為母體血漿之 1/10。
+  - 產後 6 週單次 IV 70 mg 後，乳汁 platinum 由約 16 ng/mL 降至 4 ng/mL，約 66 至 70 小時後未再檢出。
+  - 某案例於重複療程中顯示乳汁 platinum 濃度有累積現象。
+- 由於可能對哺乳嬰兒造成嚴重不良反應，廠商不建議哺乳。
+- 使用含鉑藥物（包括 cisplatin）期間應避免哺乳。
+
+## 飲食考量
+### 飲食
+- 部分產品可能含有鈉。
+
+## 監測
+### 監測參數
+- 血液學
+  - 治療前、每次後續療程前及臨床需要時監測 blood counts。
+- 腎功能與電解質
+  - 治療前及臨床需要時監測 serum creatinine、BUN、CrCl、血清電解質（calcium、magnesium、potassium、sodium）。
+- 聽力與前庭功能
+  - 可考慮 audiometric 與 vestibular testing。
+  - 尤其所有兒科病人應於基線、每次給藥前及停藥後數年內持續追蹤聽力。
+- 神經學
+  - 治療前、治療中及治療完成後視需要進行神經學檢查。
+- 其他臨床監測
+  - 感染徵象/症狀
+  - 過敏反應
+  - 神經病變
+  - 眼毒性
+  - 腫瘤溶解症候群
+  - 第二原發惡性腫瘤
+  - 輸注部位狀況
+- B 型肝炎篩檢
+  - ASCO 建議於系統性抗癌治療前（或開始時）檢測 HBsAg、anti-HBc（total Ig 或 IgG）、anti-HBs。
+  - 不應因等待檢驗結果而延誤治療。
+  - 若偵測到慢性或過去 HBV 感染，應進一步評估是否需要抗病毒預防、監測與追蹤。
+
+## 藥理作用
+### 作用機轉
+- Cisplatin 藉由形成 DNA 交聯抑制 DNA 合成。
+- 可使雙股螺旋變性，並與 DNA 鹼基形成共價鍵，破壞 DNA 功能。
+- 亦可能與蛋白質結合。
+- cis-isomer 之細胞毒性約為 trans-isomer 的 14 倍。
+- 兩者皆可交聯 DNA，但 cis-platinum 較不易被細胞酵素辨識與修復。
+- Cisplatin 亦可與同一 DNA 鏈上相鄰兩個 guanine 結合，造成鏈內交聯與斷裂。
+
+### 藥物動力學
+- 分布容積
+  - IV：11 至 12 L/m^2
+- 蛋白結合
+  - 血漿 platinum：>90%
+- 代謝
+  - 非酵素性代謝
+  - 在細胞內與血流中可被 sulfhydryl groups 去活化
+  - 可與 glutathione 與 thiosulfate 形成共價鍵
+- 消除半衰期
+  - 兒童
+    - 游離藥物：1.3 小時
+    - 總 platinum：44 小時
+  - 成人
+    - Cisplatin：20 至 30 分鐘
+    - Platinum：≥5 天
+- 排泄
+  - Cisplatin：尿液（1 小時內 13% 至 17%）
+  - Platinum：尿液（35% 至 51%）
+
+## 病人衛教
+### 病人諮詢重點
+- 用途
+  - 用於治療癌症。
+- 常見可能副作用
+  - 掉髮
+  - 腹瀉、嘔吐、胃部不適、食慾下降
+- 出現下列情況應立即告知醫師或就醫
+  - 感染徵象
+    - 發燒、畏寒、嚴重喉嚨痛、耳痛或鼻竇痛、咳嗽、痰量增加或痰色改變、排尿疼痛、口腔潰瘍、傷口不癒合
+  - 出血徵象
+    - 吐血、咳血、咖啡色嘔吐物、血尿、黑便/紅便/柏油便、牙齦出血、異常陰道出血、無故瘀青或瘀青擴大、無法止血
+  - 腎臟問題
+    - 無尿、尿量改變、血尿、體重明顯增加
+  - 極度疲倦或虛弱
+  - 耳鳴、聽力下降或其他聽力改變
+  - 異常灼熱感、麻木感或刺痛感
+  - 嚴重頭暈或昏厥
+  - 心跳過快
+  - 視力改變或色覺改變
+  - 藥物輸注部位發紅、灼熱、疼痛、腫脹、水泡、皮膚破損或滲液
+  - 過敏反應徵象
+    - 皮疹、蕁麻疹、搔癢、皮膚紅腫起泡或脫皮、喘鳴、胸口或喉嚨緊縮、呼吸/吞嚥/說話困難、聲音沙啞、口腔/臉部/嘴唇/舌頭/喉嚨腫脹
+- 注意
+  - 以上並非全部副作用列表；如有疑問應與醫療人員討論。
+  - 本摘要不取代完整病人衛教單與專業醫療建議。
+
+## 參考來源
+- 文件標題：Cisplatin: Drug information
+- 來源：UpToDate

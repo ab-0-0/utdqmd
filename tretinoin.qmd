@@ -1,0 +1,505 @@
+---
+title: "tretinoin"
+lang: zh-tw
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    theme: cosmo
+    sidebar: true
+---
+
+
+
+## 警示
+
+### US Boxed Warning
+
+- 胚胎－胎兒毒性：
+  - Tretinoin 於孕婦使用時可造成胚胎－胎兒喪失與畸形。應告知孕婦對胎兒的潛在風險。
+  - 具生育能力之女性在開始 tretinoin 前必須先確認妊娠試驗為陰性。
+  - 具生育能力之女性在 tretinoin 治療期間及最後一次給藥後 1 個月內，應使用兩種有效避孕方法。
+  - 具有可受孕女性伴侶之男性，在 tretinoin 治療期間及最後一次給藥後 1 週內，應使用有效避孕措施。
+- 分化症候群：
+  - 分化症候群可危及生命或致死，約發生於 26% 接受 tretinoin 治療之急性前骨髓性白血病（APL）患者。
+  - 一旦出現本症候群的初期徵象或症狀，應立即開始高劑量 corticosteroid 治療並進行血流動力學監測，直到症狀與徵象緩解。
+  - 中度與重度分化症候群可考慮暫停 tretinoin，直到病況緩解。
+
+## 藥理分類
+
+- 抗腫瘤藥，Retinoic Acid Derivative
+- Retinoic Acid Derivative
+
+## 劑量
+
+### 成人
+
+#### 成人劑量
+
+- 劑量指引
+- 臨床考量：
+  - 以 tretinoin 進行急性前骨髓性白血病（APL）誘導治療時，應儘早開始。
+  - 若後續細胞遺傳學分析未證實 t(15;17) translocation 或未證實存在 PML/RARα fusion protein，應停用。
+  - 對於初診時 WBC ≥5,000/mm^3 或 serum creatinine >1.39 mg/dL 之患者，可考慮使用全身性 corticosteroids（如 dexamethasone、prednisone）預防分化症候群。
+  - 關於仿單外劑量細節，應依治療 protocol 或機構指引。
+- 急性前骨髓性白血病
+  - 緩解誘導：
+    - 備註：
+      - 非高風險 APL 患者（WBC ≤10,000/mm^3）之誘導治療通常為 tretinoin 合併 arsenic trioxide；若 arsenic trioxide 無法使用，也可考慮合併 anthracycline-based chemotherapy。
+      - 高風險 APL 患者（WBC >10,000/mm^3）之誘導治療一般為 tretinoin 合併 anthracycline-based chemotherapy，必要時可加上 arsenic trioxide。
+    - 口服：
+      - 45 mg/m^2/day，分 2 次等量給藥，持續至證實 complete remission（CR）。
+      - 於達到 CR 後 30 天停藥，或治療滿 90 天停藥，以先到者為準。
+    - Tretinoin 合併 arsenic trioxide：
+      - 口服 45 mg/m^2/day，分 2 次等量給藥，直到骨髓 blasts <5% 且無異常 promyelocytes，或達到 complete remission。
+      - 最長可至 60 或 85 天；其餘細節依 protocol。
+    - Tretinoin 合併 idarubicin：
+      - 口服 45 mg/m^2/day，分 2 次等量給藥，直到 complete hematologic remission。
+    - Tretinoin 合併 daunorubicin 與 cytarabine：
+      - 口服 45 mg/m^2/day，分 2 次等量給藥，直到 complete remission 或 90 天；部分方案以達 complete hematologic remission 為止。
+    - Tretinoin 合併 arsenic trioxide 與 gemtuzumab ozogamicin：
+      - 口服 45 mg/m^2/day，分 2 次等量給藥，直到骨髓 blasts <5% 且無異常 promyelocytes。
+    - Tretinoin 合併 gemtuzumab ozogamicin：
+      - 口服 45 mg/m^2/day，分 2 次等量給藥，直到 complete remission。
+  - 鞏固治療（off-label use）：
+    - Tretinoin 合併 arsenic trioxide：
+      - 口服 45 mg/m^2/day，分 2 次等量給藥。
+      - 可採每 28 天中第 1 至 14 天給藥，共 7 cycles；或每 28 天給藥 2 週，共 7 cycles。
+    - Tretinoin 合併 idarubicin/mitoxantrone：
+      - 口服 45 mg/m^2/day，分 2 次等量給藥，每月給藥 15 天，共 3 個月。
+      - 第 1 與第 3 course 合併 idarubicin；第 2 course 合併 mitoxantrone。
+    - 經 arsenic trioxide 後再以 tretinoin 與 daunorubicin：
+      - 口服 45 mg/m^2/day，分 2 次等量給藥，每 cycle 給藥 7 天。
+      - 合併 daunorubicin 共 2 cycles；於完成 2 個 arsenic trioxide consolidation cycles 後開始。
+  - 維持治療（off-label use）：
+    - 口服 45 mg/m^2/day，分 2 次等量給藥。
+    - 可為每 3 個月給藥 15 天，合併 mercaptopurine 與 methotrexate，共 2 年。
+    - 或每隔週給藥 7 天，可合併或不合併 mercaptopurine 與 methotrexate，共 1 年。
+    - 備註：
+      - 對接受無化療方案之非高風險患者（WBC ≤10,000/mm^3），通常不需要維持治療。
+- 漏服處理：
+  - 若距離下一次預定劑量 >10 小時，可補服。
+  - 若距離下一次預定劑量 <10 小時，跳過漏服劑量，於下一次正常時間恢復。
+  - 若服藥後嘔吐，不應補服額外劑量；於下一次正常時間恢復。
+- 併用治療之劑量調整：
+  - 存在具臨床意義之 drug interactions，可能需要調整劑量或頻率，或避免併用。
+  - 詳情應查閱 drug interactions database。
+
+#### 腎功能不全
+
+- 仿單未提供成人腎功能不全之劑量調整建議。
+
+#### 肝功能不全
+
+- 仿單未提供成人肝功能不全之劑量調整建議（未研究）。
+- 治療期間 hepatotoxicity：
+  - Liver function tests >5 × ULN：可考慮暫停 tretinoin，直到恢復。
+  - 多數肝功能異常可於不中斷治療、或完成 tretinoin 療程後恢復。
+
+#### 肥胖
+
+- American Society of Clinical Oncology 對 BMI ≥30 kg/m^2 之成人癌症患者全身性治療建議：
+  - 不論是否肥胖，應依 FDA 核准仿單之劑量使用。
+  - 若 BMI ≥30 kg/m^2 患者發生高等級毒性，毒性調整原則與非肥胖患者相同。
+  - 若仿單建議因毒性減量，僅在仿單允許 re-escalation、且相關可逆因子（如肝腎功能異常）已明顯改善、以及 performance status 顯著改善或足以接受治療時，才可回升至起始或先前可耐受劑量。
+
+#### 毒性調整
+
+- 分化症候群：
+  - 不論 leukocyte count 為何，只要出現疑似分化症候群徵象（如不明原因發燒、dyspnea、體重增加、胸部聽診異常、影像異常），應立即開始 corticosteroid 治療。
+  - 建議 dexamethasone 10 mg IV every 12 hours，至少持續 3 天，直到症狀/徵象緩解，並進行血流動力學監測。
+  - 中度與重度分化症候群可考慮暫停 tretinoin，待恢復後再恢復。
+  - 症狀緩解後，dexamethasone 可於 2 週內逐步 taper。
+- 顱內高壓／pseudotumor cerebri：
+  - 若發生，應考慮暫停 tretinoin、處理相關症狀，並依臨床情況評估恢復治療。
+- 肝毒性：
+  - 若 AST/ALT 或 bilirubin 明顯上升，應依 protocol 或臨床判斷考慮暫停治療，待恢復後再恢復。
+- 其他毒性：
+  - 依具體 protocol、合併化療與臨床情況調整。
+
+#### 高齡者
+
+- 參照成人劑量。
+
+### 兒科
+
+#### 兒科劑量
+
+- （更多資訊見 "All-trans retinoic acid (systemic tretinoin): Pediatric drug information"）
+- 劑量指引
+- 給藥頻率、總劑量、各 cycle/phase 之時間安排及併用治療會依 protocol 不同而異。
+- 急性前骨髓性白血病（APL）：
+  - 兒童與青少年：
+    - 備註：
+      - 在兒科試驗中，每日總劑量應四捨五入至最接近的 10 mg。
+      - 若計算結果 <5 mg 則向下取整；≥5 mg 則向上取整。
+      - 必要時晨間劑量與晚間劑量可不同。
+    - 誘導治療：
+      - 一般口服 45 mg/m^2/day，分 2 次給藥。
+      - 依合併方案不同，可治療至 complete remission、骨髓 blasts <5% 且無異常 promyelocytes，或依 protocol 之最長天數。
+    - 鞏固與維持治療：
+      - 依 protocol 採間歇給藥，並配合 arsenic trioxide、anthracyclines、mercaptopurine、methotrexate 或其他方案。
+      - 細節依 protocol。
+
+#### 腎功能不全
+
+- 仿單未提供兒科腎功能不全之劑量調整建議。
+
+#### 肝功能不全
+
+- 基線：
+  - 仿單未提供兒科肝功能不全之劑量調整建議。
+- 治療期間 hepatotoxicity：
+  - Liver function tests >5 × ULN：可考慮暫停 tretinoin 直到恢復。
+  - 部分兒科 protocol 建議：
+    - bilirubin 2 至 3 × ULN：暫停 tretinoin，待 <2 × ULN 再以原劑量恢復。
+    - AST >5 × ULN 及/或 bilirubin >3 × ULN：暫停 tretinoin，待 AST <3 × ULN 或 bilirubin <2 × ULN 後，以 50% 劑量恢復。
+  - 其餘細節依 protocol。
+
+## 不良反應
+
+### 不良反應
+
+- 以下不良反應與發生率主要來自 product labeling，除非另有註明。
+- >10%：
+  - 心血管：
+    - 心律不整 (Cardiac arrhythmia) 23%
+    - 胸部不適 (Chest discomfort) 32%
+    - 水腫 (Edema) 29%
+    - 潮紅 (Flushing) 23%
+    - 高血壓 (Hypertension) 11%
+    - 低血壓 (Hypotension) 14%
+    - 周邊水腫 (Peripheral edema) 52%
+    - 靜脈炎 (Phlebitis) 11%
+  - 皮膚：
+    - 脫髮 (Alopecia) 14%
+    - 多汗 (Diaphoresis) 20%
+    - 搔癢 (Pruritus) 20%
+    - 皮膚變化 (Skin changes) 14%
+    - 皮疹 (Skin rash) 54%
+    - 皮膚乾燥症 (Xeroderma) ≤77%
+  - 內分泌與代謝：
+    - 高膽固醇血症 (Hypercholesterolemia) ≤60%
+    - 高三酸甘油酯血症 (Hypertriglyceridemia) ≤60%
+    - 體重增加 (Weight gain) 23%
+    - 體重減輕 (Weight loss) 17%
+  - 胃腸道：
+    - 腹脹 (Abdominal distention) 11%
+    - 腹痛 (Abdominal pain) 30%
+    - 便秘 (Constipation) 17%
+    - 腹瀉 (Diarrhea) 17%
+    - 口乾 (Dry mouth) 20%
+    - 消化不良 (Dyspepsia) 11%
+    - 腸胃道出血 (GI hemorrhage) 11%
+    - 黏膜炎 (Mucositis) 15%
+    - 噁心 (Nausea) 57%
+    - 嘔吐 (Vomiting) 33%
+  - 泌尿生殖：
+    - 腎功能不全 (Renal insufficiency) 11%
+  - 血液與腫瘤：
+    - 彌漫性血管內凝血 (Disseminated intravascular coagulation) 17%
+    - 分化症候群 (Differentiation syndrome) 26%
+    - 出血 (Hemorrhage) 11%
+    - 白血球增多症 (Leukocytosis) 47%
+  - 肝臟：
+    - 肝毒性 (Hepatotoxicity) 12%
+    - 血清轉氨酶升高 (Increased serum transaminases) 50%
+  - 神經系統：
+    - 焦慮 (Anxiety) 14%
+    - 寒顫 (Chills) 19%
+    - 意識混亂 (Confusion) 11%
+    - 憂鬱 (Depression) 12%
+    - 頭暈 (Dizziness) 20%
+    - 疲勞 (Fatigue) 63%
+    - 發燒 (Fever) 60%
+    - 頭痛 (Headache) 60%
+    - 失眠 (Insomnia) 14%
+    - 不適 (Malaise) 14%
+    - 疼痛 (Pain) 24%
+    - 感覺異常 (Paresthesia) 12%
+    - 戰慄 (Rigors) 16%
+    - 癲癇發作 (Seizure) 11%
+  - 神經肌肉與骨骼：
+    - 關節痛 (Arthralgia) 20%
+    - 背痛 (Back pain) 19%
+    - 骨痛 (Bone pain) 32%
+    - 肌肉痛 (Myalgia) 14%
+  - 眼部：
+    - 視覺障礙 (Visual disturbance) 17%
+  - 呼吸道：
+    - 咳嗽 (Cough) 26%
+    - 呼吸困難 (Dyspnea) 27%
+    - 鼻出血 (Epistaxis) 23%
+    - 胸腔積液 (Pleural effusion) 20%
+    - 呼吸窘迫 (Respiratory distress) 18%
+    - 喉嚨痛 (Sore throat) 15%
+    - 上呼吸道感染 (Upper respiratory tract infection) 13%
+    - 喘鳴 (Wheezing) 11%
+
+- 其他已報告或臨床重要不良反應：
+  - 顱內高壓／假性腦瘤 (pseudotumor cerebri)
+  - 重度肝毒性
+  - 心肌功能受損
+  - 多器官衰竭
+  - 血栓與出血事件
+  - 肌炎 (Myositis)
+  - 血管炎 (Vasculitis)
+  - 史威特症候群 (Sweet syndrome)
+  - 胰臟炎 (Pancreatitis)
+  - 高鈣血症 (Hypercalcemia)
+
+## 禁忌症／警語
+
+### 禁忌症
+
+- 對 tretinoin、其他 retinoids，或製劑任一成分過敏（如 dyspnea、face edema、pruritus、rash）。
+- 加拿大仿單另列之禁忌症（美國仿單未列）：
+  - 懷孕
+  - 哺乳
+  - 有懷孕風險且無法遵循必要避孕措施之患者
+  - 與 vitamin A、tetracyclines 或其他 retinoids 併用
+
+### 警語／注意事項
+
+- 與不良反應相關之疑慮
+  - 分化症候群：
+    - 約四分之一接受 tretinoin 之 APL 患者會發生，可危及生命或致死。
+    - 臨床表現包括 fever、dyspnea、acute respiratory distress、weight gain、肺部浸潤影像、pleural/pericardial effusions、edema，以及 hepatic、renal、或 multiorgan failure。
+    - 可伴隨心肌收縮功能下降與 episodic hypotension。
+    - 一旦懷疑，應立即以高劑量 corticosteroids 治療並監測。
+  - 顱內高壓／pseudotumor cerebri：
+    - 可能發生，尤其於兒科患者較常見。
+    - 若出現嚴重 headache、nausea/vomiting、視覺異常等徵象，應立即評估。
+  - Hepatotoxicity：
+    - 治療期間可出現 transaminases 上升與其他肝功能異常。
+  - Hyperleukocytosis：
+    - 可於治療過程中發生。
+  - 皮膚與黏膜反應：
+    - 可能出現 dryness、rash、irritation 等 retinoid-related 反應。
+- 疾病相關疑慮
+  - APL 患者本身即可能有 coagulopathy、bleeding、infection、cardiopulmonary complications，治療期間需嚴密監測。
+- 特殊族群
+  - 懷孕：
+    - 具明顯胎兒風險。
+  - 哺乳：
+    - 不建議於治療期間及停藥後短期內哺乳。
+- 併用藥物
+  - 應避免與 vitamin A、其他 retinoids、tetracyclines 等增加毒性之藥物併用。
+  - 具 CYP3A4 等代謝相關交互作用之藥物，應審慎評估。
+
+## 院內調製製劑
+
+- 廠商不建議將 capsule 內容物用於 extemporaneous suspension 製備，原因包括曾有低 plasma levels 之報告。
+- 但文獻中曾有無法整粒吞服患者之有限案例：
+  - 以 nasogastric tube 給藥時，可剪開 capsule，將部分內容物吸入玻璃 syringe。
+  - 殘留內容物可與 soybean oil 混合後再吸入 syringe 給藥。
+- 亦有報告將 tretinoin capsule 與溫牛奶或高脂食物混合後給藥。
+- 上述做法之吸收與暴露量可能變異，應審慎評估。
+
+## 給藥方式
+
+### 成人
+
+#### 給藥方式
+
+- 口服：
+  - 隨餐給藥。
+  - 以水整粒吞服；勿咀嚼、溶解、或打開 capsule。
+- 亦曾有將 capsule 內容物擠於舌下給藥之報告。
+- 經 feeding tube 給藥時曾報告 plasma concentrations 偏低；可能與吸收不良或缺乏賦形劑（如 soybean oil）有關。
+
+## 危害性藥物處理注意事項
+
+- 屬 hazardous agent（NIOSH 2024 [table 2]）。
+- 應採適當 precautions 處理收貨、操作、儲存、調配、分裝、運送、給藥與廢棄。
+- 應遵循 NIOSH、USP <800> 建議及機構內部政策/程序，採取適當 containment strategy。
+- 備註：
+  - 部分機構可對某些 hazardous drugs 進行 risk assessment，以決定是否可採替代 handling 與 containment strategies。
+  - 應依機構政策執行。
+
+## 儲存／安定性
+
+- 儲存於 20°C 至 25°C（68°F 至 77°F）。
+- 允許短暫偏移至 15°C 至 30°C（59°F 至 86°F）。
+- 瓶蓋應緊閉。
+- 避光保存。
+
+## 適應症
+
+### 核准適應症
+
+#### 核准適應症
+
+- 急性前骨髓性白血病（remission induction）：
+  - 用於成人與 ≥1 歲兒科患者之 APL 誘導緩解。
+  - 需具有 t(15;17) translocation 及/或 PML/RARα gene expression。
+  - 適用於對 anthracycline chemotherapy refractory、anthracycline 治療後 relapse，或無法使用 anthracycline-based chemotherapy 之患者。
+
+### 仿單外使用：成人
+
+#### 仿單外使用：成人
+
+- Acute promyelocytic leukemia（consolidation therapy）
+- Acute promyelocytic leukemia（high-risk patients 之 maintenance therapy）
+
+## 用藥安全議題
+
+- Tretinoin 亦稱 all-trans retinoic acid（ATRA），應避免與其他 retinoids 混淆。
+
+## 交互作用
+
+### 代謝／運輸影響
+
+- 為以下代謝途徑之 substrate：
+  - CYP2C8（Minor）
+  - CYP2C9（Minor）
+  - CYP2E1（Minor）
+  - CYP3A4（Major）
+  - UGT2B7
+- 備註：
+  - Major/Minor substrate status 係依臨床上具意義之 drug interaction potential 指定。
+- 可誘導：
+  - CYP2E1（Weak）
+
+## 生殖、懷孕、哺乳
+
+### 生殖相關考量
+
+#### 生殖相關考量
+
+- 對可能懷孕之患者，使用前應確認 pregnancy status。
+- 應於開始 tretinoin capsules 前 1 週內完成 serum 或 urine pregnancy test，敏感度至少 50 mIU/mL。
+- 治療期間與停藥後 1 個月內，必須同時使用兩種可靠避孕方式。
+- 即使有不孕病史，也應避孕；已行 hysterectomy 者除外。
+- 其伴侶可能懷孕之患者，治療期間及最後一劑後 1 週內亦應使用有效避孕。
+
+### 懷孕考量
+
+#### 懷孕考量
+
+- 曾有報告於母體懷孕期間使用標準劑量 tretinoin 後，新生兒出生時可於血清中測得 tretinoin。
+- 依作用機轉與動物生殖研究資料，子宮內暴露可能造成胎兒傷害。
+- Retinoids 可造成重大胎兒異常與自然流產，其中部分可致死。
+- 已報告之先天異常包括：
+  - 顏面畸形
+  - Cleft palate
+  - 眼部、外耳、thymus、great vessels 異常
+  - 中樞神經系統、肌肉骨骼、耳部與甲狀旁腺異常
+- 懷孕期間應避免使用。
+
+### 哺乳考量
+
+#### 哺乳考量
+
+- 尚不清楚 tretinoin 是否分泌至乳汁。
+- 因可能對哺乳嬰兒造成嚴重不良反應，廠商建議於治療期間及最後一次 tretinoin 給藥後 1 週內停止哺乳。
+
+## 飲食考量
+
+- Capsule 含 soybean oil。
+
+## 監測
+
+### 監測參數
+
+#### 監測參數
+
+- Bone marrow cytology，以確認 t(15;17) translocation 或 PML/RARα fusion protein。
+  - 不應為等待結果而延後開始治療。
+- CBC with differential
+- Coagulation profile
+- Liver function tests
+  - 基線及臨床需要時監測
+- Fasting triglyceride 與 cholesterol
+  - 基線及治療期間定期監測
+- Serum creatinine
+  - 基線監測
+- 嚴密監測分化症候群徵象：
+  - Volume status
+  - Pulmonary status
+  - Temperature
+  - Respiration
+  - 若發生分化症候群，應開始血流動力學監測
+- 監測顱內高壓症狀：
+  - Severe headache
+  - Nausea/vomiting
+  - Visual changes
+- 監測出血、感染、血栓、心肺併發症及 leukocytosis。
+
+## 藥理學
+
+### 作用機轉
+
+#### 作用機轉
+
+- Tretinoin 似乎可結合一個或多個核內受體。
+- 可降低 APL cells 之增殖並促進其分化。
+- 初期可促使原始 promyelocytes 成熟，並以正常造血細胞重新填補骨髓與周邊血液，進而達成 complete remission。
+
+### 藥物動力學
+
+#### 藥物動力學
+
+- 備註：
+  - 已報告兒科數值與成人相近。
+- 吸收：
+  - Well absorbed。
+- 蛋白結合：
+  - >95%，主要與 albumin 結合。
+- 代謝：
+  - 肝臟代謝，經 CYP3A4、CYP2C8、CYP2E，並經 UGT2B7 glucuronidation。
+  - 具 auto metabolism。
+  - 代謝物包括：
+    - 9-cis-retinoic acid
+    - 13-cis-retinoic acid
+    - 4-oxo trans-retinoic acid
+    - 4-oxo cis retinoic acid
+    - 4-oxo trans retinoic acid glucuronide
+  - 其中 4-oxo retinoic acid 與 4-oxo trans retinoic acid glucuronide 之藥理活性約為母藥之三分之一。
+- Bioavailability：
+  - Absolute bioavailability 未知。
+- Half-life：
+  - 消除半衰期短，且隨重複給藥可因自體代謝而改變。
+- 排除：
+  - 主要經尿液與糞便排除代謝物。
+
+## 病人衛教重點
+
+### 病人衛教重點
+
+- （更多資訊見 "All-trans retinoic acid (systemic tretinoin): Patient drug information"）
+- 此藥用於何種情況？
+  - 用於治療某一種類型之白血病。
+- 所有藥物都可能造成副作用；但很多人不會發生副作用，或僅有輕微副作用。
+- 若下列副作用或其他任何副作用造成困擾、持續不退，或情況嚴重，應聯絡醫師或立即就醫：
+  - 便秘、腹瀉、嘔吐、胃部不適
+  - 掉髮
+  - Flushing
+  - 頭痛
+  - 胃痛
+  - 骨痛
+  - 皮膚刺激
+  - 頭暈、疲倦或虛弱
+- 若出現以下嚴重警訊，應立即就醫：
+  - 發燒
+  - 呼吸困難
+  - 體重快速增加
+  - 胸痛
+  - 嚴重頭痛
+  - 視力改變
+  - 明顯出血
+  - 嚴重皮疹
+  - 黃疸
+- 用藥指導：
+  - 隨餐服用。
+  - 整粒吞服，不要咀嚼、溶解或打開 capsule。
+  - 若漏服，依既定規則處理，不要自行加倍服用。
+  - 治療期間應確實避孕，並依醫囑接受抽血與其他監測。
+
+## 參考來源
+
+- UpToDate Lexidrug
+- Topic 9262 Version 951.0
+
+
